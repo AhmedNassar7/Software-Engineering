@@ -1,4 +1,4 @@
-# Software Engineering Community
+# Software Engineering
 
 👋 Welcome to the Software Engineering Community! 
 
