@@ -6,6 +6,9 @@
 
 > Let's spread the benefit and usefulness to others by `giving a star for this repo` and `sharing with your friends` ⭐
 
+> Keep track of software engineering opportunities in our [Discord Server](https://discord.gg/rSBweVR2Uc) and Enjoy your time 🎉
+
+
 ---
 ## Contents
 > [Contribution](#contributions)
