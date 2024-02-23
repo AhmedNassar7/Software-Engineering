@@ -1,6 +1,7 @@
 # Summer Internships 2024
 
 🚀 Use this repo to share and keep track of software engineering internships for **Summer 2024**. 
+
 ⭐ Don't forget to share with your friends to help them and give this repo a star to reach for others. 
 
 <!---
