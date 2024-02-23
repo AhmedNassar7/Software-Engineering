@@ -8,14 +8,18 @@
 
 ---
 ## Contents
-  > [Contribution](#contribution)
+> [Contribution](#contributions)
 
-  > [Internships](#internships)
+> [Internships](#internships)
 
-  > [Open-Source Contributions](#open-source-contributions)
+> [Open-Source Contributions](#open-source-contributions)
+
+> [Hackathons](#hackathons)
+
+>[Events](#events)
 
 ---
-## Contribution
+## Contributions
 > Don't hesitate to reach me if you have new or additional information for the community by making a `Pull Request`.
 <!-- Fill this Google [form]() -->
 
@@ -33,11 +37,11 @@
 ## Open-Source Contributions
 > [Google Summer of Code](#gsoc)
 
-> [Internships](#internships)
+> [MLH Fellowship](#mlh-fellowship)
 
-> [Open-Source Contributions](#open-source-contributions)
+> [Summer of Bitcoin](#summer-of-bitcoin)
 
-## GSoC
+### GSoC
 > [Site](https://summerofcode.withgoogle.com/)
 
 > [Timeline](https://developers.google.com/open-source/gsoc/timeline)
@@ -53,6 +57,28 @@
 >- [First Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic Video)
 >- [Second Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic Video)
 >- [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
+
+### MLH Fellowship
+> [Site](https://fellowship.mlh.io/)
+
+> [MLH Fellowship Discord Server](https://discord.gg/mlh)
+
+### Summer of Bitcoin
+> [Site](https://www.summerofbitcoin.org/)
+
+
+---
+## Hackathons
+| Company | Location | Application | Status |
+| ------- | -------- | ------------| ------ |
+| _VOIS | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | Open |
+
+---
+## Events
+| Company | Location | Application | Status |
+| ------- | -------- | ------------| ------ |
+| Egypt Career Summit | Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Open |
+| _VOIS | Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Open |
 
 <!---
 <div align="center">
