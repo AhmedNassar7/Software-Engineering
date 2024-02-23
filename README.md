@@ -2,7 +2,7 @@
 
 🚀 Use this repo to share and keep track of software engineering internships for **Summer 2024**. 
 
-⭐ Don't forget to share with your friends to help them and give this repo a star to reach for others. 
+⭐ Don't forget to give this repo a star and share it with your friends to help them and reach for others.
 
 <!---
 <div align="center">
