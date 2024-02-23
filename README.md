@@ -49,6 +49,11 @@
 >- [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
 >- [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
 
+> Videos enhance your knowledge in GSoC:
+>- [First Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic Video)
+>- [Second Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic Video)
+>- [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
+
 <!---
 <div align="center">
 	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
