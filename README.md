@@ -1,10 +1,10 @@
 # Software Engineering
 
-👋 Welcome to the `Software Engineering Community`! 
+> Welcome to the `Software Engineering Community` 👋
 
-🚀 This repository is a central hub and gateway to Software Engineering opportunities, including `Internships`, `Open-Source Contributions`, `Hackathons`, and `Events`.
+> This repository is a central hub and gateway to Software Engineering opportunities, including `Internships`, `Open-Source Contributions`, `Hackathons`, and `Events` 🚀
 
-⭐ Let's spread the benefit and usefulness to others by `giving a star for this repo` and `sharing with your friends`.
+> Let's spread the benefit and usefulness to others by `giving a star for this repo` and `sharing with your friends` ⭐
 
 ---
 ## Contents
