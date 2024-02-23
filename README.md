@@ -64,8 +64,6 @@
 ### MLH Fellowship
 > [Site](https://fellowship.mlh.io/)
 
-> [MLH Fellowship Discord Server](https://discord.gg/mlh)
-
 ### Summer of Bitcoin
 > [Site](https://www.summerofbitcoin.org/)
 
