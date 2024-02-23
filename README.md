@@ -1,6 +1,6 @@
 # Summer Internships 2024
 
-> Use this repo to share and keep track of software engineering internships for **Summer 2024**.
+🚀 Use this repo to share and keep track of software engineering internships for **Summer 2024**. 
 
 <!---
 <div align="center">
