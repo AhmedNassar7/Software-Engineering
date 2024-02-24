@@ -42,6 +42,7 @@
 | Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
+| Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 
 
 ---
