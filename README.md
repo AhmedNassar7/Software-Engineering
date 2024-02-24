@@ -2,7 +2,7 @@
 
 🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, and **Open-Source Contributions**. 
 
-⭐ Don't forget to **give this repo a star** and **share it with your friends** to help and reach out to others and encourage me and keep sharing useful content.
+⭐ Don't forget to **give this repo a star** and **share it with your friends** to help and reach out to others and give me some encouragement to keep sharing useful content.
 
 🌐 Join our community on [Discord](https://discord.gg/rSBweVR2Uc) now to keep track the opportunities. 
 
