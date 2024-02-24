@@ -41,6 +41,8 @@
 | Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | Open |
 | Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
+| LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
+
 
 ---
 ## Open-Source Contributions
