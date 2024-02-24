@@ -27,7 +27,7 @@
  If you have new or additional information related to Software Engineering opportunities (Choose One):
 - Make a Pull Request.
 - Reach Out Me.
-- Fill this Google [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
+- Fill this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
 
 ---
 ## Internships
