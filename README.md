@@ -13,19 +13,19 @@
 
 ---
 ## Contents
-> [Contribution](#contributions)
-
-> [Internships](#internships)
-
-> [Open-Source Contributions](#open-source-contributions)
-
-> [Hackathons](#hackathons)
-
-> [Events](#events)
+- [Contribution](#contribution)
+  
+- [Internships](#internships)
+  
+- [Open-Source Contributions](#open-source-contributions)
+  
+- [Hackathons](#hackathons)
+  
+- [Events](#events)
 
 
 ---
-## Contributions
+## Contribution
  If you have new or additional information related to Software Engineering opportunities (Choose One):
 - Make a Pull Request.
 - Reach Out Me.
@@ -44,34 +44,31 @@
 
 ---
 ## Open-Source Contributions
-> [Google Summer of Code](#gsoc)
+- [Google Summer of Code](#google-summer-of-code)
+  
+- [MLH Fellowship](#mlh-fellowship)
+  
+- [Summer of Bitcoin](#summer-of-bitcoin)
 
-> [MLH Fellowship](#mlh-fellowship)
 
-> [Summer of Bitcoin](#summer-of-bitcoin)
+## Google Summer of Code
+- [Site](https://summerofcode.withgoogle.com/)
+- [Timeline](https://developers.google.com/open-source/gsoc/timeline)
+- [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
+- Articles describe in detail GSoC:
+  - [First Article](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity#heading-very-important)
+  - [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
+  - [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
+- Videos enhance your knowledge in GSoC:
+  - [First Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic Video)
+  - [Second Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic Video)
+  - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
 
-### Google Summer of Code
-> [Site](https://summerofcode.withgoogle.com/)
+## MLH Fellowship
+- [Site](https://fellowship.mlh.io/)
 
-> [Timeline](https://developers.google.com/open-source/gsoc/timeline)
-
-> [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
-
-> Articles describe in detail GSoC:
->- [First Article](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity#heading-very-important)
->- [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
->- [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
-
-> Videos enhance your knowledge in GSoC:
->- [First Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic Video)
->- [Second Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic Video)
->- [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
-
-### MLH Fellowship
-> [Site](https://fellowship.mlh.io/)
-
-### Summer of Bitcoin
-> [Site](https://www.summerofbitcoin.org/)
+## Summer of Bitcoin
+- [Site](https://www.summerofbitcoin.org/)
 
 
 ---
