@@ -4,7 +4,7 @@
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
 
-🌐 Keep track of software engineering opportunities on our [Discord Server](https://discord.gg/rSBweVR2Uc). 
+🌐 Join our community on [Discord](https://discord.gg/rSBweVR2Uc) now. 
 
 🎉 Enjoy your time and best of luck!
 
