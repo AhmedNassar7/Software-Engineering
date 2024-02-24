@@ -76,6 +76,7 @@
 | Company | Location | Application | Status |
 | ------- | -------- | ------------| ------ |
 | _VOIS | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | Open |
+| Dell | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Closed |
 
 ---
 ## Events
@@ -83,20 +84,3 @@
 | ------- | -------- | ------------| ------ |
 | Egypt Career Summit | Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Open |
 | _VOIS | Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Open |
-
-<!---
-<div align="center">
-	<h3>😮‍💨 Tired of checking every day for new internships? 😩</h3>
-	<p>
-			A community member made ⬇️ <strong>SWE List</strong> ⬇️ that sends you email updates for this repo 
-			<br>
-			<div>
-			<a href="">
-          <img src="https://i.imgur.com/n8ZX4tt.png" width="400" alt="Email">
-        </a>
-			</div>
-		<sub><i>Share any other cool projects you make using the repo, and we might give you a shoutout!</i></sub>
-	</p>
-</div>
---->
-
