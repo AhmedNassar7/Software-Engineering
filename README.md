@@ -47,7 +47,7 @@
 
 > [Summer of Bitcoin](#summer-of-bitcoin)
 
-### GSoC
+### Google Summer of Code
 > [Site](https://summerofcode.withgoogle.com/)
 
 > [Timeline](https://developers.google.com/open-source/gsoc/timeline)
