@@ -20,7 +20,7 @@
 
 > [Hackathons](#hackathons)
 
->[Events](#events)
+> [Events](#events)
 
 ---
 ## Contributions
