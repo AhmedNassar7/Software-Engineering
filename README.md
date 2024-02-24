@@ -10,6 +10,7 @@
 
 🎉 Enjoy your time and best of luck!
 
+
 ---
 ## Contents
 > [Contribution](#contributions)
@@ -21,6 +22,7 @@
 > [Hackathons](#hackathons)
 
 > [Events](#events)
+
 
 ---
 ## Contributions
@@ -38,6 +40,7 @@
 | Orange Digital Center | | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | Open |
 | Apple | Software Development Engineer Internship | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | Open |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | Open |
+
 
 ---
 ## Open-Source Contributions
@@ -77,6 +80,7 @@
 | ------- | -------- | ------------| ------ |
 | _VOIS | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | Open |
 | Dell | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
+
 
 ---
 ## Events
