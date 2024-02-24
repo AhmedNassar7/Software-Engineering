@@ -76,7 +76,7 @@
 | Company | Location | Application | Status |
 | ------- | -------- | ------------| ------ |
 | _VOIS | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | Open |
-| Dell | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Closed |
+| Dell | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
 
 ---
 ## Events
