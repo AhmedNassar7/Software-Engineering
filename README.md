@@ -8,7 +8,7 @@
 
 🌐 Keep track of software engineering opportunities on our [Discord Server](https://discord.gg/rSBweVR2Uc). 
 
-🎉 Enjoy your time and Good Luck!
+🎉 Enjoy your time and best of luck!
 
 ---
 ## Contents
@@ -84,3 +84,8 @@
 | ------- | -------- | ------------| ------ |
 | Egypt Career Summit | Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Open |
 | _VOIS | Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Open |
+
+---
+🙏 I hope you find this repo helpful and useful.
+📄 Your feedback is appreciated, You can do that in this [Form](https://forms.gle/BpCSdEoUTnncZjZUA).   
+🤍 Thank you for your interest and support, Good Luck!
