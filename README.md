@@ -90,4 +90,4 @@
 
 📄 Your feedback is appreciated, You can do that in this [Form](https://forms.gle/BpCSdEoUTnncZjZUA).  
 
-🤍 Thank you for your interest and support, Good Luck!
+🤍 Thank you for your interest and support and Good Luck!
