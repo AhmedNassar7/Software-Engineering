@@ -4,8 +4,6 @@
 
 ⭐ Don't forget to **give this repo a star**, **share it with your friends**, and **follow me** for more content.
 
-🌐 Join our community on [Discord](https://discord.gg/rSBweVR2Uc) now and keep track of the new opportunities. 
-
 🎉 Enjoy your time and best of luck!
 
 
