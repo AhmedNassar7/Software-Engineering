@@ -71,6 +71,7 @@
 
 ## MLH Fellowship
 - [Apply](https://fellowship.mlh.io/)
+- [MLH Discord Server](https://discord.gg/mlh)
 
 ## Summer of Bitcoin
 - [Apply](https://www.summerofbitcoin.org/)
