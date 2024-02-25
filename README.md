@@ -70,10 +70,10 @@
   - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
 
 ## MLH Fellowship
-- [Site](https://fellowship.mlh.io/)
+- [Apply](https://fellowship.mlh.io/)
 
 ## Summer of Bitcoin
-- [Site](https://www.summerofbitcoin.org/)
+- [Apply](https://www.summerofbitcoin.org/)
 
 
 ---
