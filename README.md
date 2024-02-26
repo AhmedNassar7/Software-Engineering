@@ -36,6 +36,7 @@
 | Orange Digital Center | AI & C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | Open |
 | Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
+| CrossWorkers | .Net Developer - Internship | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs/2889066-net-developer-internship) | Open |
 | Apple | Software Development Engineer Internship | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | Open |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | Open |
 | Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | Open |
