@@ -88,10 +88,11 @@
 
 ---
 ## Hackathons
-| Company | Location | Application | Status |
-| ------- | -------- | ------------| ------ |
-| _VOIS | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | 🔒 |
-| Dell | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
+| Company | Role | Location | Application | Status |
+| ------- | ---- | -------- | ------------| ------ |
+| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.facebook.com/share/p/mDMKiQ4iTk3fwW98/?mibextid=oFDknk) | Open |
+| _VOIS | Embracing AI in Business | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | 🔒 |
+| Dell | Computer Science, Big Data, Security, and Machine Learning | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
 
 
 ---
