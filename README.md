@@ -41,8 +41,9 @@
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | Open |
 | Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | Open |
 | Databricks  | IT Software Engineering Intern 2024 | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | Open |
-| TikTok  | Machine Learning Engineer Intern 2024 | Worldwide | [Apply](https://careers.tiktok.com/position/7337935047113394458/detail) | Open |
+| TikTok | Machine Learning Engineer Intern 2024 | Worldwide | [Apply](https://careers.tiktok.com/position/7337935047113394458/detail) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
+| NVIDIA | Cloud Infrastructure Engineering Intern | Worldwide | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | Open |
 | Lenovo | Software Security Engineer Intern - Summer 2024 | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | Open |
 | Tesla | Internship - Fall 2024 | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
 | Notion | Software Engineer Intern, Android - Summer 2024 | USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | Open |
@@ -96,6 +97,7 @@
 | ------- | -------- | ------------| ------ |
 | Egypt Career Summit | Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Open |
 | _VOIS | Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Open |
+| Amazon | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Open |
 
 ---
 🙏 I hope you find this repo helpful and useful.
