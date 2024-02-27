@@ -36,6 +36,7 @@
 | ------- | ---- | -------- | ------------| ------ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | Open |
 | Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Open |
+| Siemens | Long-Term Internship Application | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | Orange Digital Center | AI & C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | Open |
 | Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
