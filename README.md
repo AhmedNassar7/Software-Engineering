@@ -90,7 +90,7 @@
 ## Hackathons
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.facebook.com/share/p/mDMKiQ4iTk3fwW98/?mibextid=oFDknk) | Open |
+| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Open |
 | _VOIS | AI in Business | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
 
