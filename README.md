@@ -2,7 +2,9 @@
 
 🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, and **Open-Source Contributions**. 
 
-⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach to others.
+⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
+
+🌐 Join our community on [Discord](https://discord.gg/ETHweCBBQF) to keep track with new and updated opportunities.
 
 🎉 Enjoy your time and best of luck!
 
@@ -26,6 +28,7 @@
 - Make a Pull Request.
 - Reach Out Me.
 - Fill this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
+
 
 ---
 ## Internships
@@ -98,6 +101,7 @@
 | Egypt Career Summit | Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Open |
 | _VOIS | Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Open |
 | Amazon | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Open |
+
 
 ---
 🙏 I hope you find this repo helpful and useful.
