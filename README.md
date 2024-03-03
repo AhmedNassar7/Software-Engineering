@@ -43,6 +43,7 @@
 | CrossWorkers | .Net Developer - Internship | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs/2889066-net-developer-internship) | Open |
 | Meta | Software Engineer, Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
 | Meta | Software Engineer (University Grad) | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
+| IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Apple | Software Development Engineer Internship | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | Open |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | Open |
 | Careem | Software Engineer I - University Hiring 2024 | Islamabad, Pakistan | [Apply](https://boards.greenhouse.io/careem/jobs/7107610002?gh_jid=7107610002) | Open |
