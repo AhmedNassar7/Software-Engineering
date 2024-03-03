@@ -39,6 +39,7 @@
 | Siemens | Long-Term Internship Application | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
+| Procore | Intern, DevOps Engineer | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | Open |
 | CrossWorkers | .Net Developer - Internship | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs/2889066-net-developer-internship) | Open |
 | Meta | Software Engineer, Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
 | Meta | Software Engineer (University Grad) | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
