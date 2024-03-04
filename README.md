@@ -39,18 +39,16 @@
 | Siemens | Long-Term Internship Application | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
 | Procore | Intern, DevOps Engineer | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | Open |
-| CrossWorkers | .Net Developer - Internship | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs/2889066-net-developer-internship) | Open |
-| Atomica.ai | C++ Software Engineer – Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
-| Meta | Software Engineer, Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
-| Meta | Software Engineer, University Grad | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
+| CrossWorkers | .Net Developer Internship | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs/2889066-net-developer-internship) | Open |
+| Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
+| Meta | Software Engineer Internship | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
+| Meta | Software Engineer - University Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Apple | Software Development Engineer Internship | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | Open |
-| Careem | Software Engineer I - University Hiring | Islamabad, Pakistan | [Apply](https://boards.greenhouse.io/careem/jobs/7107610002?gh_jid=7107610002) | Open |
 | Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | Open |
 | Databricks  | IT Software Engineering Intern | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | Open |
 | TikTok | Machine Learning Engineer Intern | Worldwide | [Apply](https://careers.tiktok.com/position/7337935047113394458/detail) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
-| NVIDIA | Cloud Infrastructure Engineering Intern | Worldwide | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | Open |
 | Lenovo | Software Security Engineer Intern | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | Open |
 | Tesla | Internship | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
 | Notion | Software Engineer Intern - Android | USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | Open |
@@ -60,6 +58,7 @@
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
 | Intel | AI Software Engineering Intern | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
+| NVIDIA | Cloud Infrastructure Engineering Intern | Worldwide | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
 
 
 ---
