@@ -55,7 +55,7 @@
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | Orange Digital Center | AI & C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
-| Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | Open |
+| Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
 | Intel | AI Software Engineering Intern | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | NVIDIA | Cloud Infrastructure Engineering Intern | Worldwide | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
