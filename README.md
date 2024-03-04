@@ -64,6 +64,8 @@
 ---
 ## Open-Source Contributions
 - [Google Summer of Code](#google-summer-of-code)
+
+- [GirlScript Summer of Code](#girlscript-summer-of-Code)
   
 - [MLH Fellowship](#mlh-fellowship)
   
@@ -82,6 +84,9 @@
   - [First Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic Video)
   - [Second Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic Video)
   - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English Playlist)
+
+## GirlScript Summer of Code
+- [Apply](https://gssoc.girlscript.tech/#)
 
 ## MLH Fellowship
 - [Apply](https://fellowship.mlh.io/)
