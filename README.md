@@ -45,7 +45,6 @@
 | Meta | Software Engineer - University Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Databricks  | IT Software Engineering Intern | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | Open |
-| TikTok | Machine Learning Engineer Intern | Worldwide | [Apply](https://careers.tiktok.com/position/7337935047113394458/detail) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
 | Lenovo | Software Security Engineer Intern | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | Open |
 | Tesla | Internship | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
