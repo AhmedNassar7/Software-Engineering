@@ -109,6 +109,7 @@
 ## Events
 | Company | Role | Location | Application | Date | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
+| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | May 14 | Open |
 | Amazon | AWS Summit | Dubai | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | May 29 | Open |
 | HackerRank | AI Day | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 14 March | Open |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | Mar 9 | 🔒 |
