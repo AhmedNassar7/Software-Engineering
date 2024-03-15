@@ -38,7 +38,6 @@
 | Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Open |
 | Siemens | Long-Term Internship Application | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
-| Procore | DevOps Engineer Intern | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | Open |
 | CrossWorkers | Internships | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs?split_view=true&query=internship) | Open |
 | Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Meta | Software Engineer Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
@@ -51,6 +50,7 @@
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | Orange Digital Center | AI & C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
+| Procore | DevOps Engineer Intern | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
 | Apple | Software Development Engineer Intern | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
 | Udemy | Software Engineering Intern - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
