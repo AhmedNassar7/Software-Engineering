@@ -97,17 +97,17 @@
 
 ---
 ## Hackathons
-| Company | Role | Location | Application | Status |
-| ------- | ---- | -------- | ------------| ------ |
-| Intel | HooHacks | University of Virginia | [Apply](https://hoohacks.io/?linkId=100000243969935) | Open |
-| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | 🔒 |
-| _VOIS | AI in Business | Egypt | [Apply](https://hackathon.tvois.vodafone.com/) | 🔒 |
-| Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | 🔒 |
+| Company | Role | Location | Application | Deadline | Status |
+| ------- | ---- | -------- | ------------| ---- | ------ |
+| Intel | HooHacks | University of Virginia | [Apply](https://hoohacks.io/?linkId=100000243969935) | Mar 22 | Open |
+| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
+| _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
+| Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
 
 
 ---
 ## Events
-| Company | Role | Location | Application | Date | Status |
+| Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | May 14 | Open |
 | Amazon | AWS Summit Dubai | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | May 29 | Open |
