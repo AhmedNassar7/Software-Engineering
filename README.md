@@ -6,7 +6,7 @@
 
 <!-- 🌐 Join our community on [Discord](https://discord.gg/ETHweCBBQF) to keep track with new and updated opportunities. -->
 
-🎉 Enjoy your time and best of luck!
+🎉 Enjoy your time and best of luck :)
 
 
 ---
