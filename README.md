@@ -43,7 +43,9 @@
 | Meta | Software Engineer Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
 | Meta | Software Engineer - University Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
+| GitHub | Software Engineer Intern | Remote, USA | [Apply](https://www.github.careers/careers-home/jobs/2787/job?utm_source=MarkBenliyan&iis=Job%20Board&iisn=Mark) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
+| Lenovo | Solutions Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | Open |
 | Tesla | Internship | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
 | Notion | Software Engineer Intern - Android | USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | Open |
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
