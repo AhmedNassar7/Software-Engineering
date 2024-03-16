@@ -50,7 +50,7 @@
 | Notion | Software Engineer Intern - Android | USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | Open |
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
-| Orange Digital Center | AI & C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
+| Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Intern | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
 | Apple | Software Development Engineer Intern | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
