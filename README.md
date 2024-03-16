@@ -41,7 +41,7 @@
 | CrossWorkers | Internships | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs?split_view=true&query=internship) | Open |
 | Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Meta | Software Engineer Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
-| ↳ | Software Engineer - University Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
+| ↳ | Software Engineer - Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | GitHub | Software Engineer Intern | Remote, USA | [Apply](https://www.github.careers/careers-home/jobs/2787/job?utm_source=MarkBenliyan&iis=Job%20Board&iisn=Mark) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
