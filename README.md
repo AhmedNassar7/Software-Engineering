@@ -40,6 +40,8 @@
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
 | CrossWorkers | Internships | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs?split_view=true&query=internship) | Open |
 | Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
+| Google | Software Engineer Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
+| ↳ | Engineering Program (STEP) Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/99402211391349446-student-training-in-engineering-program-step-intern-2024) | Open |
 | Meta | Software Engineer Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
 | ↳ | Software Engineer - Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
