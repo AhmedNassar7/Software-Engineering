@@ -41,6 +41,7 @@
 | CrossWorkers | Internships | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs?split_view=true&query=internship) | Open |
 | Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Google | Software Engineer Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
+| ↳ | Hardware Engineering Intern | Taiwan | [Apply](https://www.google.com/about/careers/applications/jobs/results/90336321676944070-hardware-engineering-intern-2024) | Open |
 | ↳ | Engineering Program (STEP) Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/99402211391349446-student-training-in-engineering-program-step-intern-2024) | Open |
 | Meta | Software Engineer Intern | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
 | ↳ | Software Engineer - Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
