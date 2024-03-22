@@ -37,7 +37,6 @@
 | Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Open |
 | Siemens | Long-Term Internship Application | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
-| CrossWorkers | Internships | Egypt | [Apply](https://careers.crossworkers-egypt.com/jobs?split_view=true&query=internship) | Open |
 | Atomica.ai | C++ Software Engineer Internship | Remote | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Google | Software Engineer Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
 | ↳ | Hardware Engineering Intern | Taiwan | [Apply](https://www.google.com/about/careers/applications/jobs/results/90336321676944070-hardware-engineering-intern-2024) | Open |
