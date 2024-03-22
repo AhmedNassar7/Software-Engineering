@@ -43,8 +43,6 @@
 | Google | Software Engineer Internship | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
 | ↳ | Hardware Engineering Internship | Taiwan | [Apply](https://www.google.com/about/careers/applications/jobs/results/90336321676944070-hardware-engineering-intern-2024) | Open |
 | ↳ | Engineering Program Internship - STEP | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/99402211391349446-student-training-in-engineering-program-step-intern-2024) | Open |
-| Meta | Software Engineer Internship | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | Open |
-| ↳ | Software Engineer - Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Booking | Graduate Software Engineering Programme | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | Open |
 | GitHub | Software Engineer Internship | Remote, USA | [Apply](https://www.github.careers/careers-home/jobs/2787/job?utm_source=MarkBenliyan&iis=Job%20Board&iisn=Mark) | Open |
@@ -59,6 +57,8 @@
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
+| Meta | Software Engineer Internship | Worldwide | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
+| ↳ | Software Engineer - Graduate | Worldwide | [Apply](https://www.metacareers.com/jobs/757084709499347/) | 🔒 |
 | Apple | Software Development Engineer Internship | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
 | Udemy | Software Engineering Internship - Payments | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
@@ -107,7 +107,7 @@
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
-| MLH Fellowship | 2024 Season | Worldwide | [Apply](https://mlh.io/seasons/2024/events) | | Open |
+| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) | | Open |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
@@ -119,6 +119,7 @@
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | May 14 | Open |
 | Amazon | AWS Summit Dubai | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | May 29 | Open |
+| Amazon | Women of The World | Virtual | [Apply](https://io.google/2024/) | Mar 27 | Open |
 | HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | Mar 14 | 🔒 |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | Mar 9 | 🔒 |
 | Amazon | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Mar 6 | 🔒 |
