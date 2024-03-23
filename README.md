@@ -127,7 +127,7 @@
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | Mar 9 | 🔒 |
 | Amazon | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Mar 6 | 🔒 |
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Mar 1 | 🔒 |
-| _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) |  | 🔒 |
+| _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Mar 1 | 🔒 |
 
 
 ---
