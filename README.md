@@ -122,6 +122,7 @@
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | May 14 | Open |
 | Amazon | AWS Summit Dubai | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | May 29 | Open |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | Mar 27 | Open |
+| Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | Mar 23 | 🔒 |
 | HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | Mar 14 | 🔒 |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | Mar 9 | 🔒 |
 | Amazon | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Mar 6 | 🔒 |
