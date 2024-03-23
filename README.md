@@ -48,8 +48,9 @@
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
 | Lenovo | Solutions Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | Open |
 | Visa | Internships | Worldwide | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Cyber%20Security&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=DevOps&categories=Information%20Technology&categories=Software%20Quality%20Assurance%20and%20Testing&categories=Software%20Development%2FEngineering&categories=Web%20Design%2FDevelopment&categories=Systems%20%26%20Database%20Admin,%20Analysis,%20Design&categories=Technology%20and%20Operations) | Open |
+| Adobe | Software Engineer Intern | Worldwide | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
 | Tesla | Internship | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
-| SpaceX | Software Engineer Intern | Worldwide | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | Open |
+| SpaceX | Internships | Worldwide | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | Open |
 | Notion | Software Engineer Intern - Android | USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | Open |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
