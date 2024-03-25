@@ -40,7 +40,7 @@
 | Atomica.ai | C++ Software Engineer Internship | Remote, Egypt | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Google | Software Engineer Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
 | ↳ | Software Engineering Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | Open |
-| ↳ | Hardware Engineering Intern | Taiwan | [Apply](https://www.google.com/about/careers/applications/jobs/results/90336321676944070-hardware-engineering-intern-2024) | Open |
+| ↳ | Software Engineering Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/123633345281041094-software-engineering-intern-summer-2024) | Open |
 | ↳ | STEP Intern | Tokyo, Japan | [Apply](https://www.google.com/about/careers/applications/jobs/results/99402211391349446-student-training-in-engineering-program-step-intern-2024) | Open |
 | ↳ | STEP Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | Open |
 | Amazon | Software Dev Engineer Intern | Worldwide | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | Open |
