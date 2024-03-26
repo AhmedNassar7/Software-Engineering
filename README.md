@@ -122,15 +122,16 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
-| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | May 14 | Open |
-| Amazon | AWS Summit Dubai | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | May 29 | Open |
-| Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | Mar 27 | Open |
-| Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | Mar 23 | 🔒 |
-| HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | Mar 14 | 🔒 |
-| iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | Mar 9 | 🔒 |
-| Amazon | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | Mar 6 | 🔒 |
-| Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | Mar 1 | 🔒 |
-| _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | Mar 1 | 🔒 |
+| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | Open |
+| Meta | Open House Enterprise Engineering | Warsaw | [Apply](https://warsawopen.splashthat.com/) | 1 April | Open |
+| Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
+| ↳ | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | Open |
+| Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
+| HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
+| iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
+| Amazon | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
+| Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
+| _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
 
 
 ---
