@@ -48,6 +48,7 @@
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Booking | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | Open |
 | GitHub | Software Engineer Intern | Remote, USA | [Apply](https://www.github.careers/careers-home/jobs/2787/job?utm_source=MarkBenliyan&iis=Job%20Board&iisn=Mark) | Open |
+| Manara  | Cloud Computing & AWS Program | Remote | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | Open |
 | LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
 | Lenovo | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | Open |
 | Visa | Internships | Worldwide | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Cyber%20Security&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=DevOps&categories=Information%20Technology&categories=Software%20Quality%20Assurance%20and%20Testing&categories=Software%20Development%2FEngineering&categories=Web%20Design%2FDevelopment&categories=Systems%20%26%20Database%20Admin,%20Analysis,%20Design&categories=Technology%20and%20Operations) | Open |
@@ -123,9 +124,10 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | Open |
+| ↳ | Google AI Hackathon | Online | [Apply](https://googleai.devpost.com/) | 3 May | Open |
 | Meta | Open House Enterprise Engineering | Warsaw | [Apply](https://warsawopen.splashthat.com/) | 1 April | Open |
 | Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
-| ↳ | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | Open |
+| ↳ | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
