@@ -113,6 +113,7 @@
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
+| Google | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | Open |
 | MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) | | Open |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
@@ -124,7 +125,6 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | Open |
-| ↳ | Google AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | Open |
 | Meta | Open House Enterprise Engineering | Warsaw | [Apply](https://warsawopen.splashthat.com/) | 1 April | Open |
 | Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
 | ↳ | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
