@@ -124,7 +124,7 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | Open |
-| ↳ | Google AI Hackathon | Online | [Apply](https://googleai.devpost.com/) | 3 May | Open |
+| ↳ | Google AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | Open |
 | Meta | Open House Enterprise Engineering | Warsaw | [Apply](https://warsawopen.splashthat.com/) | 1 April | Open |
 | Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
 | ↳ | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
