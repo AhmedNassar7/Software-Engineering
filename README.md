@@ -34,21 +34,19 @@
 ## Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Open |
-| ↳ | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
-| ↳ | Summer Internship | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | Open |
 | Google | Software Engineering Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | Open |
 | ↳ | STEP Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | Open |
 | Amazon | Software Dev Engineer Intern | Worldwide | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | Open |
 | IBM | Software Engineering Internships | Worldwide | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | Open |
 | Booking | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | Open |
+| Siemens | Summer Internship | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | Open |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | Open |
+| Adobe | Software Engineer Intern | Worldwide | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
 | Manara  | Cloud Computing & AWS Program | Remote | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | Open |
 | Huawei | Software Engineer Intern | Ontario, Canada | [Apply](https://huaweicanada.recruitee.com/o/coop-software-engineer-c?utm_source=www.interninsider.me&utm_medium=referral&utm_campaign=new-huawei-internships-in-canada) | Open |
-| LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
 | Lenovo | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | Open |
 | Visa | Internships | Worldwide | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Cyber%20Security&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=DevOps&categories=Information%20Technology&categories=Software%20Quality%20Assurance%20and%20Testing&categories=Software%20Development%2FEngineering&categories=Web%20Design%2FDevelopment&categories=Systems%20%26%20Database%20Admin,%20Analysis,%20Design&categories=Technology%20and%20Operations) | Open |
-| Adobe | Software Engineer Intern | Worldwide | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
+| LeetCode | Full Stack Engineer Intern | Worldwide | [Apply](https://www.cognitoforms.com/LeetCodeLLC/FullStackEngineerIntern) | Open |
 | Tesla | Software & Embedded Systems Inter | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | Open |
 | ↳ | Fullstack Software Inter | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | Open |
 | SpaceX | Internships | Worldwide | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | Open |
@@ -56,6 +54,8 @@
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
+| Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | 🔒 |
+| ↳ | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt  | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
