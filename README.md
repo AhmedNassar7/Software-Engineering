@@ -37,8 +37,6 @@
 | Siemens | Fit4Rail Summer Internship | Egypt | [Apply](https://jobs.siemens.com/careers/job/563156118137982?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com) | Open |
 | ↳ | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | Open |
 | ↳ | Summer Internship | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | Open |
-| Zinad | Internship Program | Egypt | [Apply](https://zinad.net/Software-2023.html) | Open |
-| Atomica.ai | Software Engineer Internship | Remote, Egypt | [Apply](https://careers.atomica.ai/job/c-software-engineer-internship/) | Open |
 | Google | Software Engineering Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | Open |
 | ↳ | STEP Intern | Sydney, Australia | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | Open |
 | Amazon | Software Dev Engineer Intern | Worldwide | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | Open |
