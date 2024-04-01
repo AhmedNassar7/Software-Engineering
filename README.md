@@ -67,6 +67,7 @@
 | NVIDIA | Cloud Infrastructure Engineering Intern | Worldwide | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
 | Lenovo | Software Security Engineer Internship | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | 🔒 |
 | Databricks  | IT Software Engineering Internship | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | 🔒 |
+| Bosch | Software Engineering Intern | Worldwide | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 
 
 ---
