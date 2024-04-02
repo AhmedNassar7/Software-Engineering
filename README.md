@@ -112,6 +112,7 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
 | Google | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | Open |
+| ↳ | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | Open |
 | MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) | | Open |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
