@@ -134,6 +134,7 @@
 | Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
 | Incorta | Navigating AI | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 23 April | Open |
 | Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | Open |
+| Manara | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | Open |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
