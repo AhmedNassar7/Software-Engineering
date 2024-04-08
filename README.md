@@ -45,6 +45,7 @@
 | Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | Open |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | Open |
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
+| Intel | Software Engineer Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | Open |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | Open |
 | Manara  | Cloud Computing & AWS Program | Remotely | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | Open |
 | Huawei | Software Engineer Intern | Ontario, Canada | [Apply](https://huaweicanada.recruitee.com/o/coop-software-engineer-c?utm_source=www.interninsider.me&utm_medium=referral&utm_campaign=new-huawei-internships-in-canada) | Open |
