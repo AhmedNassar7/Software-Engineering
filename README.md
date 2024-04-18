@@ -44,7 +44,7 @@
 | Booking | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | Open |
 | Siemens | Summer Internship | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | Open |
 | Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | Open |
-| Oracle | Software Engineer Intern | USA | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/211250?keyword=Engineering+and+Development&lastSelectedFacet=AttributeChar6&location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22&sortBy=POSTING_DATES_DESC) | Open |
+| Oracle | Software Engineer Intern | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer) | Open |
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
 | Intel | Software Engineer Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | Open |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | Open |
