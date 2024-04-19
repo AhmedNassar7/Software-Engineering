@@ -74,7 +74,7 @@
 | Intel | AI Software Engineering Internship | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | NVIDIA | Cloud Infrastructure Engineering Intern | Multiple Locations | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
 | Lenovo | Software Security Engineer Internship | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | 🔒 |
-| ↳ | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | Open |
+| ↳ | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
 | Databricks  | IT Software Engineering Internship | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | 🔒 |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
