@@ -45,7 +45,6 @@
 | Siemens | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | Open |
 | ↳ | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | Open |
 | ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | Open |
-| Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | Open |
 | Oracle | Software Engineer Intern | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000001559315&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22) | Open |
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Open |
 | Intel | Software Engineer Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | Open |
@@ -73,6 +72,7 @@
 | Apple | Software Development Engineer Intern | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
 | Udemy | Software Engineering Intern | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
+| Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | Open |
 | Intel | AI Software Engineering Internship | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | NVIDIA | Cloud Infrastructure Engineering Intern | Multiple Locations | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
 | Lenovo | Software Security Engineer Internship | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | 🔒 |
