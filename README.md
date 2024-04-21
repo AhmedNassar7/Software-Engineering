@@ -123,8 +123,9 @@
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
-| Google | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | Open |
-| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) |  | Open |
+| Google | Cloud Vertex AI Agent Builder | Virtual | [Apply](https://googlevertexai.devpost.com/) | 4 June | ✅ |
+| ↳ | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | ✅ |
+| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) |  | ✅ |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
 | Google | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
 | ↳ | BreakBeatCode | Virtual | [Apply](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
@@ -136,15 +137,15 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| ---- | ------ |
-| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | Open |
-| Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | Open |
-| Incorta | Navigating AI | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 23 April | Open |
-| Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | Open |
-| Manara | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | Open |
+| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | ✅ |
+| Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | ✅ |
+| Incorta | Navigating AI | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 23 April | ✅ |
+| Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | ✅ |
 | Google | Data Cloud Live | Bucharest | [Apply](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
 | Meta | Open House Enterprise Engineering | Warsaw, Poland | [Apply](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
+| Manara | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
