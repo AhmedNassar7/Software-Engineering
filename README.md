@@ -58,6 +58,7 @@
 | ↳ | Mobile Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/-internshipandroidengineermobilesoftwarefall2024-221722) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Huawei | Software Engineer Intern | Ontario, Canada | [Apply](https://huaweicanada.recruitee.com/o/coop-software-engineer-c?utm_source=www.interninsider.me&utm_medium=referral&utm_campaign=new-huawei-internships-in-canada) | ✅ |
+| Snap | Multiple Internhsips | Multiple Locations | [Apply](https://careers.snap.com/jobs?type=Intern&role=Engineering&team=Snap+Lab) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
@@ -124,19 +125,30 @@
 
 
 ---
-## FANNG Discord servers
+## FANNG Discord Servers
 | Company | Name | Link |
 | ------- | ---- | ---- |
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) |
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) |
-| ↳ | Google EMEA STEP | [Join](https://discord.gg/ZPw4vFPxad) |
+| ↳ | Google STEP (EMEA) | [Join](https://discord.gg/ZPw4vFPxad) |
 | Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/metacareers) |
-| Amazon | Amazon Interns and New Grads | [Join](https://discord.gg/n6p45XNPwv) |
+| Amazon | Amazon Interns & New Grads | [Join](https://discord.gg/n6p45XNPwv) |
 | ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) |
 | Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) |
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) |
 | Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) |
+| Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) |
+| Nvidia | Netflix Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) |
+| AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) |
+| Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) |
+| Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/pGmGvmZR) |
+| Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) |
+| Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) |
+| Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) |
+| Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) |
+| Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) |
+
 
 ---
 ## Hackathons
