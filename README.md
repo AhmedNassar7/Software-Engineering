@@ -14,6 +14,8 @@
 - [Internships](#internships)
   
 - [Open-Source Contributions](#open-source-contributions)
+
+- [FAANG Discord Servers](#fanng-discord-servers)
   
 - [Hackathons](#hackathons)
   
@@ -120,6 +122,21 @@
 ## Summer of Bitcoin
 - [Apply](https://www.summerofbitcoin.org/)
 
+
+---
+## FANNG Discord servers
+| Company | Name | Link |
+| ------- | ---- | ---- |
+| Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) |
+| ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) |
+| ↳ | Google EMEA STEP | [Join](https://discord.gg/ZPw4vFPxad) |
+| Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/metacareers) |
+| Amazon | Amazon Interns and New Grads | [Join](https://discord.gg/n6p45XNPwv) |
+| ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) |
+| Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) |
+| Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) |
+| Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) |
+| Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) |
 
 ---
 ## Hackathons
