@@ -57,7 +57,6 @@
 | ↳ | Fullstack Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | ✅ |
 | ↳ | Mobile Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/-internshipandroidengineermobilesoftwarefall2024-221722) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
-| Huawei | Software Engineer Intern | Ontario, Canada | [Apply](https://huaweicanada.recruitee.com/o/coop-software-engineer-c?utm_source=www.interninsider.me&utm_medium=referral&utm_campaign=new-huawei-internships-in-canada) | ✅ |
 | Snap | Multiple Internhsips | Multiple Locations | [Apply](https://careers.snap.com/jobs?type=Intern&role=Engineering&team=Snap+Lab) | ✅ |
 | Manara  | Cloud Computing & AWS Program | Remotely | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
