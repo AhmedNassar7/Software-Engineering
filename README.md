@@ -137,7 +137,7 @@
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) |
 | Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) |
 | Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) |
-| Nvidia | Netflix Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) |
+| Nvidia | Nvidia Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) |
 | AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) |
 | Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) |
