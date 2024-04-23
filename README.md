@@ -41,7 +41,8 @@
 | Booking | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | ✅ |
-| Procore | Software Engineer Intern | Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
+| Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
+| Giza Systems | Headway Intern | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | Siemens | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | ✅ |
 | ↳ | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
 | ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | ✅ |
