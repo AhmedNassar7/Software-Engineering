@@ -15,7 +15,7 @@
   
 - [Open-Source Contributions](#open-source-contributions)
 
-- [FAANG & CS Discord Servers](#fanng-discord-servers)
+- [FAANG & CS Discord Servers](#discord-servers)
   
 - [Hackathons](#hackathons)
   
@@ -126,6 +126,11 @@
 
 
 ---
+## Discord Servers
+- [FANNG Discord Servers](#fanng-discord-servers)
+
+- [CS Discord Servers](#cs-discord-servers)
+
 ## FANNG Discord Servers
 | Company | Name | Link |
 | ------- | ---- | ---- |
@@ -145,13 +150,24 @@
 | JPMorgan | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) |
 | Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/pGmGvmZR) |
-| Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) |
 | Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) |
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) |
 | Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) |
+| Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) |
+| Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/fu5tGHTFP2) |
+| LinkedIn | LinkedIn | [Join](https://discord.gg/EhZJ3nAVSz) |
 | Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) |
 | TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) |
+
+## CS Discord Servers
+| Name | Members | Link |
+| ---- | ---- | ------- |
+| CS Careers | 95,5k | [Join](https://discord.gg/cscareers) | 
+| OSSU | 40k | [Join](https://discord.gg/AnmZzuFUwh) | 
+| Active Courses | 4k | [Join](https://discord.gg/p97Zc7rFR4) | 
+| CS Careers UK | 1.5k | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 
+
 
 ---
 ## Hackathons
