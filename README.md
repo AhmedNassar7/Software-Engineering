@@ -15,7 +15,7 @@
   
 - [Open-Source Contributions](#open-source-contributions)
 
-- [FAANG Discord Servers](#fanng-discord-servers)
+- [FAANG & CS Discord Servers](#fanng-discord-servers)
   
 - [Hackathons](#hackathons)
   
