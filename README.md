@@ -132,41 +132,41 @@
 - [CS Discord Servers](#cs-discord-servers)
 
 ## FANNG Discord Servers
-| Company | Name | Link |
-| ------- | ---- | ---- |
-| Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) |
-| ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) |
-| ↳ | Google STEP (EMEA) | [Join](https://discord.gg/ZPw4vFPxad) |
-| Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/metacareers) |
-| Amazon | Amazon Interns & New Grads | [Join](https://discord.gg/n6p45XNPwv) |
-| ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) |
-| Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) |
-| Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) |
-| Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) |
-| Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) |
-| Nvidia | Nvidia Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) |
-| AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) |
-| Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) |
-| JPMorgan | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) |
-| Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) |
-| Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/pGmGvmZR) |
-| Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) |
-| Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) |
-| Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) |
-| Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) |
-| Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) |
-| Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/fu5tGHTFP2) |
-| LinkedIn | LinkedIn | [Join](https://discord.gg/EhZJ3nAVSz) |
-| Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) |
-| TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) |
+| Company | Name | Link | Members |
+| ------- | ---- | ---- | ------- |
+| Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 16k |
+| ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 400 |
+| ↳ | Google STEP (EMEA) | [Join](https://discord.gg/ZPw4vFPxad) | 200 |
+| Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/metacareers) | 900 |
+| Amazon | Amazon Interns & New Grads | [Join](https://discord.gg/n6p45XNPwv) | 21k |
+| ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) | 200 |
+| Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) | 12.8k |
+| Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) | 1.7k |
+| Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) | 1.2k |
+| Nvidia | Nvidia Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) | 1k |
+| JPMorgan | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) | 2.2k |
+| Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) | 2k |
+| Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) | 400 |
+| AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) | 400 |
+| Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) | 100 |
+| Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/pGmGvmZR) | 500 |
+| Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) | 400 |
+| Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 900 |
+| Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
+| Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) | 1k |
+| Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) | 500 |
+| Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/fu5tGHTFP2) | 200 |
+| LinkedIn | LinkedIn | [Join](https://discord.gg/EhZJ3nAVSz) | 900 |
+| Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) | 100 |
+| TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) | 100 |
 
 ## CS Discord Servers
-| Name | Members | Link |
+| Name | Link | Members |
 | ---- | ---- | ------- |
-| CS Careers | 95,5k | [Join](https://discord.gg/cscareers) | 
-| OSSU | 40k | [Join](https://discord.gg/AnmZzuFUwh) | 
-| Active Courses | 4k | [Join](https://discord.gg/p97Zc7rFR4) | 
-| CS Careers UK | 1.5k | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 
+| CS Careers | [Join](https://discord.gg/cscareers) | 95,5k |
+| OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 40k |
+| Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4k |
+| CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.5k |
 
 
 ---
