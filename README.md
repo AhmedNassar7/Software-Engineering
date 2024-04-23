@@ -142,6 +142,7 @@
 | Nvidia | Nvidia Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) |
 | AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) |
+| JPMorgan | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) |
 | Tesla | Tesla Interns | [Join](https://discord.gg/4xsaApnt6U) |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/pGmGvmZR) |
 | Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) |
@@ -149,7 +150,8 @@
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) |
 | Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) |
-
+| Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) |
+| TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) |
 
 ---
 ## Hackathons
