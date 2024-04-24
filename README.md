@@ -183,6 +183,7 @@
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 40k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4k |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.5k |
+| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 200 |
 
 
 ---
