@@ -32,26 +32,21 @@
 
 ---
 ## Internships
+- [Worldwide Internships](#worldwide-internships)
+
+- [Egypt Internships](#egypt-internships)
+
+
+## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Amazon | Software Development Engineer Intern | Multiple Locations | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | ✅ |
 | IBM | Multiple Internships | Multiple Locations | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | ✅ |
-| ↳ | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
-| ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19934612/application-developer-process-management-bpm-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | ✅ |
+| Oracle | Software Engineer Intern | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000001559315&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22) | ✅ |
 | Booking | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
-| Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | ✅ |
-| Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
-| ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
-| Giza Systems | Headway Intern | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
-| Siemens | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | ✅ |
-| ↳ | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
 | JPMorgan | AI & Data Science Intern | Remotely | [Apply](https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities) | ✅ |
 | ↳ | Machine Learning Intern | Hong Kong, China | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210509838) | ✅ |
-| Oracle | Software Engineer Intern | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000001559315&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22) | ✅ |
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | ✅ |
 | Intel | Software Engineer Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | ✅ |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | ✅ |
@@ -62,16 +57,8 @@
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Snap | Multiple Internships | Multiple Locations | [Apply](https://careers.snap.com/jobs?type=Intern&role=Engineering&team=Snap+Lab) | ✅ |
 | Manara  | Cloud Computing & AWS Program | Remotely | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | ✅ |
-| Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
-| Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
-| Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
-| Siemens | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
-| ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | ✅ |
-| Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
-| ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
-| Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
-| Google | Software Engineering Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | 🔒 |
-| ↳ | STEP Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | 🔒 |
+| Google | Software Engineering Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | 🔒 |
+| ↳ | STEP Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | 🔒 |
 | Meta | Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
 | ↳ | Graduate Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/jobs/757084709499347/) | 🔒 |
 | Apple | Software Development Engineer Intern | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
@@ -90,6 +77,29 @@
 | ↳ | Mobile Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/-internshipandroidengineermobilesoftwarefall2024-221722) | 🔒 |
 | Notion | Software Engineer Intern | New York, USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | 🔒 |
 
+
+## Egypt Internships
+| Company | Role | Location | Application | Status |
+| ------- | ---- | -------- | ------------| ------ |
+| Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | ✅ |
+| Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | ✅ |
+| IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
+| ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19934612/application-developer-process-management-bpm-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| Siemens | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | ✅ |
+| ↳ | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
+| Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
+| ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
+| Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
+| Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
+| Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
+| Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
+| Siemens | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
+| ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | ✅ |
+| Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
+| ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
+| Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
 
 ---
 ## Open-Source Contributions
