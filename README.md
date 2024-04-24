@@ -49,7 +49,6 @@
 | Giza Systems | Headway Intern | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | Siemens | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | ✅ |
 | ↳ | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
-| ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | ✅ |
 | JPMorgan | AI & Data Science Intern | Remotely | [Apply](https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities) | ✅ |
 | ↳ | Machine Learning Intern | Hong Kong, China | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210509838) | ✅ |
 | Oracle | Software Engineer Intern | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=CATEGORIES&selectedCategoriesFacet=300000001559315&selectedFlexFieldsFacets=%22AttributeChar6%7C0+to+2%2B+years%22) | ✅ |
@@ -67,6 +66,7 @@
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | Siemens | Long-Term Internship | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
+| ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | ✅ |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
