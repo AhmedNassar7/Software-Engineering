@@ -4,7 +4,7 @@
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
 
-⚡ Keep track of new Opportunities in our [Discord]() Server. Anyone interested in **FAANG** can join now.
+✅ Keep track of new Opportunities in our [Discord]() Server. Anyone interested in **FAANG** can join now.
 
 🎉 Enjoy your time and best of luck :)
 
