@@ -97,49 +97,11 @@
 | Microsoft | Summer Engineering Program | Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Valeo | Internship Program | Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | Siemens | Long-Term Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
-| ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | ✅ |
+| ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | 🔒 |
 | ↳ | Summer Internship Program | Doha, Qatar | [Apply](https://jobs.siemens.com/careers/job/563156119208293?microsite=siemens.com) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
-
----
-## Open-Source Contributions
-- [Google Summer of Code](#google-summer-of-code)
-
-- [GirlScript Summer of Code](#girlscript-summer-of-Code)
-  
-- [MLH Fellowship](#mlh-fellowship)
-  
-- [Summer of Bitcoin](#summer-of-bitcoin)
-
-
-## Google Summer of Code
-- [Apply](https://summerofcode.withgoogle.com/)
-- [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
-
-<!--
-- [Timeline](https://developers.google.com/open-source/gsoc/timeline)
-- [Rules](https://summerofcode.withgoogle.com/rules)
-- Articles describe in detail GSoC:
-  - [First Article](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity#heading-very-important)
-  - [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
-  - [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
-- Videos enhance your knowledge in GSoC:
-  - [First Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic)
-  - [Second Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic)
-  - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English)
--->
-
-## GirlScript Summer of Code
-- [Apply](https://gssoc.girlscript.tech/#)
-
-## MLH Fellowship
-- [Apply](https://fellowship.mlh.io/)
-- [MLH Discord Server](https://discord.gg/mlh)
-
-## Summer of Bitcoin
-- [Apply](https://www.summerofbitcoin.org/)
 
 
 ---
@@ -220,6 +182,45 @@
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
 | _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
+
+
+---
+## Open-Source Contributions
+- [Google Summer of Code](#google-summer-of-code)
+
+- [GirlScript Summer of Code](#girlscript-summer-of-Code)
+  
+- [MLH Fellowship](#mlh-fellowship)
+  
+- [Summer of Bitcoin](#summer-of-bitcoin)
+
+
+## Google Summer of Code
+- [Apply](https://summerofcode.withgoogle.com/)
+- [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
+
+<!--
+- [Timeline](https://developers.google.com/open-source/gsoc/timeline)
+- [Rules](https://summerofcode.withgoogle.com/rules)
+- Articles describe in detail GSoC:
+  - [First Article](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity#heading-very-important)
+  - [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
+  - [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
+- Videos enhance your knowledge in GSoC:
+  - [First Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic)
+  - [Second Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic)
+  - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English)
+-->
+
+## GirlScript Summer of Code
+- [Apply](https://gssoc.girlscript.tech/#)
+
+## MLH Fellowship
+- [Apply](https://fellowship.mlh.io/)
+- [MLH Discord Server](https://discord.gg/mlh)
+
+## Summer of Bitcoin
+- [Apply](https://www.summerofbitcoin.org/)
 
 
 ---
