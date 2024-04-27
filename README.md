@@ -61,6 +61,7 @@
 | Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Cyber%20Security&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=DevOps&categories=Information%20Technology&categories=Software%20Quality%20Assurance%20and%20Testing&categories=Software%20Development%2FEngineering&categories=Web%20Design%2FDevelopment&categories=Systems%20%26%20Database%20Admin,%20Analysis,%20Design&categories=Technology%20and%20Operations) | ✅ |
 | Snap | Multiple Internships | Multiple Locations | [Apply](https://careers.snap.com/jobs?type=Intern&role=Engineering&team=Snap+Lab) | ✅ |
 | Manara  | Cloud Computing & AWS Program | Remotely | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | ✅ |
+| Amadeus | Software Development Engineer Intern | London, UK | [Apply](https://amadeus.wd3.myworkdayjobs.com/jobs/job/London-Heathrow/Software-Development-Engineer-Summer-Interns_R19548) | ✅ |
 | Google | Software Engineering Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | 🔒 |
 | ↳ | STEP Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | 🔒 |
 | Meta | Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
@@ -97,6 +98,7 @@
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
+| pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
 | LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
 | Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
