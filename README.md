@@ -122,6 +122,7 @@
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 16k |
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 400 |
 | ↳ | Google STEP (EMEA) | [Join](https://discord.gg/ZPw4vFPxad) | 200 |
+| ↳ | Xooglers & Co | [Join](https://discord.gg/GHPMd6qRaD) | Unknown |
 | Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/metacareers) | 900 |
 | Amazon | Amazon Interns & New Grads | [Join](https://discord.gg/n6p45XNPwv) | 21k |
 | ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) | 200 |
