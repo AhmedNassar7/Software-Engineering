@@ -46,11 +46,18 @@
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | ✅ |
-| Intel | Software Engineer Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | ✅ |
+| Intel | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | ✅ |
+| ↳ | Information Security Engineer Undergraduate Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Information-Security-Engineer---Undergraduate-Intern_JR0257470-1?utm_source=Simplify&ref=Simplify) | ✅ |
+| ↳ | Information Security Engineer Undergraduate Intern | Remote in USA | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Undergraduate-Software-Application-Engineering-Intern_JR0263062-1?utm_source=Simplify&ref=Simplify) | ✅ |
+| Databricks | IT Data Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/embed/job_app?token=7288434002&utm_source=Simplify&ref=Simplify) | ✅ |
+| Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
 | JPMorgan | AI & Data Science Intern | Remotely | [Apply](https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities) | ✅ |
 | ↳ | Machine Learning Intern | Hong Kong, China | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210509838) | ✅ |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | ✅ |
 | Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | ✅ |
+| Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
+| Leidos | Software Engineer Intern | Arlington, VA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00134454?utm_source=Simplify&ref=Simplify) | ✅ |
+| ↳ | Cyber Security Software Development Intern | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Software-Development-Intern_R-00134608?utm_source=Simplify&ref=Simplify) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Amazon | Software Development Engineer Intern | Multiple Locations | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | ✅ |
 | IBM | Multiple Internships | Multiple Locations | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_18[0]=Intern) | ✅ |
