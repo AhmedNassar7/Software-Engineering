@@ -99,6 +99,7 @@
 | Siemens | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
 | ↳ | Software Engineer Intern - CSD | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohned-mohamed-022903128_google-forms-sign-in-activity-7188849580195667970-lHYC?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Software Engineer Intern - HAV | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/momamdouh_software-engineering-internship-position-activity-7188521996450746369-7tTR?utm_source=share&utm_medium=member_android) | ✅ |
+| ↳ | Software Engineer Intern - Calibre | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/ahmed-hamed-44719120_calibre-product-management-team-in-cairo-activity-7179955129717059584-hhSW/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
