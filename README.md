@@ -106,6 +106,8 @@
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
+| Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
+| Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
 | LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
 | Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
