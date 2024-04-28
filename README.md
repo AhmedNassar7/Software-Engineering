@@ -123,7 +123,7 @@
 
 ---
 ## Discord Servers
-- [FANNG Discord Servers](#fanng-discord-servers)
+- [FAANG Discord Servers](#fanng-discord-servers)
 
 - [CS Discord Servers](#cs-discord-servers)
 
