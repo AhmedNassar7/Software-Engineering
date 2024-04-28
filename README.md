@@ -10,10 +10,10 @@
 
 🔥 Are you ready? Yalla Benaaaa...
 
+
+
 ---
 ## Contents
-- [Contribution](#contribution)
-  
 - [Internships](#internships)
   
 - [Open-Source Contributions](#open-source-contributions)
@@ -24,13 +24,8 @@
   
 - [Events](#events)
 
+- [Contribution](#contribution)
 
----
-## Contribution
- If you have new or additional information related to Software Engineering opportunities (Choose One):
-- Make a Pull Request.
-- Fill out this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
-- Reach Out Me.
 
 
 ---
@@ -122,6 +117,7 @@
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
 
 
+
 ---
 ## Discord Servers
 - [FANNG Discord Servers](#fanng-discord-servers)
@@ -171,6 +167,7 @@
 | Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 200 |
 
 
+
 ---
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
@@ -183,6 +180,7 @@
 | ↳ | BreakBeatCode | Virtual | [Apply](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
+
 
 
 ---
@@ -203,6 +201,7 @@
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
 | _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
+
 
 
 ---
@@ -242,6 +241,16 @@
 
 ## Summer of Bitcoin
 - [Apply](https://www.summerofbitcoin.org/)
+
+
+
+---
+## Contribution
+ If you have new or additional information related to Software Engineering opportunities (Choose One):
+- Make a Pull Request.
+- Fill out this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
+- Reach Out Me.
+
 
 
 ---
