@@ -96,12 +96,13 @@
 | ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19934612/application-developer-process-management-bpm-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | Siemens | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
-| ↳ | Software Engineer Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohned-mohamed-022903128_google-forms-sign-in-activity-7188849580195667970-lHYC?utm_source=share&utm_medium=member_android) | ✅ |
-| ↳ | Software Engineer Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/momamdouh_software-engineering-internship-position-activity-7188521996450746369-7tTR?utm_source=share&utm_medium=member_android) | ✅ |
+| ↳ | Software Engineer Intern - CSD | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohned-mohamed-022903128_google-forms-sign-in-activity-7188849580195667970-lHYC?utm_source=share&utm_medium=member_android) | ✅ |
+| ↳ | Software Engineer Intern - HAV | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/momamdouh_software-engineering-internship-position-activity-7188521996450746369-7tTR?utm_source=share&utm_medium=member_android) | ✅ |
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
+| PWC | UI/UX Intern | Cairo, Egypt | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--UI-UX-Intern_514967WD?source=172911) | ✅ |
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
 | LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
