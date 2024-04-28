@@ -128,7 +128,7 @@
 
 - [CS Discord Servers](#cs-discord-servers)
 
-## FANNG Discord Servers
+## FAANG Discord Servers
 | Company | Name | Link | Members |
 | ------- | ---- | ---- | ------- |
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 16k |
@@ -164,6 +164,7 @@
 | CS Careers | [Join](https://discord.gg/cscareers) | 95,5k |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.5k |
 | CS Majors | [Join](https://discord.gg/csmajors) | 22k |
+| Google Developer Community | [Join](http://discord.gg/google-dev-community) | 40k |
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 35.5k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 40k |
