@@ -159,7 +159,7 @@
 
 ---
 ## Discord Servers
-- [FAANG Discord Servers](#fanng-discord-servers)
+- [FAANG Discord Servers](#faang-discord-servers)
 
 - [CS Discord Servers](#cs-discord-servers)
 
