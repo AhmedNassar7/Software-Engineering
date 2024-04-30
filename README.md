@@ -4,7 +4,7 @@
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
 
-✅ Keep track of new opportunities in **FAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) Server.
+✅ Keep track of new opportunities in **FAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) server.
 
 🔥 Are you ready? Yalla Benaaaa...
 
