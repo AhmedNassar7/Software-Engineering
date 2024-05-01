@@ -107,6 +107,7 @@
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
 | FabMinds | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fab-minds_students-of-engineering-computer-science-activity-7190248005172686848-gEu4/?utm_source=share&utm_medium=member_desktop) | ✅ |
+| VxLabs | Summer Internship Program | Cairo, Egypt | [Apply](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings) | ✅ |
 | Pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
 | LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
 | Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
