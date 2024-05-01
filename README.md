@@ -6,8 +6,6 @@
 
 ✅ Keep track of new opportunities in **FAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) server.
 
-🔥 Are you ready? Yalla Benaaaa...
-
 🎉 Enjoy your time and best of luck :)
 
 
@@ -91,6 +89,7 @@
 | ------- | ---- | -------- | ------------| ------ |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | ✅ |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | ✅ |
+| Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
 | IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
 | ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
