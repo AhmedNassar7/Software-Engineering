@@ -20,6 +20,8 @@
   
 - [Events](#events)
 
+- [Volunteering](#volunteering)
+
 - [FAANG & CS Discord Servers](#discord-servers)
 
 - [Contribution](#contribution)
@@ -161,6 +163,16 @@
 
 
 ---
+## Volunteering
+| Company | Role | Link | Status |
+| ------- | ---- | ---- | ------ |
+| Techne | Techne Summit Cairo 2024 | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
+| NASA Space Apps | NASA Space Apps Cairo 2024 | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
+| Startups Without Borders | Startups Without Borders Summit 2024 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
+
+
+
+---
 ## Discord Servers
 - [FAANG Discord Servers](#faang-discord-servers)
 
@@ -209,7 +221,6 @@
 
 
 
-
 ---
 ## Open-Source Contributions
 - [Google Summer of Code](#google-summer-of-code)
@@ -224,19 +235,6 @@
 ## Google Summer of Code
 - [Apply](https://summerofcode.withgoogle.com/)
 - [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
-
-<!--
-- [Timeline](https://developers.google.com/open-source/gsoc/timeline)
-- [Rules](https://summerofcode.withgoogle.com/rules)
-- Articles describe in detail GSoC:
-  - [First Article](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity#heading-very-important)
-  - [Second Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit#slide=id.g2b05e8be640_0_635)
-  - [Third Article](https://docs.google.com/presentation/d/1tZj7K2IS_hhItJQdUZaaer8JAOiYDdcy39J_OmYl7mU/edit?usp=sharing)
-- Videos enhance your knowledge in GSoC:
-  - [First Video](https://youtu.be/WKFAwImEo1c?si=V9lBEXojaiz65HnG) (Arabic)
-  - [Second Video](https://youtu.be/zsXe-T-bV5U?si=qK1vImdINWXTr4qC) (Arabic)
-  - [Google Open Source Playlist](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K) (English)
--->
 
 ## GirlScript Summer of Code
 - [Apply](https://gssoc.girlscript.tech/#)
