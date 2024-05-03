@@ -90,6 +90,7 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | ✅ |
+| Jumia | Internship Global Program - Backend Developer (PHP) | Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | ✅ |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
 | IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
