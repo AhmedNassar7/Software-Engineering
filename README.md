@@ -60,6 +60,7 @@
 | Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | ✅ |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
 | Leidos | Cyber Security Software Development Intern | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Software-Development-Intern_R-00134608?utm_source=Simplify&ref=Simplify) | ✅ |
+| ↳ | Software Systems Intern | Reston, VA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Systems-Intern_R-00134969?utm_source=Simplify&ref=Simplify) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Amazon | Software Development Engineer Intern | Multiple Locations | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | ✅ |
 | Vodafone | Vodanation Summer Internship Program | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
