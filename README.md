@@ -1,5 +1,12 @@
 # Software Engineering Community
 
+<div align="center">
+  <img alt="stars" src="https://img.shields.io/github/stars/ahmednassar7/software-engineering?color=F05032&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+  <img alt="size" src="https://img.shields.io/github/repo-size/ahmednassar7/software-engineering?color=F05032&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+  <img alt="forks" src="https://img.shields.io/github/forks/ahmednassar7/software-engineering?color=F05032&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/ahmednassar7/software-engineering?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+</div>
+
 🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, and **Open-Source Contributions**. 
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
