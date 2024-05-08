@@ -55,7 +55,6 @@
 | Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | ✅ |
 | Intel | Software Architect Intern | Massachusetts, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/Software-Architect-Intern_JR0263549?utm_source=Simplify&ref=Simplify) | ✅ |
-| ↳ | Data Analyst Software Engineer Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1?utm_source=Simplify&ref=Simplify) | ✅ |
 | ↳ | Software Simulation Tools Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Simulation-Tools-Intern_JR0263595?utm_source=Simplify&ref=Simplify) | ✅ |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
 | Leidos | Cyber Security Software Development Intern | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Software-Development-Intern_R-00134608?utm_source=Simplify&ref=Simplify) | ✅ |
@@ -83,6 +82,7 @@
 | Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | 🔒 |
 | Intel | AI Software Engineering Internship | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | ↳ | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | 🔒 |
+| ↳ | Data Analyst Software Engineer Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1?utm_source=Simplify&ref=Simplify) | 🔒 |
 | NVIDIA | Cloud Infrastructure Engineering Intern | Multiple Locations | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
 | Lenovo | Software Security Engineer Internship | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | 🔒 |
 | ↳ | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
