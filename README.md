@@ -57,7 +57,6 @@
 | Intel | Software Architect Intern | Massachusetts, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/Software-Architect-Intern_JR0263549?utm_source=Simplify&ref=Simplify) | ✅ |
 | ↳ | Data Analyst Software Engineer Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1?utm_source=Simplify&ref=Simplify) | ✅ |
 | ↳ | Software Simulation Tools Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Simulation-Tools-Intern_JR0263595?utm_source=Simplify&ref=Simplify) | ✅ |
-| Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | ✅ |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
 | Leidos | Cyber Security Software Development Intern | Huntsville, AL | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cyber-Security-Software-Development-Intern_R-00134608?utm_source=Simplify&ref=Simplify) | ✅ |
 | ↳ | Software Systems Intern | Reston, VA | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Software-Systems-Intern_R-00134969?utm_source=Simplify&ref=Simplify) | ✅ |
@@ -93,6 +92,7 @@
 | Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | 🔒 |
 | JPMorgan | AI & Data Science Intern | Remotely | [Apply](https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities) | 🔒 |
 | ↳ | Machine Learning Intern | Hong Kong, China | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210509838) | 🔒 |
+| Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Tesla | Software & Embedded Systems Inter | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | 🔒 |
 | ↳ | Fullstack Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
