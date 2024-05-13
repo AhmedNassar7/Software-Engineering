@@ -103,6 +103,7 @@
 | ------- | ---- | -------- | ------------| ------ |
 | Instabug | Backend Intern | Cairo,Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | ✅ |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | ✅ |
+| Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | ✅ |
 | MCV | Multiple Internships | Cairo, Egypt | [Apply](https://hcm.mcv-eg.com/Recruiting/Public/CareerOpportunities/CareerOpportunities.aspx) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
