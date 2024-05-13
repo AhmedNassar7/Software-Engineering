@@ -168,6 +168,7 @@
 | Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | ✅ |
 | Amazon | AWS Summit | Dubai | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 29 May | ✅ |
 | ↳ | AWS for Data | Virtual | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 18 June | ✅ |
+| Incorta | GenAI's role in advanced analytics | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 5 June | ✅ |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Apply](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | ✅ |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Apply](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | ✅ |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Apply](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
