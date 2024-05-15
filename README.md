@@ -51,10 +51,10 @@
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | ✅ |
 | Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
-| SLB | Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=73401&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
-| ↳ | Full-Stack Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=72353&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
+| SLB | Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=73401&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
+| ↳ | Full-Stack Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=72353&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | ✅ |
 | Intel | Software Architect Intern | Massachusetts, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/Software-Architect-Intern_JR0263549?utm_source=Simplify&ref=Simplify) | ✅ |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
