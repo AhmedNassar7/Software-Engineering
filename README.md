@@ -110,12 +110,7 @@
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
-| ZINAD | Front-End Development Intern | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUM09ET0NQWkpGUU43VkFJT0YyQzM2VlhWQi4u) | ✅ |
-| ↳ | Back End Development Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNTZUS0wzSzg4ODA4UjlUVUZCN0E5OVJHSC4u) | ✅ |
-| ↳ | AI Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNTk0TFdDUlpKVDEzVUZPWlBQRzBaTVEyRy4u) | ✅ |
-| ↳ | Cybersecurity Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNjA2NjhUU1dXRUFKWkROS0tENEtSVzhaUC4u) | ✅ |
-| ↳ | QA Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNjJWSFQ1TE9YRko1QzZXWEwwWkMzQ0FOSy4u) | ✅ |
-| ↳ | Cybersecurity Studies & Research | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUODdOV0lKNzBTWUk1MlVUSkdZMTZXSTcyWS4u) | ✅ |
+| ZINAD | Multiple Internship Programs | Cairo, Egypt | [Apply](https://zinad.net/internship-program.html) | ✅ |
 | IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
 | ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
