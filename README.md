@@ -47,8 +47,10 @@
 | ------- | ---- | -------- | ------------| ------ |
 | Google | Software Engineering, Site Reliability Engineering Intern | Stockholm, Sweden | [Apply](https://www.google.com/about/careers/applications/jobs/results/76372892633178822-software-engineering-site-reliability-engineering-intern-2024) | ✅ |
 | Meta | Rotational Engineering | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
+| Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | ✅ |
+| Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
 | SLB | Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=73401&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
 | ↳ | Full-Stack Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=72353&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
@@ -105,9 +107,15 @@
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | ✅ |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | ✅ |
-| MCV | Multiple Internships | Cairo, Egypt | [Apply](https://hcm.mcv-eg.com/Recruiting/Public/CareerOpportunities/CareerOpportunities.aspx) | ✅ |
+| Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
+| ZINAD | Front-End Development Intern | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUM09ET0NQWkpGUU43VkFJT0YyQzM2VlhWQi4u) | ✅ |
+| ↳ | Back End Development Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNTZUS0wzSzg4ODA4UjlUVUZCN0E5OVJHSC4u) | ✅ |
+| ↳ | AI Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNTk0TFdDUlpKVDEzVUZPWlBQRzBaTVEyRy4u) | ✅ |
+| ↳ | Cybersecurity Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNjA2NjhUU1dXRUFKWkROS0tENEtSVzhaUC4u) | ✅ |
+| ↳ | QA Intern| Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUNjJWSFQ1TE9YRko1QzZXWEwwWkMzQ0FOSy4u) | ✅ |
+| ↳ | Cybersecurity Studies & Research | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zPXeK9p_fEWERnW9nPCp-Ds1GMpkqe9LmSteWZ2m_NxUODdOV0lKNzBTWUk1MlVUSkdZMTZXSTcyWS4u) | ✅ |
 | IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
 | ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
@@ -120,7 +128,9 @@
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/32964e7d-9b99-4d56-8f37-710b13827b34?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | ↳ | DevOps Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/f4d4e3e1-dd3a-4878-a1aa-8b15a31a4316?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
+| Synapse Analytics | Internships | Cairo, Egypt | [Apply](https://synapseanalytics.recruitee.com/) | ✅ |
 | Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
+| MCV | Multiple Internships | Cairo, Egypt | [Apply](https://hcm.mcv-eg.com/Recruiting/Public/CareerOpportunities/CareerOpportunities.aspx) | ✅ |
 | PWC | UI/UX Intern | Cairo, Egypt | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--UI-UX-Intern_514967WD?source=172911) | ✅ |
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
