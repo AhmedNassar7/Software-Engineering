@@ -185,7 +185,8 @@
 | Meta | Open House Enterprise Engineering | Warsaw, Poland | [Apply](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
-| Manara | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
+| Manara | Tech Talks | Virtual | [Apply](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
+| ↳ | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
 | iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
