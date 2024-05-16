@@ -108,6 +108,7 @@
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
+| Henkel | Multiple Internhsips | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Banque du Caire | Summer Internhsip | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
 | Danone | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.danone.com/en-global/jobs/danone-egypt-summer-internship-program-9321-en-us.html?utm_source=linkedin&utm_medium=jobposting) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
