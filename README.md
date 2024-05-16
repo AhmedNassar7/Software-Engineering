@@ -104,9 +104,11 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Instabug | Backend Intern | Cairo,Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | ✅ |
+| Schneider Electric | NextGen Summer Internship Program | Cairo,Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | ✅ |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
+| Danone | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.danone.com/en-global/jobs/danone-egypt-summer-internship-program-9321-en-us.html?utm_source=linkedin&utm_medium=jobposting) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
 | ZINAD | Multiple Internship Programs | Cairo, Egypt | [Apply](https://zinad.net/internship-program.html) | ✅ |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | ✅ |
