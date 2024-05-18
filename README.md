@@ -45,7 +45,6 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Google | Software Engineering, Site Reliability Engineering Intern | Stockholm, Sweden | [Apply](https://www.google.com/about/careers/applications/jobs/results/76372892633178822-software-engineering-site-reliability-engineering-intern-2024) | ✅ |
 | Meta | Rotational Engineering | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
@@ -73,6 +72,7 @@
 | Manara  | Cloud Computing & AWS Program | Remotely | [Apply](https://share.hsforms.com/1FgSrTmCkQmKrei5e_f5yiQdwt1t?utm_campaign=AWS%20Manara%20Cloud&utm_medium=email&_hsmi=300056094&_hsenc=p2ANqtz-9o7TzKFaHqGoXJ6-rVGqWZK2Zqox4lHFEYO7o6Jhc_uA4Pa-WQoSZRa3Yryfd0SwdhiABThM8DdqUynV95iHb3AWrHUQ&utm_content=300056094&utm_source=hs_email) | ✅ |
 | Google | Software Engineering Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/98370832373293766-software-engineering-intern-summer-2024) | 🔒 |
 | ↳ | STEP Intern (EMEA) | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/136334660872348358-step-intern-student-training-in-engineering-program-2024) | 🔒 |
+| ↳ | Software Engineering, Site Reliability Engineering Intern | Stockholm, Sweden | [Apply](https://www.google.com/about/careers/applications/jobs/results/76372892633178822-software-engineering-site-reliability-engineering-intern-2024) | 🔒 |
 | Meta | Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
 | ↳ | Graduate Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/jobs/757084709499347/) | 🔒 |
 | Apple | Software Development Engineer Intern | London, United Kingdom | [Apply](https://jobs.apple.com/en-us/details/200538893/apple-pay-software-development-engineer-internship) | 🔒 |
