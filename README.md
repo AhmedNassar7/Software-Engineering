@@ -104,6 +104,7 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Schneider Electric | NextGen Summer Internship Program | Cairo,Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | ✅ |
+| National Bank of Egypt | Summer Internship | Cairo,Egypt | [Apply](https://srv.nbe.com.eg/Internships2024) | ✅ |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
