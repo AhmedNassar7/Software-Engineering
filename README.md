@@ -48,7 +48,6 @@
 | Meta | Rotational Engineering | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
-| Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | ✅ |
 | Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
@@ -80,6 +79,7 @@
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
 | ↳ | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | 🔒 |
 | Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | 🔒 |
+| Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | 🔒 |
 | Intel | AI Software Engineering Internship | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | ↳ | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | 🔒 |
 | ↳ | Data Analyst Software Engineer Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1?utm_source=Simplify&ref=Simplify) | 🔒 |
