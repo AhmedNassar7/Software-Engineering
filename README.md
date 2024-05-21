@@ -111,6 +111,9 @@
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Henkel | Multiple Internhsips | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Banque du Caire | Summer Internhsip | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
+| Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | ✅ |
+| HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
+| ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | ✅ |
 | ITIDA | Summer internship program | Cairo, Egypt | [Apply](https://itida.gov.eg/English/Programs/Summer-Internships/Pages/default.aspx) | ✅ |
 | Danone | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.danone.com/en-global/jobs/danone-egypt-summer-internship-program-9321-en-us.html?utm_source=linkedin&utm_medium=jobposting) | ✅ |
