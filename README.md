@@ -109,8 +109,8 @@
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | ✅ |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
-| Henkel | Multiple Internhsips | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
-| Banque du Caire | Summer Internhsip | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
+| Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
+| Banque du Caire | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
 | Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
