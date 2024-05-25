@@ -103,7 +103,6 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Schneider Electric | NextGen Summer Internship Program | Cairo,Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | ✅ |
 | Incorta | Summer Internship Program | Cairo,Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | ✅ |
 | National Bank of Egypt | Summer Internship | Cairo,Egypt | [Apply](https://srv.nbe.com.eg/Internships2024) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | ✅ |
@@ -152,6 +151,7 @@
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Cairo, Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Instabug | Backend Intern | Cairo,Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | 🔒 |
+| Schneider Electric | NextGen Summer Internship Program | Cairo,Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
