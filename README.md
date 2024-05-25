@@ -146,6 +146,7 @@
 | eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
 | Unlimited Software | Multiple Internships | Cairo, Egypt | [Apply](https://unlimited-software.com/en/job/detail/1) | ✅ |
 | Pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
+| MTS | Summer Internship | Cairo, Egypt | [Apply](https://misrtechnologyservices.applytojob.com/apply/cl659bTmos/MTS-2024-Summer-Internship-Program) | ✅ |
 | LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
 | Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
