@@ -45,7 +45,7 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Meta | Rotational Engineering | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
+| Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
