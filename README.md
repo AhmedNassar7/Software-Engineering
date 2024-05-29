@@ -103,16 +103,16 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Incorta | Summer Internship Program | Cairo,Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | ✅ |
-| National Bank of Egypt | Summer Internship | Cairo,Egypt | [Apply](https://srv.nbe.com.eg/Internships2024) | ✅ |
+| _VOIS | Explore Internship Programme | Cairo,Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | ✅ |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | ✅ |
 | Etisalat | Summer Internhsip | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
-| Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
+| National Bank of Egypt | Summer Internship | Cairo,Egypt | [Apply](https://srv.nbe.com.eg/Internships2024) | ✅ |
 | Banque du Caire | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
-| Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
+| Allianz | Summer Internship Program | Cairo, Egypt | [Apply](https://www.allianz.com.eg/summer-internship) | ✅ |
+| Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | ✅ |
 | ITIDA | Summer internship program | Cairo, Egypt | [Apply](https://itida.gov.eg/English/Programs/Summer-Internships/Pages/default.aspx) | ✅ |
 | Danone | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.danone.com/en-global/jobs/danone-egypt-summer-internship-program-9321-en-us.html?utm_source=linkedin&utm_medium=jobposting) | ✅ |
@@ -154,6 +154,7 @@
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Cairo, Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Instabug | Backend Intern | Cairo,Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | 🔒 |
+| Incorta | Summer Internship Program | Cairo,Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | 🔒 |
 | Schneider Electric | NextGen Summer Internship Program | Cairo,Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
@@ -162,6 +163,7 @@
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | 🔒 |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | 🔒 |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | 🔒 |
+| Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
 | Procore | DevOps Engineer Internship | Egypt | [Apply](https://careers.procore.com/jobs/af98754d-b67f-4ac8-b61d-48dfe8d9cde3?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | 🔒 |
