@@ -114,7 +114,6 @@
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | IBM | Technology Graduation Internship Program | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19960543/ibm-technology-graduation-internship-program-2024-ibm-egypt-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
-| ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20265799/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Salesforce Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178534/salesforce-developer-intern-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19934612/application-developer-process-management-bpm-internship-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Software Technical Support Intern | Cairo, Egypt | [Apply](https://referrals.ibm.com/r/MostafaMahmoud/job/20235336/software-technical-support-internship-remote/) | ✅ |
