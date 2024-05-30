@@ -74,15 +74,11 @@
 | Udemy | Software Engineering Intern | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Data Science Graduate Program | Amsterdam, Netherlands | [Apply](https://jobs.booking.com/careers/job?domain=booking.com&pid=562949959919203&query=junior%20software%20engineer%20II%20graduate&domain=booking.com&sort_by=relevance&job_index=1) | 🔒 |
 | ↳ | Graduate Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | 🔒 |
-| Schneider | NextGen Internship Program | Multiple Locations | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-nextgen-internship-program---gulf/69212/?iis=Job%20Board&iisn=linkedin&src=linkedin) | 🔒 |
 | Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | 🔒 |
 | Intel | AI Software Engineering Internship | Remote | [Apply](https://jobs.intel.com/en/job/-/-/599/61303772320?source=MarkBenliyan) | 🔒 |
 | ↳ | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | 🔒 |
-| ↳ | Data Analyst Software Engineer Intern | Multiple Locations | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Data-Analyst-Software-Engineer-Intern_JR0263572-1?utm_source=Simplify&ref=Simplify) | 🔒 |
-| ↳ | Software Architect Intern | Massachusetts, US | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Massachusetts-Hudson/Software-Architect-Intern_JR0263549?utm_source=Simplify&ref=Simplify) | ✅ |
-| NVIDIA | Cloud Infrastructure Engineering Intern | Multiple Locations | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
-| Lenovo | Software Security Engineer Internship | Chicago, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Security-Engineer-Intern-Summer-2024/54898#) | 🔒 |
-| ↳ | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
+| Nvidia | Cloud Infrastructure Engineering Intern | Multiple Locations | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/Germany-Munich/Cloud-Infrastructure-Engineering-Intern_JR1978630) | 🔒 |
+| Lenovo | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | 🔒 |
 | Databricks  | IT Software Engineering Internship | California, USA | [Apply](https://www.databricks.com/company/careers/it/it-software-engineering-intern-2024-6955458002) | 🔒 |
 | ↳ | IT Data Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/embed/job_app?token=7288434002&utm_source=Simplify&ref=Simplify) | 🔒 |
@@ -93,8 +89,7 @@
 | Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | 🔒 |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
-| Tesla | Software & Embedded Systems Inter | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-softwareembeddedsystemsengineervehiclehardwarefall2024-217835) | 🔒 |
-| ↳ | Fullstack Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
+| Tesla | Fullstack Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | ↳ | Mobile Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/-internshipandroidengineermobilesoftwarefall2024-221722) | 🔒 |
 | Notion | Software Engineer Intern | New York, USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | 🔒 |
 
