@@ -150,7 +150,7 @@
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
-| Siemens | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | ✅ |
+| Siemens | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | 🔒 |
 | ↳ | Long-Term Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | 🔒 |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | 🔒 |
