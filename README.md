@@ -218,8 +218,8 @@
 ## Volunteering
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
-|  International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | ✅ |
-| Techne | Techne Summit Cairo 2024 | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
+| Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
+| International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo 2024 | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
 | Startups Without Borders | Startups Without Borders Summit 2024 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
 
