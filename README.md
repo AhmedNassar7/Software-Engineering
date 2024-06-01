@@ -48,8 +48,9 @@
 | Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
-| Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
+| Intel | Software Development Intern | Remotely | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development---Undergraduate-Intern_JR0264850?utm_source=Simplify) | ✅ |
 | Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
+| Schneider | NextGen Internship | KSA | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/schneider-electric-nextgen---internship--ksa/008WWB/) | ✅ |
 | SLB | Software Engineer Intern | Cambridge, UK | [Apply](https://careers.slb.com/jobaddetail.aspx?id=73401&utm_source=linkedin&utm_medium=linkedin_posting&utm_campaign=linkedin_career_posting) | ✅ |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | ✅ |
 | Leidos | Software Engineer Intern | MD, USA | [Apply](https://careers.leidos.com/jobs/14444870-software-engineer-intern-summer?tm_job=R-00136378&tm_event=view&tm_company=2502&bid=56&utm_source=www.interninsider.me&utm_medium=referral&utm_campaign=new-tech-internships-in-the-united-states-tesla-mercedes-benz-leidos-more) | ✅ |
@@ -103,10 +104,12 @@
 | Banque du Caire | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
+| Egyptian Banking Institute | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/drC-MQXt) | ✅ |
 | PepsiCo | Summer Internship | Egypt | [Apply](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance&categories=Supply%20Chain) | ✅ |
 | Allianz | Summer Internship Program | Cairo, Egypt | [Apply](https://www.allianz.com.eg/summer-internship) | ✅ |
 | Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | ✅ |
+| STMicroElectronics | Linux System Programming Training | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=ySfgddUg1Ue4L3fXzQQej1BZA2ihjHtNjzdNt2iPvH1UQzZUWk9MMEtOTk45V0tVNVE4RjdBME5PUy4u) | ✅ |
 | IBM | Technology Graduation Internship Program | Cairo, Egypt | [Apply](https://careers.ibm.com/job/19960543/ibm-technology-graduation-internship-program-2024-ibm-egypt-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Java & Web Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20178536/application-developer-java-web-technologies-internship-cairo-eg/?utm_source=talentnetwork&utm_medium=talent-emails&utm_campaign=-1&utm_term=20178536&utm_content=672522?codes=SMF_Job_Alert) | ✅ |
 | ↳ | Software Technical Support Intern | Cairo, Egypt | [Apply](https://referrals.ibm.com/r/MostafaMahmoud/job/20235336/software-technical-support-internship-remote/) | ✅ |
