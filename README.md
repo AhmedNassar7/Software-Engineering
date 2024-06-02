@@ -102,7 +102,6 @@
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
-| Banque du Caire | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
 | Egyptian Banking Institute | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/drC-MQXt) | ✅ |
@@ -164,6 +163,7 @@
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | 🔒 |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | 🔒 |
 | National Bank of Egypt | Summer Internship | Cairo,Egypt | [Apply](https://srv.nbe.com.eg/Internships2024) | 🔒 |
+| Banque du Caire | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3927969037/) | 🔒 |
 | Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
