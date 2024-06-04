@@ -208,7 +208,7 @@
 | ↳ | GenAI's role in advanced analytics | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 5 June | 🔒 |
 | Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
 | Google | Data Cloud Live | Bucharest | [Apply](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
-| ↳ | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | ✅ |
+| ↳ | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | 🔒 |
 | Meta | Open House Enterprise Engineering | Warsaw, Poland | [Apply](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
