@@ -114,6 +114,7 @@
 | Allianz | Summer Internship Program | Cairo, Egypt | [Apply](https://www.allianz.com.eg/summer-internship) | ✅ |
 | Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | ✅ |
+| Brightskies | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/brightskies_brightskiesinternship-techcareers-summerinternship-activity-7203726566575517697-F69a/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | STMicroElectronics | Linux System Programming Training | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=ySfgddUg1Ue4L3fXzQQej1BZA2ihjHtNjzdNt2iPvH1UQzZUWk9MMEtOTk45V0tVNVE4RjdBME5PUy4u) | ✅ |
 | IBM | IBM Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Flutter Developer Intern (Graduates only) | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472522/flutter-developer-intern-graduates-only-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
@@ -181,13 +182,13 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | Google | Cloud Vertex AI Agent Builder | Virtual | [Apply](https://googlevertexai.devpost.com/) | 4 June | ✅ |
-| Vodafone | AI Assistive Tools | Egypt | [Apply](https://aihackathon.vodafone.com.eg/) | 4 June | ✅ |
 | MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) |  | ✅ |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
 | Google | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
 | ↳ | BreakBeatCode | Virtual | [Apply](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
 | ↳ | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | 🔒 |
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
+| Vodafone | AI Assistive Tools | Egypt | [Apply](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
 
 
@@ -196,16 +197,18 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-| Google | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | ✅ |
+| Meta | Connect 2024 | Virtual | [Apply](https://www.meta.com/connect/?sf273424789=1) | 25 Sep | ✅ |
 | Amazon | AWS for Data | Virtual | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 18 June | ✅ |
-| ↳ | Women in Tech | Virtual | [Apply](https://aws.amazon.com/events/summits/emea/dubai/) | 7 June | ✅ |
-| Incorta | GenAI's role in advanced analytics | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 5 June | ✅ |
+| Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 10 June | ✅ |
+| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | ✅ |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Apply](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Apply](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Apply](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
 | Incorta | Navigating AI | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 23 April | 🔒 |
+| ↳ | GenAI's role in advanced analytics | virtual | [Apply](https://go.incorta.com/emea-webinar-charting-success-in-2024-navigating-ai-with-incorta?utm_medium=email&_hsenc=p2ANqtz-9wrDUuMOK-FKwDiQmqzopi7DSvELTY0caBHngLywOYvvcnrpp1BEKU4Gt-87d8FT0I5iLdzw6Y9oA2Bs1wfOuhGNkc3Q&_hsmi=300692380&utm_content=300630181&utm_source=hs_email) | 5 June | 🔒 |
 | Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
 | Google | Data Cloud Live | Bucharest | [Apply](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
+| ↳ | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | ✅ |
 | Meta | Open House Enterprise Engineering | Warsaw, Poland | [Apply](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
 | Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
 | ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
