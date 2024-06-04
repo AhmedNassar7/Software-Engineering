@@ -100,6 +100,10 @@
 | ------- | ---- | -------- | ------------| ------ |
 | _VOIS | Explore Internship Programme | Cairo,Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | ✅ |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
+| Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
+| Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
+| Fawry | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/fawry-msme-finance_we-are-thrilled-to-announce-our-upcoming-activity-7203778514569879552-Vhyo?utm_source=share&utm_medium=member_android) | ✅ |
+| Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
