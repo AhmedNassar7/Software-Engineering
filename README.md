@@ -104,6 +104,7 @@
 | Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
 | Fawry | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/fawry-msme-finance_we-are-thrilled-to-announce-our-upcoming-activity-7203778514569879552-Vhyo?utm_source=share&utm_medium=member_android) | ✅ |
 | Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
+| WE | Summer Training | Cairo,Egypt | [Apply](https://web.facebook.com/100068087433152/posts/779542544325320/?mibextid=oFDknk&rdid=Wb4D31VvzD5mVJHZ) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
