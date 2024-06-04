@@ -132,6 +132,7 @@
 | Philips | Summer Internship | Cairo, Egypt | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cairo/Cairo-Summer-Internship-2024_528949) | ✅ |
 | Danone | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.danone.com/en-global/jobs/danone-egypt-summer-internship-program-9321-en-us.html?utm_source=linkedin&utm_medium=jobposting) | ✅ |
 | Nestlé | Nesternship | Cairo, Egypt | [Apply](https://www.nestle-mena.com/en/jobs/students-graduates/nesternship) | ✅ |
+| AXA | Summer Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/ayaelsayed_axa-egypt-summer-internship-2024-ugcPost-7203465214816604162-EFNP/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ZINAD | Multiple Internship Programs | Cairo, Egypt | [Apply](https://zinad.net/internship-program.html) | ✅ |
 | Nissan | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/feed/update/urn:li:activity:7196252790749294594/) | ✅ |
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
@@ -143,6 +144,7 @@
 | FabMinds | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fab-minds_students-of-engineering-computer-science-activity-7190248005172686848-gEu4/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ↳ | Machine Learning/ Computer Vision Engineer Intern | Cairo, Egypt | [Apply](https://fab-minds.com/internship/ml-cv-intern) | ✅ |
 | ElSewedy Engineering Industries | Summer Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/1RcQkhldgwvErqOAiqGSCH7v8alTWcjWM46cC-JnTKi8/viewform?edit_requested=true) | ✅ |
+| INJAZ Egypt | summer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/injaz-egypt_injazegypt-believeininjaz-careeropporunity-activity-7203458084478881792-gqCG/?utm_source=share&utm_medium=member_android) | ✅ |
 | Eventum | Multiple Internships | Cairo, Egypt | [Apply](http://eventumsolutions.com/careers/) | ✅ |
 | VxLabs | Summer Internship Program | Cairo, Egypt | [Apply](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings) | ✅ |
 | eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
