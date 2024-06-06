@@ -131,8 +131,7 @@
 | ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | ✅ |
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | ✅ |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | ✅ |
-| Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | ✅ |
-| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/feed/update/urn:li:activity:7199723901315145728?utm_source=share&utm_medium=member_android) | ✅ |
+| Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/feed/update/urn:li:activity:7199723901315145728?utm_source=share&utm_medium=member_android) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | b_labs | BI Developer - Graduates Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941647343) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941694337) | ✅ |
@@ -169,9 +168,7 @@
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo,Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
-| Siemens | Fit4Rail Summer Internship | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job?pid=563156118137982&domain=siemens.com) | 🔒 |
-| ↳ | Long-Term Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScAUcA6EPzTR8DAL6cAiaUo1qv48yIfxweii9mXAI3Hrc9pdQ/viewform) | 🔒 |
-| ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156119353986?microsite=siemens.com) | 🔒 |
+| Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | 🔒 |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | 🔒 |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | 🔒 |
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | 🔒 |
