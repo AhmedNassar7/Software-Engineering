@@ -131,7 +131,7 @@
 | ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | ✅ |
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | ✅ |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | ✅ |
-| Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/feed/update/urn:li:activity:7199723901315145728?utm_source=share&utm_medium=member_android) | ✅ |
+| Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | b_labs | BI Developer - Graduates Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941647343) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941694337) | ✅ |
@@ -145,6 +145,7 @@
 | Nissan | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/feed/update/urn:li:activity:7196252790749294594/) | ✅ |
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Synapse Analytics | Internships | Cairo, Egypt | [Apply](https://synapseanalytics.recruitee.com/) | ✅ |
+| eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
 | Sector B5 | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sector-b5_eme-sector-b5-summer-internship-program-activity-7203447852419760131-nMnu?utm_source=share&utm_medium=member_android) | ✅ |
 | Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
@@ -154,7 +155,6 @@
 | Injaz | summer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/injaz-egypt_injazegypt-believeininjaz-careeropporunity-activity-7203458084478881792-gqCG/?utm_source=share&utm_medium=member_android) | ✅ |
 | Eventum | Multiple Internships | Cairo, Egypt | [Apply](http://eventumsolutions.com/careers/) | ✅ |
 | VxLabs | Summer Internship Program | Cairo, Egypt | [Apply](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings) | ✅ |
-| eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
 | Unlimited Software | Multiple Internships | Cairo, Egypt | [Apply](https://unlimited-software.com/en/job/detail/1) | ✅ |
 | Pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
 | MTS | Summer Internship | Cairo, Egypt | [Apply](https://misrtechnologyservices.applytojob.com/apply/cl659bTmos/MTS-2024-Summer-Internship-Program) | ✅ |
