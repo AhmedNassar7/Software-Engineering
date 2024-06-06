@@ -148,7 +148,6 @@
 | Synapse Analytics | Internships | Cairo, Egypt | [Apply](https://synapseanalytics.recruitee.com/) | ✅ |
 | Sector B5 | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sector-b5_eme-sector-b5-summer-internship-program-activity-7203447852419760131-nMnu?utm_source=share&utm_medium=member_android) | ✅ |
 | Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
-| PWC | UI/UX Intern | Cairo, Egypt | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--UI-UX-Intern_514967WD?source=172911) | ✅ |
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | FabMinds | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fab-minds_students-of-engineering-computer-science-activity-7190248005172686848-gEu4/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ↳ | Machine Learning/ Computer Vision Engineer Intern | Cairo, Egypt | [Apply](https://fab-minds.com/internship/ml-cv-intern) | ✅ |
