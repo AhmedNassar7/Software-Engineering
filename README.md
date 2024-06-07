@@ -97,7 +97,6 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Samsung | Samsung Innovation Campus | Cairo,Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | ✅ |
-| _VOIS | Explore Internship Programme | Cairo,Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | ✅ |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
 | Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
@@ -171,6 +170,7 @@
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
 | Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | 🔒 |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | 🔒 |
+| _VOIS | Explore Internship Programme | Cairo,Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | 🔒 |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | 🔒 |
 | Sumerge | Software Engineering Talent Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | 🔒 |
 | Dsquares | Software Development Intern | Cairo,Egypt | [Apply](https://apply.workable.com/dsquares-loyalty-dmcc/j/ACC95F8CC7/) | 🔒 |
