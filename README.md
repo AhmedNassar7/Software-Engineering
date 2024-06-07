@@ -96,6 +96,7 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Samsung | Samsung Innovation Campus | Cairo,Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | ✅ |
 | _VOIS | Explore Internship Programme | Cairo,Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | ✅ |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
