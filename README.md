@@ -100,6 +100,7 @@
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
 | Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
+| Nawy | Summer Internship Program | Cairo,Egypt | [Apply](https://apply.workable.com/nawy-real-estate/j/D5C4D5754E/) | ✅ |
 | Rawmart | Internship | Cairo,Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJs2I5eMYv1AQoNn73KAzGdDlrDT578nno9RkShkYQRXjcEQ/viewform) | ✅ |
 | Fawry | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/fawry-msme-finance_we-are-thrilled-to-announce-our-upcoming-activity-7203778514569879552-Vhyo?utm_source=share&utm_medium=member_android) | ✅ |
 | Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
