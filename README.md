@@ -122,6 +122,7 @@
 | Talaat Moustafa Group | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talaatmoustafagroup_tmginternship-summerinternship-careerdevelopment-activity-7204094656773578752-6MZd?utm_source=share&utm_medium=member_android) | ✅ |
 | Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Huawei | BO Software Engineer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3916749052) | ✅ |
+| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | ↳ | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
 | Brightskies | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/brightskies_brightskiesinternship-techcareers-summerinternship-activity-7203726566575517697-F69a/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | STMicroElectronics | Linux System Programming Training | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=ySfgddUg1Ue4L3fXzQQej1BZA2ihjHtNjzdNt2iPvH1UQzZUWk9MMEtOTk45V0tVNVE4RjdBME5PUy4u) | ✅ |
@@ -154,7 +155,8 @@
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | FabMinds | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fab-minds_students-of-engineering-computer-science-activity-7190248005172686848-gEu4/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ↳ | Machine Learning/ Computer Vision Engineer Intern | Cairo, Egypt | [Apply](https://fab-minds.com/internship/ml-cv-intern) | ✅ |
-| Corona | summer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/coronaeg_join-us-at-corona-for-a-thrilling-summer-activity-7204408985053995008-fu5H?utm_source=share&utm_medium=member_android) | ✅ |
+| Corona | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/coronaeg_join-us-at-corona-for-a-thrilling-summer-activity-7204408985053995008-fu5H?utm_source=share&utm_medium=member_android) | ✅ |
+| Tarek Nour Communications | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/tarek-nour-communications_tncsummerinternship-ourpeople-allforoneandoneforall-activity-7204462760758243329-2kFu/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ElSewedy Engineering Industries | Summer Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/1RcQkhldgwvErqOAiqGSCH7v8alTWcjWM46cC-JnTKi8/viewform?edit_requested=true) | ✅ |
 | Injaz | summer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/injaz-egypt_injazegypt-believeininjaz-careeropporunity-activity-7203458084478881792-gqCG/?utm_source=share&utm_medium=member_android) | ✅ |
 | Eventum | Multiple Internships | Cairo, Egypt | [Apply](http://eventumsolutions.com/careers/) | ✅ |
