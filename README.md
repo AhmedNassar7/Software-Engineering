@@ -96,6 +96,7 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
 | Samsung | Samsung Innovation Campus | Cairo,Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | ✅ |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
@@ -106,9 +107,11 @@
 | Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
 | Schneider | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
+| Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | ✅ |
 | WE | Summer Training | Cairo,Egypt | [Apply](https://web.facebook.com/100068087433152/posts/779542544325320/?mibextid=oFDknk&rdid=Wb4D31VvzD5mVJHZ) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
+| EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
