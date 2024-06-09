@@ -100,6 +100,7 @@
 | Samsung | Samsung Innovation Campus | Cairo,Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | ✅ |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
+| ITWorx | Summer Internship | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | ✅ |
 | Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
 | Nawy | Summer Internship Program | Cairo,Egypt | [Apply](https://apply.workable.com/nawy-real-estate/j/D5C4D5754E/) | ✅ |
 | Rawmart | Internship | Cairo,Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJs2I5eMYv1AQoNn73KAzGdDlrDT578nno9RkShkYQRXjcEQ/viewform) | ✅ |
@@ -136,6 +137,7 @@
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | ✅ |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | ✅ |
 | Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
+| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eslam-yasser-2a80a2162_google-forms-sign-in-activity-7205530015852146689-BQTz?utm_source=share&utm_medium=member_android) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | b_labs | BI Developer - Graduates Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941647343) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3941694337) | ✅ |
@@ -211,8 +213,9 @@
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | Meta | Connect 2024 | Virtual | [Apply](https://www.meta.com/connect/?sf273424789=1) | 25 Sep | ✅ |
 | Amazon | Women in Tech Summit | Warsaw | [Apply](https://womenintechsummit.pl/join-the-event) | 12 June | ✅ |
+| Incorta | Simplifying Data Management and Analytics | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | ✅ |
 | Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 10 June | ✅ |
-| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | ✅ |
+| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Apply](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Apply](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Apply](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
@@ -239,6 +242,7 @@
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
+| iCareer | Training Coordinator Intern | [Apply](https://ats.icareerhub.com//job_details/1717853299635x489941642205724700?ref=V35lt2DX) | ✅ |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo 2024 | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
 | Startups Without Borders | Startups Without Borders Summit 2024 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
