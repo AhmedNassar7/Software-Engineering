@@ -124,9 +124,8 @@
 | Talaat Moustafa Group | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talaatmoustafagroup_tmginternship-summerinternship-careerdevelopment-activity-7204094656773578752-6MZd?utm_source=share&utm_medium=member_android) | ✅ |
 | Henkel | Multiple Internships | Cairo, Egypt | [Apply](https://www.henkel.com/careers/jobs-and-application#selectFilterByParameter=Career_Level_18682=Students&Functional_Area_18674=IT&Digital_1030670=Yes&Locations_279384=Africa%20%26%20Middle%20East&startIndex=0&loadCount=10&) | ✅ |
 | Huawei | BO Software Engineer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3916749052) | ✅ |
-| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | ↳ | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
-| Brightskies | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/brightskies_brightskiesinternship-techcareers-summerinternship-activity-7203726566575517697-F69a/?utm_source=share&utm_medium=member_desktop) | ✅ |
+| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | STMicroElectronics | Linux System Programming Training | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=ySfgddUg1Ue4L3fXzQQej1BZA2ihjHtNjzdNt2iPvH1UQzZUWk9MMEtOTk45V0tVNVE4RjdBME5PUy4u) | ✅ |
 | IBM | Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Flutter Developer Intern (Graduates only) | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472522/flutter-developer-intern-graduates-only-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
