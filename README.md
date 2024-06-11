@@ -127,7 +127,8 @@
 | ↳ | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
 | Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | STMicroElectronics | Linux System Programming Training | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=ySfgddUg1Ue4L3fXzQQej1BZA2ihjHtNjzdNt2iPvH1UQzZUWk9MMEtOTk45V0tVNVE4RjdBME5PUy4u) | ✅ |
-| IBM | Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
+| IBM | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20538002/ibm-summer-internship-program-2024-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| ↳ | Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Flutter Developer Intern (Graduates only) | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472522/flutter-developer-intern-graduates-only-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | UX Designer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472521/ux-designer-intern-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://referrals.ibm.com/r/MostafaMahmoud/job/20235336/software-technical-support-internship-remote/) | ✅ |
