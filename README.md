@@ -109,8 +109,8 @@
 | Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
 | Schneider | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
+| SEITech Solutions | Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/seitech-solutions-eg_seitech-summerinternships-embeddedsystems-activity-7206254336102789120-Z-f2?utm_source=share&utm_medium=member_android) | ✅ |
 | Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | ✅ |
-| WE | Summer Training | Cairo,Egypt | [Apply](https://web.facebook.com/100068087433152/posts/779542544325320/?mibextid=oFDknk&rdid=Wb4D31VvzD5mVJHZ) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | ✅ |
