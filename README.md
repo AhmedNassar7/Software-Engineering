@@ -119,6 +119,7 @@
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
 | Egyptian Banking Institute | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/drC-MQXt) | ✅ |
 | PepsiCo | Summer Internship | Egypt | [Apply](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance&categories=Supply%20Chain) | ✅ |
+| Sprints | Sholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
 | Swift Act | Summer Internship Program | Cairo, Egypt | [Apply](https://swift-act.com/countdown/) | ✅ |
 | Allianz | Summer Internship Program | Cairo, Egypt | [Apply](https://www.allianz.com.eg/summer-internship) | ✅ |
 | Talaat Moustafa Group | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talaatmoustafagroup_tmginternship-summerinternship-careerdevelopment-activity-7204094656773578752-6MZd?utm_source=share&utm_medium=member_android) | ✅ |
@@ -239,6 +240,7 @@
 | ------- | ---- | ---- | ------ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
 | iCareer | Training Coordinator Intern | [Apply](https://ats.icareerhub.com//job_details/1717853299635x489941642205724700?ref=V35lt2DX) | ✅ |
+| YLE | Volunteering | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | ✅ |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo 2024 | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
 | Startups Without Borders | Startups Without Borders Summit 2024 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
