@@ -152,21 +152,15 @@
 | Orascom | Summer Internship Program | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=xI9Llp28mUe4AnCuR7DwDxZGn3CgcyhMscDY0UpZ9IFUM01MVjEyTUdHWFVJQ1VRUlZTUlpWMkVZTS4u) | ✅ |
 | Synapse Analytics | Internships | Cairo, Egypt | [Apply](https://synapseanalytics.recruitee.com/) | ✅ |
 | eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
-| Sector B5 | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sector-b5_eme-sector-b5-summer-internship-program-activity-7203447852419760131-nMnu?utm_source=share&utm_medium=member_android) | ✅ |
 | Procter & Gamble | Engineering Summer Internship - Undergrads | Cairo, Egypt | [Apply](https://www.pgcareers.com/global/en/job/R000101050/Engineering-Manufacturing-Summer-24-Internship-Undergrads?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | ✅ |
 | Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
 | FabMinds | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fab-minds_students-of-engineering-computer-science-activity-7190248005172686848-gEu4/?utm_source=share&utm_medium=member_desktop) | ✅ |
-| ↳ | Machine Learning/ Computer Vision Engineer Intern | Cairo, Egypt | [Apply](https://fab-minds.com/internship/ml-cv-intern) | ✅ |
 | Corona | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/coronaeg_join-us-at-corona-for-a-thrilling-summer-activity-7204408985053995008-fu5H?utm_source=share&utm_medium=member_android) | ✅ |
 | Tarek Nour Communications | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/tarek-nour-communications_tncsummerinternship-ourpeople-allforoneandoneforall-activity-7204462760758243329-2kFu/?utm_source=share&utm_medium=member_desktop) | ✅ |
 | ElSewedy Engineering Industries | Summer Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/1RcQkhldgwvErqOAiqGSCH7v8alTWcjWM46cC-JnTKi8/viewform?edit_requested=true) | ✅ |
-| Injaz | summer internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/injaz-egypt_injazegypt-believeininjaz-careeropporunity-activity-7203458084478881792-gqCG/?utm_source=share&utm_medium=member_android) | ✅ |
-| Eventum | Multiple Internships | Cairo, Egypt | [Apply](http://eventumsolutions.com/careers/) | ✅ |
+| Injaz | summer internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=Nj-9Vm1SuUS7oJrOGEdQkyTiBIu6qH5NkbQX0aNbuAlUOVRIQUowQ0EzRE9MNEpPQjkyNU80VjRGUi4u) | ✅ |
 | VxLabs | Summer Internship Program | Cairo, Egypt | [Apply](https://vxlabs.zohorecruit.eu/jobs/Careers/50516000002716005/VxLabs-Summer-Internship-Program-2024---Cairo-Calling-All-Tech-Savvy-Students?source=LinkedIn-Basic&embedsource=LinkedIn%2BLimited%2BListings) | ✅ |
-| Unlimited Software | Multiple Internships | Cairo, Egypt | [Apply](https://unlimited-software.com/en/job/detail/1) | ✅ |
 | Pinerium | Multiple Internships | Alexandria, Egypt | [Apply](https://careers.pinerium.com/jobs/internships) | ✅ |
-| MTS | Summer Internship | Cairo, Egypt | [Apply](https://misrtechnologyservices.applytojob.com/apply/cl659bTmos/MTS-2024-Summer-Internship-Program) | ✅ |
-| LXT | Internship Program | Giza, Egypt | [Apply](https://lxt.bamboohr.com/careers/314) | ✅ |
 | Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Cairo, Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
