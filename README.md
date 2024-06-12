@@ -114,6 +114,7 @@
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | ✅ |
+| ABCD Bank | Summer Internship | Cairo, Egypt | [Apply](https://www.adcb.com.eg/adcb-internship-program/) | ✅ |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | ✅ |
 | ↳ | Summer Internship Program | Cairo, Egypt | [Apply](https://hsbc.taleo.net/careersection/external/jobdetail.ftl?lang=en-GB&job=0000K7GE) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
