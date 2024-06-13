@@ -111,6 +111,7 @@
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | SEITech Solutions | Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/seitech-solutions-eg_seitech-summerinternships-embeddedsystems-activity-7206254336102789120-Z-f2?utm_source=share&utm_medium=member_android) | ✅ |
 | Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | ✅ |
+| Zeal | Summer Internship Program | Cairo,Egypt | [Apply](https://zeal.breezy.hr/p/61fd7282e9d8-2024-summer-internship-program/apply) | ✅ |
 | Link Development | Summer Internship | Cairo,Egypt | [Apply](https://bit.ly/Link_Development_Summer_Internship_Program2024) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | ✅ |
