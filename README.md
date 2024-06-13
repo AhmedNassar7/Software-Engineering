@@ -101,7 +101,6 @@
 | Samsung | Samsung Innovation Campus | Cairo,Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | ✅ |
 | Paymob | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/paymobcompany_engineering-dataanalytics-commercial-activity-7205947724125401088-1ooL?utm_source=share&utm_medium=member_android) | ✅ |
 | Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
-| ITWorx | Summer Internship | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | ✅ |
 | Bosta | Summer Internship | Cairo,Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | ✅ |
 | Nawy | Summer Internship Program | Cairo,Egypt | [Apply](https://apply.workable.com/nawy-real-estate/j/D5C4D5754E/) | ✅ |
 | Rawmart | Internship | Cairo,Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJs2I5eMYv1AQoNn73KAzGdDlrDT578nno9RkShkYQRXjcEQ/viewform) | ✅ |
@@ -185,7 +184,7 @@
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | Archer | Software Engineering Intern | Cairo, Egypt | [Apply](https://gusea1p01.rec.pro.ukg.net/ARC1037ARCHT/JobBoard/7b869dcd-0d1e-4fe4-be7d-df83dc5a593a/OpportunityDetail?opportunityId=1a4a80d9-12fe-4d4f-b945-7e71f0296386&source=LinkedIn) | 🔒 |
-| ITWorx  | Coded Summer Program | Egypt | [Apply](https://www.itworx.com/jobs/) | 🔒 |
+| ITWorx | Summer Internship | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | ✅ |
 
 
 
