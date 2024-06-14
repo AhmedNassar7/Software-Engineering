@@ -205,9 +205,10 @@
 | Google | Cloud Summit Mitte | Fredenhagen, Germany | [Apply](https://cloudonair.withgoogle.com/events/summit-mitte-2024?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=FY24-Q2-emea-EMEA2521-physicalevent-er-cloud-summit-offenbach-mc&utm_content=dach-exec-linkedin) | 12 Jun | ✅ |
 | Meta | Connect 2024 | Virtual | [Apply](https://www.meta.com/connect/?sf273424789=1) | 25 September | ✅ |
 | Amazon | AWS for Data Webinar Series | Virtual | [Apply](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | ✅ |
+| ↳ | re:Invent 2024 | Las Vegas, USA | [Apply](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 12 June | ✅ |
 | ↳ | Women in Tech Summit | Warsaw | [Apply](https://womenintechsummit.pl/join-the-event) | 12 June | ✅ |
 | Incorta | Multiple Events | Virtual | [Apply](https://www.incorta.com/events) | | ✅ |
-| Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 🔒 June | ✅ |
+| Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
 | Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Apply](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Apply](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
