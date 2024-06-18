@@ -45,7 +45,8 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Google | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/75108078592107206-software-engineering-intern-summer-2025) | ✅ |
+| Google | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025) | ✅ |
+| ↳ | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/75108078592107206-software-engineering-intern-summer-2025) | ✅ |
 | Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
