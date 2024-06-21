@@ -46,12 +46,11 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Google | Software Engineering Intern | USA | [Apply](https://www.google.com/about/careers/applications/jobs/results/86639017272976070-software-engineering-intern-bs-summer-2025) | ✅ |
-| ↳ | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/75108078592107206-software-engineering-intern-summer-2025) | ✅ |
 | Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
+| TikTok | Software Engineer Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
 | Intel | Software Development Intern | Remotely | [Apply](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Development---Undergraduate-Intern_JR0264850?utm_source=Simplify) | ✅ |
-| Dell | Software Engineer - C++ Windows Agent Intern | Multiple Locations | [Apply](https://dell.wd1.myworkdayjobs.com/External/job/Remote---Texas-United-States/Software-Engineer---C---Windows-Agent-Intern_R244685?utm_source=Simplify&ref=Simplify) | ✅ |
 | Schneider | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Rippling | Software Engineer Intern | USA | [Apply](https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0?jobSite=LinkedIn) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
