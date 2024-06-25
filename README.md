@@ -124,7 +124,9 @@
 | ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | ✅ |
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | ✅ |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | ✅ |
-| Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
+| Siemens | Embedded System Course | Cairo, Egypt | [Apply](https://sie.ag/aYyLG) | ✅ |
+| ↳ | Classical Autosar Fundamentals Course | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUNFUwMDlSWk4xQUJXTEtCQlNZUzZLOENSNi4u&fbclid=IwZXh0bgNhZW0CMTEAAR0dk0HIXBfnB8C_wUFItHeIxu00obEmh7fkZ5eC9Z766KvjezNacohg9kw_aem_1b9a0RAPVwVnGBX5LxQbbw&linkId=300000012006176) | ✅ |
+| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship HAV 5G | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eyadhossam_two-long-term-internships-6-months-for-activity-7206684198466641921-Vb0h?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eslam-yasser-2a80a2162_google-forms-sign-in-activity-7205530015852146689-BQTz?utm_source=share&utm_medium=member_android) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
