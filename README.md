@@ -111,6 +111,7 @@
 | Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | ✅ |
 | Cartona | Summer Internship | Cairo,Egypt | [Apply](https://cartona.talentlyft.com/jobs/summer-internship-program-I95) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
+| Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | ABCD Bank | Summer Internship | Cairo, Egypt | [Apply](https://www.adcb.com.eg/adcb-internship-program/) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
 | Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
