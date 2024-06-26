@@ -98,6 +98,7 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Nokia | Virtual Summer Internship | Cairo,Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
 | Dell | Summer Academy | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_android) | ✅ |
 | Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
 | Paymob | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/paymobcompany_engineering-dataanalytics-commercial-activity-7205947724125401088-1ooL?utm_source=share&utm_medium=member_android) | ✅ |
