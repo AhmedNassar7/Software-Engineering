@@ -122,11 +122,6 @@
 | Huawei | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
 | Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | IBM | Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
-| ITI | Summer Internship | Smart Village, Egypt | [Apply](https://forms.gle/jvVxe7C56ro44EtA7) | ✅ |
-| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://lm.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fyw7z1S5vJtbguN7w9%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR3Aau6WUc9C-Ry8jUshNJ4CE2kzFukARWH03LA9GCx2i358wolli3AKt9w_aem_AYZ0N9alwghEDoQvTLjYXZlF1hDnhy2eudaAPGSYTcG4uTG89vbnPS_ifjMnAzTWIz2zPoF4XkNqvCpSpVp6YFfo&h=AT0VG0n3537kJmhpmsfh6_v4EKiGsGLBwjFxsiYn-CCmqUqPD7GQ8zkndVelj7sdjcFODw0VUWHLohAe4p9BkRIRtC1isoecfI0PqYjyIf_g8Kx6mhcc0ABLz3MDMoUyaBP1) | ✅ |
-| ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | ✅ |
-| ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | ✅ |
-| ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | ✅ |
 | Siemens | Embedded System Course | Cairo, Egypt | [Apply](https://sie.ag/aYyLG) | ✅ |
 | ↳ | Classical Autosar Fundamentals Course | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUNFUwMDlSWk4xQUJXTEtCQlNZUzZLOENSNi4u&fbclid=IwZXh0bgNhZW0CMTEAAR0dk0HIXBfnB8C_wUFItHeIxu00obEmh7fkZ5eC9Z766KvjezNacohg9kw_aem_1b9a0RAPVwVnGBX5LxQbbw&linkId=300000012006176) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
@@ -176,6 +171,11 @@
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | PepsiCo | Summer Internship | Egypt | [Apply](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance&categories=Supply%20Chain) | 🔒 |
 | ITWorx | Summer Internship | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | 🔒 |
+| ITI | Summer Internship | Smart Village, Egypt | [Apply](https://forms.gle/jvVxe7C56ro44EtA7) | 🔒 |
+| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://lm.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fyw7z1S5vJtbguN7w9%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR3Aau6WUc9C-Ry8jUshNJ4CE2kzFukARWH03LA9GCx2i358wolli3AKt9w_aem_AYZ0N9alwghEDoQvTLjYXZlF1hDnhy2eudaAPGSYTcG4uTG89vbnPS_ifjMnAzTWIz2zPoF4XkNqvCpSpVp6YFfo&h=AT0VG0n3537kJmhpmsfh6_v4EKiGsGLBwjFxsiYn-CCmqUqPD7GQ8zkndVelj7sdjcFODw0VUWHLohAe4p9BkRIRtC1isoecfI0PqYjyIf_g8Kx6mhcc0ABLz3MDMoUyaBP1) | 🔒 |
+| ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | 🔒 |
+| ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | 🔒 |
+| ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | 🔒 |
 
 
 
