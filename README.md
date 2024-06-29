@@ -99,7 +99,6 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo,Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
-| Dell | Summer Academy | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_android) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo,Egypt | [Apply](https://careers.cegedim.com/en/annonce/3036663-software-test-engineer-intern-cairo) | ✅ |
 | Capgemini | Young Professionals Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3960264716) | ✅ |
 | Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
@@ -150,6 +149,7 @@
 | Microsoft | Summer Engineering Program | Cairo, Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Instabug | Backend Intern | Cairo, Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | 🔒 |
 | Incorta | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | 🔒 |
+| Dell | Summer Academy | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_android) | 🔒 |
 | Schneider Electric | NextGen Summer Internship Program | Cairo, Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo, Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
