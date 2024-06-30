@@ -103,13 +103,7 @@
 | Capgemini | Young Professionals Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3960264716) | ✅ |
 | Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
 | Paymob | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/paymobcompany_engineering-dataanalytics-commercial-activity-7205947724125401088-1ooL?utm_source=share&utm_medium=member_android) | ✅ |
-| Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | ✅ |
-| Nawy | Summer Internship Program | Cairo,Egypt | [Apply](https://apply.workable.com/nawy-real-estate/j/D5C4D5754E/) | ✅ |
-| Rawmart | Internship | Cairo,Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfJs2I5eMYv1AQoNn73KAzGdDlrDT578nno9RkShkYQRXjcEQ/viewform) | ✅ |
-| Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | ✅ |
-| Schneider | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
-| Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | ✅ |
 | Cartona | Summer Internship | Cairo,Egypt | [Apply](https://cartona.talentlyft.com/jobs/summer-internship-program-I95) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
@@ -151,6 +145,7 @@
 | Incorta | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | 🔒 |
 | Dell | Summer Academy | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_android) | 🔒 |
 | Schneider Electric | NextGen Summer Internship Program | Cairo, Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
+| ↳ | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo, Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
@@ -170,8 +165,11 @@
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | 🔒 |
 | EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
+| Valu | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/duCnzqsP) | 🔒 |
 | PepsiCo | Summer Internship | Egypt | [Apply](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance&categories=Supply%20Chain) | 🔒 |
 | ITWorx | Summer Internship | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | 🔒 |
+| Gameball | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | 🔒 |
+| Intercom | Summer Youthship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | 🔒 |
 | ITI | Summer Internship | Smart Village, Egypt | [Apply](https://forms.gle/jvVxe7C56ro44EtA7) | 🔒 |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://lm.facebook.com/l.php?u=https%3A%2F%2Fforms.gle%2Fyw7z1S5vJtbguN7w9%3Ffbclid%3DIwZXh0bgNhZW0CMTEAAR3Aau6WUc9C-Ry8jUshNJ4CE2kzFukARWH03LA9GCx2i358wolli3AKt9w_aem_AYZ0N9alwghEDoQvTLjYXZlF1hDnhy2eudaAPGSYTcG4uTG89vbnPS_ifjMnAzTWIz2zPoF4XkNqvCpSpVp6YFfo&h=AT0VG0n3537kJmhpmsfh6_v4EKiGsGLBwjFxsiYn-CCmqUqPD7GQ8zkndVelj7sdjcFODw0VUWHLohAe4p9BkRIRtC1isoecfI0PqYjyIf_g8Kx6mhcc0ABLz3MDMoUyaBP1) | 🔒 |
 | ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | 🔒 |
