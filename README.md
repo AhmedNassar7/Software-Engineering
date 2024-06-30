@@ -99,6 +99,7 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo,Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| ITWorx | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo,Egypt | [Apply](https://careers.cegedim.com/en/annonce/3036663-software-test-engineer-intern-cairo) | ✅ |
 | Capgemini | Young Professionals Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3960264716) | ✅ |
 | Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
