@@ -98,11 +98,11 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo,Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| Rabbit | Summer Internship Program | Cairo,Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
+| Sumerge | Quality Engineering Talent Program | Cairo,Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo,Egypt | [Apply](https://careers.cegedim.com/en/annonce/3036663-software-test-engineer-intern-cairo) | ✅ |
 | Capgemini | Young Professionals Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3960264716) | ✅ |
-| Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | ✅ |
-| Paymob | Summer Internship Program | Cairo,Egypt | [Apply](https://www.linkedin.com/posts/paymobcompany_engineering-dataanalytics-commercial-activity-7205947724125401088-1ooL?utm_source=share&utm_medium=member_android) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | Cartona | Summer Internship | Cairo,Egypt | [Apply](https://cartona.talentlyft.com/jobs/summer-internship-program-I95) | ✅ |
 | Etisalat | Summer Internship | Cairo,Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
@@ -112,16 +112,17 @@
 | Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
 | CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
 | Swift Act | Summer Internship Program | Cairo, Egypt | [Apply](https://swift-act.com/countdown/) | ✅ |
-| Tagaddod | Multiple Internships | Cairo, Egypt | [Apply](https://apply.workable.com/tagaddod/?lng=en) | ✅ |
-| Huawei | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
-| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | IBM | Cloud Integration | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
+| PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | ✅ |
 | Siemens | Embedded System Course | Cairo, Egypt | [Apply](https://sie.ag/aYyLG) | ✅ |
 | ↳ | Classical Autosar Fundamentals Course | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUNFUwMDlSWk4xQUJXTEtCQlNZUzZLOENSNi4u&fbclid=IwZXh0bgNhZW0CMTEAAR0dk0HIXBfnB8C_wUFItHeIxu00obEmh7fkZ5eC9Z766KvjezNacohg9kw_aem_1b9a0RAPVwVnGBX5LxQbbw&linkId=300000012006176) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship HAV 5G | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eyadhossam_two-long-term-internships-6-months-for-activity-7206684198466641921-Vb0h?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eslam-yasser-2a80a2162_google-forms-sign-in-activity-7205530015852146689-BQTz?utm_source=share&utm_medium=member_android) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
+| Tagaddod | Multiple Internships | Cairo, Egypt | [Apply](https://apply.workable.com/tagaddod/?lng=en) | ✅ |
+| Huawei | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
+| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
 | ITIDA | Summer internship program | Cairo, Egypt | [Apply](https://itida.gov.eg/English/Programs/Summer-Internships/Pages/default.aspx) | ✅ |
 | ZINAD | Multiple Internship Programs | Cairo, Egypt | [Apply](https://zinad.net/internship-program.html) | ✅ |
 | eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
@@ -145,6 +146,7 @@
 | Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | 🔒 |
 | Vodafone | Vodanation Summer Internship Program | Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-Vodanation-Summer-Internship-Program-2024/1064535301/?from=email&refid=19886980001&utm_source=J2WEmail&source=2&eid=78001-202428240528-28597415401&locale=en_GB) | 🔒 |
 | _VOIS | Explore Internship Programme | Cairo, Egypt | [Apply](https://opportunities.vodafone.com/job/Cairo-_VOIS-Explore-Internship-Programme-2024/1074908901/) | 🔒 |
+| Orange Business | Summer Internship | Cairo,Egypt | [Apply](https://lnkd.in/dFu2GQ2K) | 🔒 |
 | Thndr | Multiple Internships | Cairo,Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | 🔒 |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | 🔒 |
 | Samsung | Samsung Innovation Campus | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | 🔒 |
