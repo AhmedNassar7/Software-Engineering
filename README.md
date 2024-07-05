@@ -50,6 +50,7 @@
 | HP | Software Developer Intern | Cambridge, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Developer-Intern--12-months_3138225-1?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | TikTok | Software Engineer Intern - Security | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
+| Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | Pinterest | Machine Learning Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/jobs/5967438/machine-learning-intern-2024-toronto/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=5967438) | ✅ |
 | Rippling | Software Engineer Intern | USA | [Apply](https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0?jobSite=LinkedIn) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
@@ -100,6 +101,8 @@
 | Rabbit | Summer Internship Program | Cairo,Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo,Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
 | Sumerge | Quality Engineering Talent Program | Cairo,Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
+| RSA | Graduate Internship | Cairo,Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
+| Master Micro | Multipe Internships | Cairo,Egypt | [Apply](https://www.master-micro.com/join-us) | ✅ |
 | Cegedim | Software Test Engineer (Intern) | Cairo,Egypt | [Apply](https://careers.cegedim.com/en/annonce/3036663-software-test-engineer-intern-cairo) | ✅ |
 | Capgemini | Young Professionals Program | Cairo,Egypt | [Apply](https://www.linkedin.com/jobs/view/3960264716) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
