@@ -229,12 +229,13 @@
 ## Volunteering
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
-| Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | ✅ |
+| YLY - Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | ✅ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
 | iCareer | Training Coordinator Intern | [Apply](https://ats.icareerhub.com//job_details/1717853299635x489941642205724700?ref=V35lt2DX) | ✅ |
+| Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | 🔒 |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
-| NASA Space Apps | NASA Space Apps Cairo 2024 | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
-| Startups Without Borders | Startups Without Borders Summit 2024 | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
+| NASA Space Apps | NASA Space Apps Cairo | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
+| Startups Without Borders | Startups Without Borders Summit | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
 | YLE | Volunteering | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
 
