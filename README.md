@@ -45,6 +45,7 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Google | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/83484176157680326-software-engineering-intern-summer-2025) | ✅ |
 | Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
 | HP | Software Developer Intern | Cambridge, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Developer-Intern--12-months_3138225-1?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed) | ✅ |
