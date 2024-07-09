@@ -48,12 +48,14 @@
 | Google | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/83484176157680326-software-engineering-intern-summer-2025) | ✅ |
 | Meta | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
+| Oracle | Software Engineer Intern | USA | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/249129?utm_medium=jobboard&utm_source=LinkedIn) | ✅ |
 | HP | Software Developer Intern | Cambridge, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Developer-Intern--12-months_3138225-1?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | TikTok | Software Engineer Intern - Security | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
 | Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | Pinterest | Machine Learning Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/jobs/5967438/machine-learning-intern-2024-toronto/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=5967438) | ✅ |
 | Rippling | Software Engineer Intern | USA | [Apply](https://ats.rippling.com/rippling/jobs/6571728d-4dce-411d-b1ab-f137f6b56aa0?jobSite=LinkedIn) | ✅ |
+| Tesla | Software Engineer Intern (Fall 2024) | California, USA | [Apply](https://www.tesla.com/careers/search/job/221984?source=LinkedIn) | ✅ |
 | SpaceX | Software Engineering Intern | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Amazon | Software Development Engineer Intern | Multiple Locations | [Apply](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=Software%20Dev%20Engineer%20Intern&city=&country=&region=&county=&query_options=&) | ✅ |
 | Vodafone | Vodanation Summer Internship Program | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
@@ -104,6 +106,7 @@
 | Sumerge | Quality Engineering Talent Program | Cairo,Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
 | RSA | Graduate Internship | Cairo, Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
 | Master Micro | Multipe Internships | Cairo,Egypt | [Apply](https://www.master-micro.com/join-us) | ✅ |
+| Procore | Software Ebgineer Intern | Cairo,Egypt | [Apply](https://careers.procore.com/jobs/cfd42471-dfe5-431a-99d1-9e49f8877d78?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | Cartona | Summer Internship | Cairo, Egypt | [Apply](https://cartona.talentlyft.com/jobs/summer-internship-program-I95) | ✅ |
 | Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
