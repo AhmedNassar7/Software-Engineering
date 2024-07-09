@@ -109,6 +109,7 @@
 | Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | Cartona | Summer Internship | Cairo, Egypt | [Apply](https://cartona.talentlyft.com/jobs/summer-internship-program-I95) | ✅ |
 | Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
+| Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | ABCD Bank | Summer Internship | Cairo, Egypt | [Apply](https://www.adcb.com.eg/adcb-internship-program/) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
