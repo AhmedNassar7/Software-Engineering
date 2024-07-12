@@ -188,13 +188,13 @@
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-| Google | Cloud Vertex AI Agent Builder | Virtual | [Apply](https://googlevertexai.devpost.com/) | 4 June | ✅ |
 | MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) |  | ✅ |
-| Nile University | Quantum-AI | Egypt | [Apply](https://itcs.nu.edu.eg/NU_ACM_Quantum_AI_Hackathon) |  | ✅ |
 | Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
-| Google | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
+| Google | Cloud Vertex AI Agent Builder | Virtual | [Apply](https://googlevertexai.devpost.com/) | 4 June | 🔒 |
+| ↳ | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
 | ↳ | BreakBeatCode | Virtual | [Apply](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
 | ↳ | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | 🔒 |
+
 | _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
 | Vodafone | AI Assistive Tools | Egypt | [Apply](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
@@ -206,7 +206,8 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | Meta | Connect 2024 | Virtual | [Apply](https://www.meta.com/connect/?sf273424789=1) | 25 September | ✅ |
-| Amazon | re:Invent 2024 | Las Vegas, USA | [Apply](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 2 December | ✅ |
+| Amazon | EMEA Partner Enablement Calendar | Virtual | [Apply](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
+| ↳ | re:Invent 2024 | Las Vegas, USA | [Apply](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 2 December | ✅ |
 | Incorta | Multiple Events | Virtual | [Apply](https://www.incorta.com/events) | | ✅ |
 | Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
 | Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
