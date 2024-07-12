@@ -188,16 +188,15 @@
 ## Hackathons
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Apply](https://mlh.io/seasons/2024/events) |  | ✅ |
-| Orange Digital Center | UI/UX SAAS | Egypt | [Apply](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
-| Google | Cloud Vertex AI Agent Builder | Virtual | [Apply](https://googlevertexai.devpost.com/) | 4 June | 🔒 |
-| ↳ | Girl Hackathon | Virtual | [Apply](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
-| ↳ | BreakBeatCode | Virtual | [Apply](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
-| ↳ | AI Hackathon | Virtual | [Apply](https://googleai.devpost.com/) | 3 May | 🔒 |
-
-| _VOIS | AI in Business | Virtual | [Apply](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
-| Vodafone | AI Assistive Tools | Egypt | [Apply](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
-| Dell | CS, Big Data, Security, and ML | Egypt | [Apply](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
+| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Register](https://mlh.io/seasons/2024/events) |  | ✅ |
+| Orange Digital Center | UI/UX SAAS | Egypt | [Register](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
+| Google | Cloud Vertex AI Agent Builder | Virtual | [Register](https://googlevertexai.devpost.com/) | 4 June | 🔒 |
+| ↳ | Girl Hackathon | Virtual | [Register](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
+| ↳ | BreakBeatCode | Virtual | [Register](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
+| ↳ | AI Hackathon | Virtual | [Register](https://googleai.devpost.com/) | 3 May | 🔒 |
+| _VOIS | AI in Business | Virtual | [Register](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
+| Vodafone | AI Assistive Tools | Egypt | [Register](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
+| Dell | CS, Big Data, Security, and ML | Egypt | [Register](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
 
 
 
@@ -205,30 +204,30 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-| Meta | Connect 2024 | Virtual | [Apply](https://www.meta.com/connect/?sf273424789=1) | 25 September | ✅ |
-| Amazon | EMEA Partner Enablement Calendar | Virtual | [Apply](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
-| ↳ | re:Invent 2024 | Las Vegas, USA | [Apply](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 2 December | ✅ |
-| Incorta | Multiple Events | Virtual | [Apply](https://www.incorta.com/events) | | ✅ |
-| Coursera | Generative AI | Virtual | [Apply](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
-| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Apply](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
-| Techne | Techne Summit Cairo | Cairo, Egypt | [Apply](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
-| RiseUp | RiseUp Summit | Cairo, Egypt | [Apply](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
-| Startups Without Borders | SWB Summit | Cairo, Egypt | [Apply](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
-| Nokia | Cyber Threats | Dubai | [Apply](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
-| Google | Data Cloud Live | Bucharest | [Apply](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
-| ↳ | Google I/O | Virtual | [Apply](https://io.google/2024/) | 14 May | 🔒 |
-| Meta | Open House Enterprise Engineering | Warsaw, Poland | [Apply](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
-| Amazon | Women of The World | Virtual | [Apply](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
-| ↳ | Women in Tech Summit | Warsaw | [Apply](https://womenintechsummit.pl/join-the-event) | 12 June | 🔒 |
-| ↳ | Amazon Pathways | Virtual | [Apply](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
-| ↳ | AWS for Data | Virtual | [Apply](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
-| Manara | Tech Talks | Virtual | [Apply](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
-| ↳ | Tech Salon | Cairo, Egypt | [Apply](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
-| Ahmed Elemam | FAANG Internship | Virtual | [Apply](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
-| HackerRank | AI Day | Virtual | [Apply](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
-| iCareer | FEMpower Summit | Cairo, Egypt | [Apply](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
-| Career180 | Egypt Career Summit | Cairo, Egypt | [Apply](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
-| _VOIS | Virtual Career Day | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
+| Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | ✅ |
+| Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
+| ↳ | re:Invent 2024 | Las Vegas, USA | [Register](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 2 December | ✅ |
+| Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) | | ✅ |
+| Coursera | Generative AI | Virtual | [Register](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
+| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Register](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
+| Techne | Techne Summit Cairo | Cairo, Egypt | [Register](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
+| RiseUp | RiseUp Summit | Cairo, Egypt | [Register](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
+| Startups Without Borders | SWB Summit | Cairo, Egypt | [Register](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
+| Nokia | Cyber Threats | Dubai | [Register](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
+| Google | Data Cloud Live | Bucharest | [Register](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
+| ↳ | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
+| Meta | Open House Enterprise Engineering | Warsaw, Poland | [Register](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
+| Amazon | Women of The World | Virtual | [Register](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
+| ↳ | Women in Tech Summit | Warsaw | [Register](https://womenintechsummit.pl/join-the-event) | 12 June | 🔒 |
+| ↳ | Amazon Pathways | Virtual | [Register](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
+| ↳ | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
+| Manara | Tech Talks | Virtual | [Register](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
+| ↳ | Tech Salon | Cairo, Egypt | [Register](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
+| Ahmed Elemam | FAANG Internship | Virtual | [Register](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
+| HackerRank | AI Day | Virtual | [Register](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
+| iCareer | FEMpower Summit | Cairo, Egypt | [Register](https://vcc.icareerhub.com//events_workshops/1708704022934x582080117362131000?ref=ZIqWmOao) | 9 Mar | 🔒 |
+| Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
+| _VOIS | Virtual Career Day | Cairo, Egypt | [Register](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
 
 
 
