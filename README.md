@@ -290,7 +290,7 @@
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 35.5k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 40k |
-| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 300 |
+| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 400 |
 
 
 
