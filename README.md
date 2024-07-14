@@ -100,6 +100,7 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| Khazna | Summer Internship program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfGVV1axrhjAENiUAHL2vrEx3qe5PQjIn64HkoSIMfjz4GHuA/viewform) | ✅ |
 | Dsquares | Data Analysis - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969084339/) | ✅ |
 | ↳ | Backend Engineer - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969080569/) | ✅ |
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
