@@ -106,11 +106,11 @@
 | ↳ | Backend Engineer - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969080569/) | ✅ |
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
-| Sumerge | Quality Engineering Talent Program | Cairo,Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
+| Sumerge | Quality Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
 | RSA | Graduate Internship | Cairo, Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
-| Master Micro | Multipe Internships | Cairo,Egypt | [Apply](https://www.master-micro.com/join-us) | ✅ |
-| Procore | Software Ebgineer Intern | Cairo,Egypt | [Apply](https://careers.procore.com/jobs/cfd42471-dfe5-431a-99d1-9e49f8877d78?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
-| Raya | Tech University | Cairo,Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
+| Master Micro | Multiple Internships | Cairo, Egypt | [Apply](https://www.master-micro.com/join-us) | ✅ |
+| Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/cfd42471-dfe5-431a-99d1-9e49f8877d78?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
+| Raya | Tech University | Cairo, Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
@@ -119,6 +119,9 @@
 | CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
 | IBM | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Fullstack Intern (Graduates) | Cairo, Egypt | [Apply](https://IBM.contacthr.com/140067883?Codes=SN_LinkedIn) | ✅ |
+| ↳ | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://IBM.contacthr.com/140067953?Codes=SN_LinkedIn) | ✅ |
 | PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | ✅ |
 | Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
