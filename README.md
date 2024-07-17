@@ -115,9 +115,6 @@
 | Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
-| Majid Al Futtaim | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3975227974) | ✅ |
-| Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
-| CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
 | IBM | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
 | ↳ | Fullstack Intern (Graduates) | Cairo, Egypt | [Apply](https://IBM.contacthr.com/140067883?Codes=SN_LinkedIn) | ✅ |
 | ↳ | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
@@ -125,9 +122,13 @@
 | ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Process Management Intern | Cairo, Egypt | [Apply](https://IBM.contacthr.com/140067953?Codes=SN_LinkedIn) | ✅ |
 | PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | ✅ |
-| Siemens | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
+| Siemens | 5G Diploma Summer | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOTNWWUlPWU9USVNDQkoxUVJPM0dUUTdONS4u&fbclid=IwZXh0bgNhZW0CMTEAAR0vxyVbfnEdposDSgujTeGPmek60KzU_mgWDyqOVsfbkzYioS7K-1gY2gE_aem_Z4lYqVQfKxgUMnq7QFK3Hg&linkId=300000012507521) | ✅ |
+| ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship HAV 5G | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eyadhossam_two-long-term-internships-6-months-for-activity-7206684198466641921-Vb0h?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eslam-yasser-2a80a2162_google-forms-sign-in-activity-7205530015852146689-BQTz?utm_source=share&utm_medium=member_android) | ✅ |
+| Majid Al Futtaim | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3975227974) | ✅ |
+| Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
+| CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
 | Giza Systems | Headway Intern (Graduate) | Cairo, Egypt | [Apply](https://www.gizasystemscareers.com/en/egypt/jobs/headway-intern-2024-software-development-center-5085807/) | ✅ |
 | Tagaddod | Multiple Internships | Cairo, Egypt | [Apply](https://apply.workable.com/tagaddod/?lng=en) | ✅ |
 | Huawei | AI Bootcamp | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdPBVNdewO3beeNg9gMt8pmsXgBllaWRBHZ0J8t97klTM6stQ/viewform) | ✅ |
