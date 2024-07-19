@@ -53,6 +53,7 @@
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | TikTok | Software Engineer Intern - Security | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
 | Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
+| JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
 | Pinterest | Machine Learning Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/jobs/5967438/machine-learning-intern-2024-toronto/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=5967438) | ✅ |
 | Tesla | Software Engineer Intern (Fall 2024) | California, USA | [Apply](https://www.tesla.com/careers/search/job/221984?source=LinkedIn) | ✅ |
 | ↳ | Software Engineering Internship | Brandenburg, Germany | [Apply](https://www.tesla.com/careers/search/job/223732?source=LinkedIn) | ✅ |
