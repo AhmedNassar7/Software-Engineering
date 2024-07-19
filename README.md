@@ -100,13 +100,11 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
-| Khazna | Summer Internship program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfGVV1axrhjAENiUAHL2vrEx3qe5PQjIn64HkoSIMfjz4GHuA/viewform) | ✅ |
 | Halan | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/halan_halansummerinternship-brightminds-halan-activity-7218624729430077440-BQlu?utm_source=share&utm_medium=member_desktop) | ✅ |
 | Dsquares | Data Analysis - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969084339/) | ✅ |
 | ↳ | Backend Engineer - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969080569/) | ✅ |
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
-| Sumerge | Quality Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=88) | ✅ |
 | RSA | Graduate Internship | Cairo, Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
 | Master Micro | Multiple Internships | Cairo, Egypt | [Apply](https://www.master-micro.com/join-us) | ✅ |
 | Procore | Software Engineer Intern | Cairo, Egypt | [Apply](https://careers.procore.com/jobs/cfd42471-dfe5-431a-99d1-9e49f8877d78?source=linkedin_limited_listing&utm_source=linkedin_limited_listing) | ✅ |
