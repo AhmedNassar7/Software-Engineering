@@ -51,7 +51,14 @@
 | Oracle | Software Engineer Intern | USA | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/249129?utm_medium=jobboard&utm_source=LinkedIn) | ✅ |
 | HP | Software Developer Intern | Cambridge, United Kingdom | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Software-Developer-Intern--12-months_3138225-1?source=Socialmedia-LinkedIn&src=Linkedin+Full+Feed) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
-| TikTok | Software Engineer Intern - Security | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
+| TikTok | Software Engineer Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Front-End Engineer Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7393130155009886501/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Front-End Software Engineer Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7393144213079394569/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Backend Software Engineer Intern (TikTok User and Relation) | Los Angeles, USA | [Apply](https://careers.tiktok.com/position/7393131049779349797/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Backend Software Engineer Intern (TikTok Social Interaction) | San Jose, USA | [Apply](https://careers.tiktok.com/position/7393134280438139186/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Mobile Software Engineer Intern (TikTok User and Relation) | Los Angeles, USA | [Apply](https://careers.tiktok.com/position/7393136802921859355/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Mobile Software Engineer Intern (TikTok Friend Interaction) | San Jose, USA | [Apply](https://careers.tiktok.com/position/7393137974432598282/detail?spread=5MWH5CQ) | ✅ |
+| ↳ | Software Development Engineer in Test Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7393137973020592434/detail?spread=5MWH5CQ) | ✅ |
 | Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
 | Pinterest | Machine Learning Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/jobs/5967438/machine-learning-intern-2024-toronto/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=5967438) | ✅ |
