@@ -128,6 +128,7 @@
 | ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | ✅ |
+| ↳ | Software Testing Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=550206WD&jobtitle=ETIC,%20Software%20Testing%20Intern&sfreqid=550206WD) | ✅ |
 | Siemens | 5G Diploma Summer | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOTNWWUlPWU9USVNDQkoxUVJPM0dUUTdONS4u&fbclid=IwZXh0bgNhZW0CMTEAAR0vxyVbfnEdposDSgujTeGPmek60KzU_mgWDyqOVsfbkzYioS7K-1gY2gE_aem_Z4lYqVQfKxgUMnq7QFK3Hg&linkId=300000012507521) | ✅ |
 | ↳ | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mohamed-al-ansary_software-analytics-team-in-cairo-is-offering-activity-7204404960283791361-_0UE?utm_source=share&utm_medium=member_android) | ✅ |
 | ↳ | Summer Internship HAV 5G | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/eyadhossam_two-long-term-internships-6-months-for-activity-7206684198466641921-Vb0h?utm_source=share&utm_medium=member_android) | ✅ |
