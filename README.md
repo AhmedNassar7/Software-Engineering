@@ -111,6 +111,7 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Halan | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/halan_halansummerinternship-brightminds-halan-activity-7218624729430077440-BQlu?utm_source=share&utm_medium=member_desktop) | ✅ |
 | Dsquares | Data Analysis - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969084339/) | ✅ |
 | ↳ | Backend Engineer - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969080569/) | ✅ |
