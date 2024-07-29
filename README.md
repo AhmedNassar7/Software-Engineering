@@ -99,11 +99,10 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=59) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Halan | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/halan_halansummerinternship-brightminds-halan-activity-7218624729430077440-BQlu?utm_source=share&utm_medium=member_desktop) | ✅ |
-| Dsquares | Data Analysis - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969084339/) | ✅ |
-| ↳ | Backend Engineer - Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3969080569/) | ✅ |
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
 | RSA | Graduate Internship | Cairo, Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
