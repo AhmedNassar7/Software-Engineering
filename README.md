@@ -102,6 +102,8 @@
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=59) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
+| Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
+| NTI & ITIDA | Summer Training | Cairo, Egypt | [Apply](https://www.nti.sci.eg/summertraining/) | ✅ |
 | Halan | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/halan_halansummerinternship-brightminds-halan-activity-7218624729430077440-BQlu?utm_source=share&utm_medium=member_desktop) | ✅ |
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
@@ -115,6 +117,7 @@
 | ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | PWC | Software Testing Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=550206WD&jobtitle=ETIC,%20Software%20Testing%20Intern&sfreqid=550206WD) | ✅ |
+| ↳ | Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/activity-7221182477346734080--hMn?utm_source=share&utm_medium=member_android) | ✅ |
 | Majid Al Futtaim | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3975227974) | ✅ |
 | Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
 | CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
