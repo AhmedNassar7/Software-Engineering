@@ -111,12 +111,10 @@
 | Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
-| IBM | Cloud Integration Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20472524/application-developer-ibm-cloud-integration-internship-cairo-eg/?codes=WEB_SEARCH_NA) | ✅ |
-| ↳ | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
+| IBM | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | ✅ |
-| ↳ | Software Testing Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=550206WD&jobtitle=ETIC,%20Software%20Testing%20Intern&sfreqid=550206WD) | ✅ |
+| PWC | Software Testing Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=550206WD&jobtitle=ETIC,%20Software%20Testing%20Intern&sfreqid=550206WD) | ✅ |
 | Majid Al Futtaim | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3975227974) | ✅ |
 | Sprints | Scholarship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/sprintsai_efeabregypt-sprints-sprintsai-activity-7206300949328334848-dWlb?utm_source=share&utm_medium=member_android) | ✅ |
 | CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
@@ -168,6 +166,7 @@
 | Valu | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/duCnzqsP) | 🔒 |
 | PepsiCo | Summer Internship | Egypt | [Apply](https://www.pepsicojobs.com/main/jobs?location=Egypt&woe=12&stretchUnit=MILES&stretch=10&page=1&keywords=dare%20summer%20internship&sortBy=relevance&categories=Supply%20Chain) | 🔒 |
 | ITWorx | Summer Internship | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/itworx_itworx-itworxian-internship2024-activity-7205463730640293888-Ow-8?utm_source=share&utm_medium=member_android) | 🔒 |
+| PWC | Full Stack Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=516135WD&wdcountry=EGY&wdjobsite=&wdprog=&wdisu=) | 🔒 |
 | Gameball | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/gameball_new-opportunity-alert-gameball-is-thrilled-activity-7203353467950739456-SA7Y?utm_source=share&utm_medium=member_android) | 🔒 |
 | Intercom | Summer Youthship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/intercom-enterprises_internship2023-internship-job-activity-7203747180547842048--DGc?utm_source=share&utm_medium=member_android) | 🔒 |
 | Master Micro | Multiple Internships | Cairo, Egypt | [Apply](https://www.master-micro.com/join-us) | 🔒 |
