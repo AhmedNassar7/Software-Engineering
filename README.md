@@ -100,6 +100,8 @@
 | ------- | ---- | -------- | ------------| ------ |
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
+| ALEX BANK | Virtual Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/bank-of-alexandria_leap-alexbank-activity-7224329436752449538-Sfqy?utm_source=share&utm_medium=member_android) | ✅ |
+| Agriculture Bank of Egypt  | Summer Internship | Cairo, Egypt | [Apply](https://www.facebook.com/share/p/r8RsYcfsCbGY6NPs/?mibextid=oFDknk) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=59) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
