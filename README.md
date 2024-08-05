@@ -50,6 +50,8 @@
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Uber | Career Prep | EMEA | [Apply](https://pages.beamery.com/uber/page/careerprep24) | ✅ |
 | Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | ✅ |
+| Tanium | Summer Intern Program | - | [Apply](https://www.tanium.com/blog/taniums-summer-intern-program-a-launch-pad-to-leadership-in-cybersecurity/?blaid=6329663) | ✅ |
+| Notion | Software Engineering Intern (Summer 2025) | Multiple Locations in USA | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
 | Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
 | ↳ | AI & Data Science Associate Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210530348?utm_content=302120767&utm_medium=social&utm_source=linkedin&hss_channel=lis-DTtbB6l0Y8) | ✅ |
@@ -242,13 +244,13 @@
 ## Volunteering
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
-| YLY - Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | ✅ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
 | iCareer | Training Coordinator Intern | [Apply](https://ats.icareerhub.com//job_details/1717853299635x489941642205724700?ref=V35lt2DX) | ✅ |
 | Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | 🔒 |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
 | Startups Without Borders | Startups Without Borders Summit | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeX06FiDjoyz8hlRUiOUDbVTby_-UjPk6s16wIwmWh41i8H1Q/viewform) | 🔒 |
+| YLY - Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | 🔒 |
 | YLE | Volunteering | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
 
