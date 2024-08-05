@@ -98,11 +98,12 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | ✅ |
+| Dell | Undergraduate Intern, AI Engineer | Cairo, Egypt | [Apply](https://jobs.dell.com/en/job/-/-/375/68234626224?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=CjkKEQjwh7K1BhCJrZW17ezM1L0BEiQAuK-bsiWx9u383YM1hbP8--Qe8Z5coQII3oWukaAar8l9fPDw_wcB) | ✅ |
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
 | ALEX BANK | Virtual Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/bank-of-alexandria_leap-alexbank-activity-7224329436752449538-Sfqy?utm_source=share&utm_medium=member_android) | ✅ |
 | Agriculture Bank of Egypt  | Summer Internship | Cairo, Egypt | [Apply](https://www.facebook.com/share/p/r8RsYcfsCbGY6NPs/?mibextid=oFDknk) | ✅ |
 | Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=59) | ✅ |
+| Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
 | NTI & ITIDA | Summer Training | Cairo, Egypt | [Apply](https://www.nti.sci.eg/summertraining/) | ✅ |
@@ -141,13 +142,14 @@
 | Instabug | Backend Intern | Cairo, Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | 🔒 |
 | Incorta | Summer Internship Program | Cairo, Egypt | [Apply](https://jobs.lever.co/incorta/3bc8369b-3aab-4d79-abd3-86aefffb28c7) | 🔒 |
 | Dell | Summer Academy | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/miraehab_mysummerwithdell-technology-it-activity-7205875641420771328-rs1J?utm_source=share&utm_medium=member_android) | 🔒 |
+| Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | 🔒 |
 | Schneider Electric | NextGen Summer Internship Program | Cairo, Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
 | ↳ | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
 | Jumia | Internship Global Program - Backend Developer (PHP) | Cairo, Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program 2023 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfZ4iNEIbvefAYviDC0jRizI_LnTgIO-Ii-eiVwc9IWk6-M2g/closedform) | 🔒 |
 | ↳ | Internship Program 2024 | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
 | Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | 🔒 |
-| ↳ | 5G Diploma Summer | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOTNWWUlPWU9USVNDQkoxUVJPM0dUUTdONS4u&fbclid=IwZXh0bgNhZW0CMTEAAR0vxyVbfnEdposDSgujTeGPmek60KzU_mgWDyqOVsfbkzYioS7K-1gY2gE_aem_Z4lYqVQfKxgUMnq7QFK3Hg&linkId=300000012507521) | ✅ |
+| ↳ | 5G Diploma Summer | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOTNWWUlPWU9USVNDQkoxUVJPM0dUUTdONS4u&fbclid=IwZXh0bgNhZW0CMTEAAR0vxyVbfnEdposDSgujTeGPmek60KzU_mgWDyqOVsfbkzYioS7K-1gY2gE_aem_Z4lYqVQfKxgUMnq7QFK3Hg&linkId=300000012507521) | 🔒 |
 | ↳ | Embedded System Course | Cairo, Egypt | [Apply](https://sie.ag/aYyLG) | 🔒 |
 | ↳ | Classical Autosar Fundamentals Course | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUNFUwMDlSWk4xQUJXTEtCQlNZUzZLOENSNi4u&fbclid=IwZXh0bgNhZW0CMTEAAR0dk0HIXBfnB8C_wUFItHeIxu00obEmh7fkZ5eC9Z766KvjezNacohg9kw_aem_1b9a0RAPVwVnGBX5LxQbbw&linkId=300000012006176) | 🔒 |
 | IBM | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20538002/ibm-summer-internship-program-2024-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | 🔒 |
