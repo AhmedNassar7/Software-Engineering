@@ -45,16 +45,17 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Google | Software Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/83484176157680326-software-engineering-intern-summer-2025) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
 | Oracle | Software Engineer Intern | USA | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/249129?utm_medium=jobboard&utm_source=LinkedIn) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
-| TikTok | Software Engineer Intern | San Jose, USA | [Apply](https://careers.tiktok.com/position/7380093507530492186/detail?spread=5MWH5CQ) | ✅ |
+| Uber | Career Prep | EMEA | [Apply](https://pages.beamery.com/uber/page/careerprep24) | ✅ |
+| Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | ✅ |
 | Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
+| ↳ | AI & Data Science Associate Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210530348?utm_content=302120767&utm_medium=social&utm_source=linkedin&hss_channel=lis-DTtbB6l0Y8) | ✅ |
+| ↳ | Tech Connect Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527974) | ✅ |
 | Pinterest | Machine Learning Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/jobs/5967438/machine-learning-intern-2024-toronto/?source=linkedin_limited_listing&utm_source=linkedin_limited_listing&gh_jid=5967438) | ✅ |
-| Tesla | Software Engineer Intern (Fall 2024) | California, USA | [Apply](https://www.tesla.com/careers/search/job/221984?source=LinkedIn) | ✅ |
-| ↳ | Software Engineering Internship | Brandenburg, Germany | [Apply](https://www.tesla.com/careers/search/job/223732?source=LinkedIn) | ✅ |
+| Tesla | Software Engineering Internship | Brandenburg, Germany | [Apply](https://www.tesla.com/careers/search/job/223732?source=LinkedIn) | ✅ |
 | SpaceX | Software Engineering Intern (Fall 2024) | Multiple Locations | [Apply](https://boards.greenhouse.io/spacex/jobs/7268831002?&ref=MarkBenliyan) | ✅ |
 | Lufthanza | Internship Data Analytics & Engineering | Multiple Locations | [Apply](https://apply.lufthansagroup.careers/index.php?ac=login&jobad_id=112561&externalJobboard=1234&utm_source=linkedin) | ✅ |
 | Jane Street | Software Engineer Internship | New York, USA | [Apply](https://www.janestreet.com/join-jane-street/position/7527332002/) | ✅ |
