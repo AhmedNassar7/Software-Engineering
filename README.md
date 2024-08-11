@@ -11,7 +11,7 @@
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
 
-✅ Keep track of new opportunities in **FAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) server.
+✅ Keep track of new opportunities in **MAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) server.
 
 🎉 Enjoy your time and best of luck :)
 
