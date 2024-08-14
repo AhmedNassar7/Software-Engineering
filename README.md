@@ -49,9 +49,6 @@
 | Oracle | Software Engineer Intern | USA | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/249129?utm_medium=jobboard&utm_source=LinkedIn) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Uber | Career Prep | EMEA | [Apply](https://pages.beamery.com/uber/page/careerprep24) | ✅ |
-| Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | ✅ |
-| Tanium | Summer Intern Program | - | [Apply](https://www.tanium.com/blog/taniums-summer-intern-program-a-launch-pad-to-leadership-in-cybersecurity/?blaid=6329663) | ✅ |
-| Netflix | Machine Learning Intern | USA | [Apply](https://jobs.netflix.com/jobs/338884555) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
 | ↳ | AI & Data Science Associate Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210530348?utm_content=302120767&utm_medium=social&utm_source=linkedin&hss_channel=lis-DTtbB6l0Y8) | ✅ |
 | ↳ | Tech Connect Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527974) | ✅ |
@@ -93,6 +90,7 @@
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Tesla | Fullstack Software Intern | California, USA | [Apply](https://www.tesla.com/careers/search/job/internship-fullstacksoftwareengineerfleetnetsummer2024-211333?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Pinterest | Software Engineer Intern | Toronto, Canada | [Apply](https://www.pinterestcareers.com/en/jobs/5666542/software-engineering-co-op-intern-2024-toronto/?gh_jid=5666542) | 🔒 |
+| Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | 🔒 |
 | Notion | Software Engineer Intern | New York, USA | [Apply](https://app.ripplematch.com/v2/public/job/9541f239/details?from_page=MarkBenliyan) | 🔒 |
 
 
