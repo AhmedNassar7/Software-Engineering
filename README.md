@@ -99,11 +99,7 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Dell | Undergraduate Intern, AI Engineer | Cairo, Egypt | [Apply](https://jobs.dell.com/en/job/-/-/375/68234626224?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=CjkKEQjwh7K1BhCJrZW17ezM1L0BEiQAuK-bsiWx9u383YM1hbP8--Qe8Z5coQII3oWukaAar8l9fPDw_wcB) | ✅ |
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
-| ALEX BANK | Virtual Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/bank-of-alexandria_leap-alexbank-activity-7224329436752449538-Sfqy?utm_source=share&utm_medium=member_android) | ✅ |
-| Agriculture Bank of Egypt  | Summer Internship | Cairo, Egypt | [Apply](https://www.facebook.com/share/p/r8RsYcfsCbGY6NPs/?mibextid=oFDknk) | ✅ |
-| Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.sumerge.com/job-description/?jobID=59) | ✅ |
 | Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
@@ -112,9 +108,7 @@
 | Rabbit | Summer Internship Program | Cairo, Egypt | [Apply](https://www.rabbitmart.com/content/jobs/internship/) | ✅ |
 | ITWorx | Summer Internship Program | Cairo, Egypt | [Apply](https://careers.itworx.com/#/job-details/1954) | ✅ |
 | RSA | Graduate Internship | Cairo, Egypt | [Apply](https://recruiting.ultipro.com/rsa1000rsas/jobboard/f68a6039-2280-43b7-bff8-e7bbca2bda92/OpportunityDetail?opportunityId=5f9405fe-fd36-40ad-ae5d-6d7ef909e886&source=LinkedIn) | ✅ |
-| Raya | Tech University | Cairo, Egypt | [Apply](https://careers.rayacorp.com/en/egypt/jobs/raya-tech-university-5132775/?came_from=saved_search) | ✅ |
 | Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
-| Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
 | IBM | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
@@ -169,6 +163,9 @@
 | Banque Misr | Rowad Banking Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3925047056/#HYM) | 🔒 |
 | Arab African International Bank | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/aaibofficial_aaib-theplacetobe-activity-7199043132699668480-OAcj?utm_source=share&utm_medium=member_android) | 🔒 |
 | HSBC | Summer Internship Program | Cairo, Egypt | [Apply](https://mycareer.hsbc.com/en_GB/external/PipelineDetail/Summer-Internship-Program-HSBC-Bank-Egypt/230352) | 🔒 |
+| Central Bank of Egypt | Internship Program | Cairo, Egypt | [Apply](https://cbe.taleo.net/careersection/cbe_ex/jobdetail.ftl?job=24000021&tz=GMT%2B03%3A00&tzname=Africa%2FCairo&fbclid=IwZXh0bgNhZW0CMTAAAR1hNOX2TanWdHneBOa_Wa2-oefHGjxaPHecVeClcKiQPrcH1U6OmmTCIuk_aem_e2JUi8sSlNj4UGbaNcnDYg) | 🔒 |
+| ALEXBANK | Virtual Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/bank-of-alexandria_leap-alexbank-activity-7224329436752449538-Sfqy?utm_source=share&utm_medium=member_android) | 🔒 |
+| Agriculture Bank of Egypt  | Summer Internship | Cairo, Egypt | [Apply](https://www.facebook.com/share/p/r8RsYcfsCbGY6NPs/?mibextid=oFDknk) | 🔒 |
 | EG Bank | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/dZfVFkDY) | 🔒 |
 | Orange Digital Center | AI using C++ Training | Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScCPkMSvfgKMCBJCfZXFMU48Rt08RoFBkoBuuN87zkotM96sA/formResponse) | 🔒 |
 | Valu | Summer Internship | Cairo, Egypt | [Apply](https://lnkd.in/duCnzqsP) | 🔒 |
