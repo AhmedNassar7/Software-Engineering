@@ -97,6 +97,8 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Orange Digital Center & Digital Hub | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/digital-hub-d-hub_boost-your-tech-skills-with-digital-activity-7231759372165468160-VFVo?utm_source=share&utm_medium=member_android) | ✅ |
+| Orange Digital Center & AMIT | Scholarships | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSectnWTwCrR-7cZbuGM7NH5lXysUTBfVVrnx363bB_lCGDUbA/viewform) | ✅ |
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
 | Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
