@@ -97,8 +97,7 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Orange Digital Center & Digital Hub | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/digital-hub-d-hub_boost-your-tech-skills-with-digital-activity-7231759372165468160-VFVo?utm_source=share&utm_medium=member_android) | ✅ |
-| Orange Digital Center & AMIT | Scholarships | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSectnWTwCrR-7cZbuGM7NH5lXysUTBfVVrnx363bB_lCGDUbA/viewform) | ✅ |
+| Siemens | Frontend Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mazenalbadawy_𝗦𝗶𝗲𝗺𝗲𝗻𝘀-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱-𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺-activity-7234857263797047296-LGRb?utm_source=share&utm_medium=member_android) | ✅ |
 | Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
 | Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
@@ -154,6 +153,8 @@
 | Thndr | Multiple Internships | Cairo, Egypt | [Apply](https://thndr-talent.freshteam.com/jobs?location=[]&department=[]&jobType=["3"]&title=&isRemoteLocation=false) | 🔒 |
 | Raisa Energy | Multiple Internships | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/raisa-energy_tech-design-activity-7191145637277552641-lbcZ?utm_source=share&utm_medium=member_android) | 🔒 |
 | Samsung | Samsung Innovation Campus | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=MfKgXhfhOUK9McpWAWoC7pyaUhiHhH5BhsbQrCJmhXxUMTBISkFYT0FCWkdYNVJSNUpUVEJUS1BOTS4u) | 🔒 |
+| Orange Digital Center & Digital Hub | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/digital-hub-d-hub_boost-your-tech-skills-with-digital-activity-7231759372165468160-VFVo?utm_source=share&utm_medium=member_android) | 🔒 |
+| Orange Digital Center & AMIT | Scholarships | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSectnWTwCrR-7cZbuGM7NH5lXysUTBfVVrnx363bB_lCGDUbA/viewform) | 🔒 |
 | Bosta | Summer Internship | Cairo, Egypt | [Apply](https://jobs.lever.co/Bosta?team=NextGen%20Summer%20Internship) | 🔒 |
 | Fawry | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/fawry-msme-finance_we-are-thrilled-to-announce-our-upcoming-activity-7203778514569879552-Vhyo?utm_source=share&utm_medium=member_android) | 🔒 |
 | Sumerge | Software Engineering Talent Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3929781051) | 🔒 |
