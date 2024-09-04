@@ -45,8 +45,8 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Google | Software Engineering Winter Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/76016493501784774-software-engineering-winter-intern-2025) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
-| Oracle | Software Engineer Intern | USA | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/249129?utm_medium=jobboard&utm_source=LinkedIn) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | Uber | Career Prep | EMEA | [Apply](https://pages.beamery.com/uber/page/careerprep24) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
