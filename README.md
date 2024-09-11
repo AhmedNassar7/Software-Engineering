@@ -98,7 +98,10 @@
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Siemens | Frontend Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mazenalbadawy_𝗦𝗶𝗲𝗺𝗲𝗻𝘀-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱-𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺-activity-7234857263797047296-LGRb?utm_source=share&utm_medium=member_android) | ✅ |
-| Siemens | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
+| ↳ | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
+| IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://IBM.contacthr.com/142275787?Codes=SN_LinkedIn) | ✅ |
+| ↳ | Frontend Intern | Cairo, Egypt | [Apply](https://ibm.contacthr.com/142252885?Codes=SN_LinkedIn) | ✅ |
+| ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
@@ -108,9 +111,6 @@
 | Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
 | Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
 | Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
-| IBM | Application Developer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20687127/application-developer-intern-adobe-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
-| ↳ | Quality Engineer Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20689641/quality-engineer-intern-functional-cairo-eg/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | PWC | Software Testing Intern | Cairo, Egypt | [Apply](https://www.pwc.com/m1/en/careers/student-jobs/description.html?wdjobreqid=550206WD&jobtitle=ETIC,%20Software%20Testing%20Intern&sfreqid=550206WD) | ✅ |
 | ↳ | Graduate Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/activity-7221182477346734080--hMn?utm_source=share&utm_medium=member_android) | ✅ |
 | Majid Al Futtaim | Summer Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/3975227974) | ✅ |
