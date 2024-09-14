@@ -240,7 +240,6 @@
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
-| iCareer | Training Coordinator Intern | [Apply](https://ats.icareerhub.com//job_details/1717853299635x489941642205724700?ref=V35lt2DX) | ✅ |
 | Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | 🔒 |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
@@ -261,7 +260,7 @@
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 17k |
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 500 |
 | Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/PA6J89YpKh) | 900 |
-| Amazon | Amazon Interns & New Grads | [Join](https://discord.gg/n6p45XNPwv) | 22k |
+| Amazon | Amazon Europe Interns & Grads | [Join](https://discord.gg/KuCJAzuBZs) | 200 |
 | ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) | 200 |
 | Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) | 14k |
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) | 1.8k |
