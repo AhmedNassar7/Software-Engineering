@@ -49,7 +49,6 @@
 | ↳ | STEP Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/81981630234665670-student-training-in-engineering-program-step-intern-2025) | ✅ |
 | ↳ | Web Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/98392648733074118-web-solutions-engineer-bsms-intern-2025) | ✅ |
 | ↳ | Software Engineering Winter Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/76016493501784774-software-engineering-winter-intern-2025) | ✅ |
-| ↳ | Application Engineering Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/104466372439745222-application-engineering-intern-summer-2025) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | JPMorgan | Software Engineer Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527899) | ✅ |
