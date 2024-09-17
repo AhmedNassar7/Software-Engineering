@@ -215,6 +215,7 @@
 | AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) | 500 |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) | 200 |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/4rngvrFysd) | 500 |
+| Tesla | Tesla Interns | [Join](https://discord.gg/PWaEw5hMaE) | 2k |
 | Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) | 500 |
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 1k |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
