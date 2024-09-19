@@ -47,7 +47,7 @@
 ## Worldwide Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Google | Software Engineering, Site Reliability Engineering Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/88978621586121414-software-engineering-site-reliability-engineering-bsms-intern-2025) | ✅ |
+| Google | SWE, SRE Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/88978621586121414-software-engineering-site-reliability-engineering-bsms-intern-2025) | ✅ |
 | ↳ | STEP Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/81981630234665670-student-training-in-engineering-program-step-intern-2025) | ✅ |
 | ↳ | UX Design Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/75814941960872646-user-experience-design-bsms-intern-2025) | ✅ |
 | ↳ | Web Intern | Poland | [Apply](https://www.google.com/about/careers/applications/jobs/results/98392648733074118-web-solutions-engineer-bsms-intern-2025) | ✅ |
