@@ -7,7 +7,7 @@
   <img alt="last commit" src="https://img.shields.io/github/last-commit/ahmednassar7/software-engineering?color=F05032&logo=git&logoColor&style=flat" height="22px">
 </div>
 
-🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, **Open-Source Contributions**, and **FAANG & CS Discord Servers**. 
+🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, **Open-Source Contributions**, **FAANG & CS Discord Servers**, and more. 
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
 
