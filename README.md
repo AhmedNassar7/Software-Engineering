@@ -29,6 +29,8 @@
   
 - [Events](#events)
 
+- [Resume](#resume)
+
 - [Volunteering](#volunteering)
 
 - [Contribution](#contribution)
@@ -298,6 +300,7 @@
 | YLE | | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
 
+
 ---
 ## Open-Source Contributions
 - [Google Summer of Code](#google-summer-of-code)
@@ -322,6 +325,14 @@
 
 ## Summer of Bitcoin
 - [Apply](https://www.summerofbitcoin.org/)
+
+
+
+---
+## Resume
+- [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
+- [Resume.lol](https://www.resume.lol/)
+- [FlowCV](https://flowcv.com/)
 
 
 
