@@ -67,7 +67,7 @@
 | JPMorganChase | Multiple Internships | Multiple Locations | [Apply](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=aoi__Technology__Technology___education__HighSchool___education__Undergraduate___education__PostgradPhDMBA) | ✅ |
 | Nokia | Multiple Internships | Multiple Locations | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Intern&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=TRA%3BSWA) | ✅ |
 | Siemens | Multiple Internships | Multiple Locations | [Apply](https://jobs.siemens.com/careers?query=Intern&pid=563156119687499&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&level=early%20professional&family=Engineering&family=Cybersecurity&family=Information%20Technology&domain=siemens.com&sort_by=relevance&utm_source=j_c_global&triggerGoButton=true&triggerGoButton=false) | ✅ |
-| DataDog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
+| Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
 | Vodafone | Vodanation Summer Internship Programs | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
