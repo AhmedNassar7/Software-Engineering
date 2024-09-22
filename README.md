@@ -265,8 +265,8 @@
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
 | ↳ | re:Invent 2024 | Las Vegas, USA | [Register](https://reinvent.awsevents.com/?trk=e2c64bfd-6f03-46b4-aba3-893581cfd553&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGTr9vRGzLUGFCgMp8aPbgvU7i10uF5yKCpCAiJiw2LNysvoSEx6GG9ZGSDyhUDp2cfIOuxXM7yDdiduw_iGglc7ZEscP-TWj9dTgleqpS23yf82erQYJ-36Q) | 2 December | ✅ |
 | Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) | | ✅ |
+| Engineerex Youth | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | ✅ |
 | Coursera | Generative AI | Virtual | [Register](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
-| Engineerex | Youth-Edition '24 | Cairo, Egypt | [Register](https://facebook.com/events/s/engineerex-youth-edition-24/1461426834472937/) | 8 June | 🔒 |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Register](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Register](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Register](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
