@@ -52,7 +52,6 @@
 | ↳ | UX Design Intern | EMEA | [Apply](https://www.google.com/about/careers/applications/jobs/results/75814941960872646-user-experience-design-bsms-intern-2025) | ✅ |
 | ↳ | Web Intern | Poland | [Apply](https://www.google.com/about/careers/applications/jobs/results/98392648733074118-web-solutions-engineer-bsms-intern-2025) | ✅ |
 | ↳ | Software Engineering Winter Intern | India | [Apply](https://www.google.com/about/careers/applications/jobs/results/76016493501784774-software-engineering-winter-intern-2025) | ✅ |
-| NVIDIA | Software Engineering Intern | USA | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2025-Ignite-Internships--Software-Engineering_JR1987620) | ✅ |
 | Apple | Machine Learning / AI Internships | USA | [Apply](https://jobs.apple.com/en-us/details/200554363/machine-learning-ai-internships) | ✅ |
 | Bending Spoons | Software Engineer Intern | Remotely | [Apply](https://jobs.bendingspoons.com/positions/658c4c64e9f2f126a8621f10?utm_medium=job_post&utm_campaign=edinburgh&utm_source=linkedin) | ✅ |
 | ↳ | Tech Connect Program | Multiple Locations in USA | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210527974) | ✅ |
@@ -64,6 +63,7 @@
 | IBM | Multiple Internships | Multiple Locations | [Apply](https://www.ibm.com/careers/search?field_keyword_08[0]=Software%20Engineering&field_keyword_08[1]=Cloud&field_keyword_08[2]=Infrastructure%20%26%20Technology&field_keyword_18[0]=Intern) | ✅ |
 | Oracle | Multiple Internships | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=AttributeChar4&selectedFlexFieldsFacets=%22AttributeChar4%7CStudent%2FIntern%22) | ✅ |
 | TikTok | Multiple Internships | Multiple Locations | [Apply](https://careers.tiktok.com/position?keywords=&category=6704215862603155720&location=&project=7256965535018617148%2C7247019463362005306%2C7322364513776093449&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&utm_source=www.interninsider.me) | ✅ |
+| Databricks | Multiple Internships | Multiple Locations | [Apply](https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all) | ✅ |
 | JPMorganChase | Multiple Internships | Multiple Locations | [Apply](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=aoi__Technology__Technology___education__HighSchool___education__Undergraduate___education__PostgradPhDMBA) | ✅ |
 | Nokia | Multiple Internships | Multiple Locations | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Intern&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=TRA%3BSWA) | ✅ |
 | Siemens | Multiple Internships | Multiple Locations | [Apply](https://jobs.siemens.com/careers?query=Intern&pid=563156119687499&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&level=early%20professional&family=Engineering&family=Cybersecurity&family=Information%20Technology&domain=siemens.com&sort_by=relevance&utm_source=j_c_global&triggerGoButton=true&triggerGoButton=false) | ✅ |
@@ -82,10 +82,7 @@
 | Intel | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | 🔒 |
 | Lenovo | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | 🔒 |
-| Databricks | Software Engineering Intern | Belgrade, Serbia | [Apply](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2024-6866534002) | 🔒 |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
-| Adobe | Software Engineer Intern | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | 🔒 |
-| JPMorgan | AI & Data Science Intern | Remotely | [Apply](https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities) | 🔒 |
 | Atlassian | Software Engineer Intern | Australia & New Zealand | [Apply](https://www.atlassian.com/company/careers/details/12505) | 🔒 |
 | Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
