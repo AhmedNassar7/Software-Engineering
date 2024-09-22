@@ -64,9 +64,9 @@
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
 | Bending Spoons | Multiple Internships | Multiple Locations | [Apply](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=hero_CTA&utm_content=careers_page&contractType=internship&student=true&jobCategory=All+departments) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
-| Vodafone | Vodanation Summer Internship Programs | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
-| Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Intern) | ✅ |
-| Notion | Software Engineering Intern | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
+| Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Intern&categories=Software%20Development%2FEngineering&categories=Information%20Technology&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=Technology%20and%20Operations&categories=Cyber%20Security#) | ✅ |
+| Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
+| Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
 | Meta | Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
 | ↳ | Graduate Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/jobs/757084709499347/) | 🔒 |
 | ↳ | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | 🔒 |
