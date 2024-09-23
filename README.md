@@ -76,7 +76,6 @@
 | Udemy | Software Engineering Intern | Dublin, Ireland | [Apply](https://app.careerpuck.com/job-board/udemy/job/5087923004?gh_jid=5087923004) | 🔒 |
 | Booking | Software Engineering Program | Shanghai, China | [Apply](https://jobs.booking.com/careers/job/562949960694051?utm_campaign=623c69341aebee0001ae7ffc&utm_content=65f806f1aa520b0001c9eff2&utm_medium=smarpshare&utm_source=linkedin) | 🔒 |
 | Coinbase | Software Engineer Intern | - | [Apply](https://www.coinbase.com/careers/positions/5442125) | 🔒 |
-| Intel | Software Engineer Undergraduate Intern | Georgia, USA | [Apply](https://jobs.intel.com/en/job/-/-/599/63572251728?source=MarkBenliyan) | 🔒 |
 | Lenovo | Software Engineer Intern | Washington, USA | [Apply](https://jobs.lenovo.com/en_US/careers/JobDetail/Solutions-Software-Engineer-Intern-Summer-2024/55407) | 🔒 |
 | HP | AI/ML Data Science Intern | California, USA | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Diego-California-United-States-of-America/AI-ML-Data-Science-Intern_3133143-2?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-in-canada-and-the-us-tiktok-intel-nokia-and-more) | 🔒 |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
