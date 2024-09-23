@@ -203,12 +203,14 @@
 | Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) | 400 |
 | AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) | 500 |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) | 200 |
+| Uber | Uber Interns | [Join](https://discord.gg/9dp47gcm3j) | 700 |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/4rngvrFysd) | 500 |
-| Jane Street | Jane Street Interns & New Grads | [Join](https://discord.gg/uM6SV5M5Sc) | - |
+| Jane Street | Jane Street Interns & New Grads | [Join](https://discord.gg/uM6SV5M5Sc) | 300 |
 | Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) | 500 |
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 1k |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
 | Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) | 1.1k |
+| Snap | Snap Interns & New Grads | [Join](https://discord.gg/FdUMeS2War) | 500 |
 | Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) | 500 |
 | Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/cJ6bHbTWJy) | 200 |
 | Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) | 200 |
