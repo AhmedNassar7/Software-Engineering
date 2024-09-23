@@ -221,10 +221,11 @@
 | Name | Link | Members |
 | ---- | ---- | ------- |
 | CS Careers | [Join](https://discord.gg/cscareers) | 101k |
-| CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k |
 | CS Majors | [Join](https://discord.gg/csmajors) | 23k |
-| Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
+| CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k |
+| OpenAI | [Join](https://discord.com/invite/openai) | 113k |
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
+| Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.2k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k |
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
