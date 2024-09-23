@@ -227,7 +227,6 @@
 | CS Careers | [Join](https://discord.gg/cscareers) | 101k |
 | CS Majors | [Join](https://discord.gg/csmajors) | 23k |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k |
-| OpenAI | [Join](https://discord.com/invite/openai) | 113k |
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
 | Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.2k |
@@ -271,12 +270,8 @@
 | Google | Data Cloud Live | Bucharest | [Register](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
 | ↳ | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
 | Meta | Open House Enterprise Engineering | Warsaw, Poland | [Register](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
-| Amazon | Women of The World | Virtual | [Register](https://amazonwowspringtechinsight.splashthat.com/brand) | 27 March | 🔒 |
-| ↳ | Women in Tech Summit | Warsaw | [Register](https://womenintechsummit.pl/join-the-event) | 12 June | 🔒 |
-| ↳ | Amazon Pathways | Virtual | [Register](https://amazonpathwaysvirtualeventdeup.splashthat.com/) | 6 March | 🔒 |
-| ↳ | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
+| Amazon | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
 | Manara | Tech Talks | Virtual | [Register](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
-| ↳ | Tech Salon | Cairo, Egypt | [Register](https://pages.manara.tech/manara-tech-salon-1-0?utm_source=Linkedin&utm_medium=Linkedin&utm_campaign=MTSLinkedin&utm_id=MTS+Linkedin) | 22 April | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Register](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Register](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
