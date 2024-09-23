@@ -210,9 +210,10 @@
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 1k |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
 | Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) | 1.1k |
-| IBM | IBM Interns | [Join](https://discord.gg/FXapAGmUyz) | 100 |
 | Snap | Snap Interns & New Grads | [Join](https://discord.gg/FdUMeS2War) | 500 |
 | Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) | 500 |
+| IBM | IBM Interns | [Join](https://discord.gg/FXapAGmUyz) | 100 |
+| Citi | Citi Interns & New Grads | [Join](https://discord.gg/zTCRvnY29f) | 100 |
 | Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/cJ6bHbTWJy) | 200 |
 | Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) | 200 |
 | TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) | 100 |
