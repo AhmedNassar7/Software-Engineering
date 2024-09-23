@@ -191,8 +191,9 @@
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 17k |
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 500 |
 | Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/PA6J89YpKh) | 900 |
+| ↳ | Meta New Grads | [Join](https://discord.gg/fSrnvHSy3Y) | 900 |
 | Amazon | Amazon Europe Interns & Grads | [Join](https://discord.gg/KuCJAzuBZs) | 200 |
-| ↳ | Amazon EU Interns 2024 | [Join](https://discord.gg/7aacQt9vD2) | 200 |
+| ↳ | Amazon EU Interns | [Join](https://discord.gg/7aacQt9vD2) | 200 |
 | Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) | 14k |
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) | 1.8k |
 | Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) | 1.2k |
