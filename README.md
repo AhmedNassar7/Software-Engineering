@@ -226,6 +226,7 @@
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.2k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k |
+| Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
 | Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 |
 
 
