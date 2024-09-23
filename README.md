@@ -197,13 +197,13 @@
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) | 1.8k |
 | Bloomberg | Bloomberg Interns & New Grads | [Join](https://discord.gg/fu5tGHTFP2) | 1.2k |
 | Nvidia | Nvidia Interns & New Grads (Unofficial) | [Join](https://discord.gg/TvQ5asAfha) | 1k |
-| JPMorgan | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) | 2.2k |
+| JPMorganChase | JPMorgan Interns & New Grads | [Join](https://discord.gg/kZbEzqEC6X) | 2.2k |
 | LinkedIn | LinkedIn | [Join](https://discord.gg/vQ7ZJWVYZ2) | 1k |
 | Netflix | Netflix Interns & New Grads | [Join](https://discord.gg/3F9xmH2Wwd) | 400 |
 | AMD | AMD Interns & New Hires | [Join](https://discord.gg/NQ6gwFGJYp) | 500 |
 | Adobe | Adobe Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/kyANT244gT) | 200 |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/4rngvrFysd) | 500 |
-| Tesla | Tesla Interns | [Join](https://discord.gg/PWaEw5hMaE) | 2k |
+| Jane Street | Jane Street Interns & New Grads | [Join](https://discord.gg/uM6SV5M5Sc) | - |
 | Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) | 500 |
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 1k |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
