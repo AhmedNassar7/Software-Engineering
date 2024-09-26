@@ -65,6 +65,7 @@
 | Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
 | Atlassian | Multiple Internships | Multiple Locations | [Apply](https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=) | ✅ |
+| Uber | Multiple Internships | Multiple Locations | [Apply](https://www.uber.com/us/en/careers/teams/university/?uclick_id=7226d1af-317b-43b3-9e5c-079d797ca674) | ✅ |
 | Bending Spoons | Multiple Internships | Multiple Locations | [Apply](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=hero_CTA&utm_content=careers_page&contractType=internship&student=true&jobCategory=All+departments) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
 | Tancent | Multiple Internships | Multiple Locations | [Apply](https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=Technology+%26+IT+Infrastructure&job_types=Internship&employers=Tencent) | ✅ |
@@ -75,11 +76,7 @@
 | Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Intern&categories=Software%20Development%2FEngineering&categories=Information%20Technology&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=Technology%20and%20Operations&categories=Cyber%20Security#) | ✅ |
 | Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
-| Meta | Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/v2/jobs/1007975740551656/) | 🔒 |
-| ↳ | Graduate Software Engineer Internship | Multiple Locations | [Apply](https://www.metacareers.com/jobs/757084709499347/) | 🔒 |
-| ↳ | Rotational Engineering Program | Multiple Locations | [Apply](https://www.metacareers.com/jobs/1083313292696811/) | 🔒 |
 | GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
-| Uber | UberSTAR Summer Internship Program | NL, Amsterdam | [Apply](https://university-uber.icims.com/jobs/130094/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | 🔒 |
 
