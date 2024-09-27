@@ -56,7 +56,7 @@
 | Booking | Multiple Internships | Multiple Locations | [Apply](https://careers.booking.com/early-careers/) | ✅ |
 | Oracle | Multiple Internships | Multiple Locations | [Apply](https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?keyword=Student+%2F+Intern_ERP+SW+Developer&lastSelectedFacet=AttributeChar4&selectedFlexFieldsFacets=%22AttributeChar4%7CStudent%2FIntern%22) | ✅ |
 | TikTok | Multiple Internships | Multiple Locations | [Apply](https://careers.tiktok.com/position?keywords=&category=6704215862603155720&location=&project=7256965535018617148%2C7247019463362005306%2C7322364513776093449&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&utm_source=www.interninsider.me) | ✅ |
-| Adobe | Multiple Internships | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | ✅ |
+| Adobe | Multiple Internships | Multiple Locations | [Apply](https://careers.adobe.com/us/en/search-results?from=10&s=1) | ✅ |
 | Intel | Software Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/software+intern) | ✅ |
 | ↳ | AI Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/ai+intern) | ✅ |
 | Databricks | Multiple Internships | Multiple Locations | [Apply](https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all) | ✅ |
