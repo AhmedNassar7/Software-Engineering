@@ -75,8 +75,8 @@
 | Nokia | Multiple Internships | Multiple Locations | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=Intern&lastSelectedFacet=TITLES&mode=location&selectedTitlesFacet=TRA%3BSWA) | ✅ |
 | Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Intern&categories=Software%20Development%2FEngineering&categories=Information%20Technology&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=Technology%20and%20Operations&categories=Cyber%20Security#) | ✅ |
 | Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
+| Warner Bros. Discovery | Multiple Internships | Multiple Locations | [Apply](https://careers.wbd.com/global/en/internship-opportunities) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
-| GitHub | Software Engineer Intern | California, USA | [Apply](https://www.github.careers/careers-home/jobs/2841?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | 🔒 |
 
