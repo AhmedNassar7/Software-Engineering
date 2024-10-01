@@ -82,12 +82,6 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Siemens | Frontend Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/mazenalbadawy_𝗦𝗶𝗲𝗺𝗲𝗻𝘀-𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱-𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺-activity-7234857263797047296-LGRb?utm_source=share&utm_medium=member_android) | ✅ |
-| ↳ | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/kholoudshokry_calling-all-future-tech-stars-ready-activity-7223623795142459392-Un7P/?utm_source=share&utm_medium=member_android) | ✅ |
-| IBM | Java & Web Intern | Cairo, Egypt | [Apply](https://IBM.contacthr.com/142275787?Codes=SN_LinkedIn) | ✅ |
-| ↳ | Frontend Intern | Cairo, Egypt | [Apply](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=760256#jobDetails=760256_5016) | ✅ |
-| ↳ | Cloud Integration Intern | Cairo, Egypt | [Apply](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26059&siteid=5016&PageType=JobDetails&jobid=760309#jobDetails=760309_5016) | ✅ |
-| ↳ | Hardware Technical Support Intern | Cairo, Egypt | [Apply](https://careers.ibm.com/job/20235336/hardware-technical-support-internship-remote/?codes=SN_LinkedIn&Codes=SN_LinkedIn) | ✅ |
 | Luxoft | Intern C++ Developer | Cairo, Egypt | [Apply](https://career.luxoft.com/jobs/intern-c-developer-7273) | ✅ |
 | Talent Arena | Internship Program | Cairo, Egypt | [Apply](https://www.linkedin.com/posts/talents-arena_interns-internshipprogram-hiringinterns-activity-7220726506656808960-1dxZ?utm_source=share&utm_medium=member_android) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
