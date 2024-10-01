@@ -77,7 +77,6 @@
 | Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
 | Warner Bros. Discovery | Multiple Internships | Multiple Locations | [Apply](https://careers.wbd.com/global/en/internship-opportunities) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
-| Bosch | Software Engineering Intern | Multiple Locations | [Apply](https://jobs.smartrecruiters.com/BoschGroup/743999976237233-software-engineering-intern-summer-2024?utm_source=www.interninsider.me&utm_medium=newsletter&utm_campaign=new-tech-internships-github-tesla-ibm-more) | 🔒 |
 | Deloitte | Software Engineering Summer Scholar | Multiple Locations in USA | [Apply](https://apply.deloitte.com/careers/JobDetail/Deloitte-Consulting-Software-Engineering-Summer-Scholar/185362) | 🔒 |
 
 
