@@ -60,6 +60,7 @@
 | Intel | Software Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/software+intern) | ✅ |
 | ↳ | AI Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/ai+intern) | ✅ |
 | Databricks | Multiple Internships | Multiple Locations | [Apply](https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all) | ✅ |
+| MongoDB | Multiple Internships | Multiple Locations | [Apply](https://www.mongodb.com/company/careers/students-and-graduates) | ✅ |
 | JPMorganChase | Multiple Internships | Multiple Locations | [Apply](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=aoi__Technology__Technology___education__HighSchool___education__Undergraduate___education__PostgradPhDMBA) | ✅ |
 | Jane Street | Multiple Internships | Multiple Locations | [Apply](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=all-locations&department=technology) | ✅ |
 | Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
