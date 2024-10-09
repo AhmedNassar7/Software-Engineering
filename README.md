@@ -60,13 +60,15 @@
 | Intel | Software Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/software+intern) | ✅ |
 | ↳ | AI Internships | Multiple Locations | [Apply](https://jobs.intel.com/en/search-jobs/ai+intern) | ✅ |
 | Databricks | Multiple Internships | Multiple Locations | [Apply](https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all) | ✅ |
-| MongoDB | Multiple Internships | Multiple Locations | [Apply](https://www.mongodb.com/company/careers/students-and-graduates) | ✅ |
+| MongoDB | Multiple Internships & New Grads | Multiple Locations | [Apply](https://www.mongodb.com/company/careers/students-and-graduates) | ✅ |
 | JPMorganChase | Multiple Internships | Multiple Locations | [Apply](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=aoi__Technology__Technology___education__HighSchool___education__Undergraduate___education__PostgradPhDMBA) | ✅ |
 | Jane Street | Multiple Internships | Multiple Locations | [Apply](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=all-locations&department=technology) | ✅ |
 | Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
+| AMD | Multiple Internships & New Grads | Multiple Locations | [Apply](https://careers.amd.com/careers-home/jobs?page=2&categories=Student%20%2F%20Intern%20%2F%20Temp) | ✅ |
 | Atlassian | Multiple Internships | Multiple Locations | [Apply](https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=) | ✅ |
 | Uber | Multiple Internships | Multiple Locations | [Apply](https://www.uber.com/us/en/careers/teams/university/?uclick_id=7226d1af-317b-43b3-9e5c-079d797ca674) | ✅ |
+| Sripe | Multiple Internships & New Grads | Multiple Locations | [Apply](https://stripe.com/jobs/search?teams=Tech+Programs&teams=University) | ✅ |
 | Bending Spoons | Multiple Internships | Multiple Locations | [Apply](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=hero_CTA&utm_content=careers_page&contractType=internship&student=true&jobCategory=All+departments) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
 | Tancent | Multiple Internships | Multiple Locations | [Apply](https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=Technology+%26+IT+Infrastructure&job_types=Internship&employers=Tencent) | ✅ |
@@ -229,22 +231,22 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-| Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | ✅ |
+
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
 | LinkedIn | Talent Connect Show | Virtual | [Register](https://www.linkedintalentconnect.com/show) | 4 November | ✅ |
 | Booking | Amsterdam Graduate Experience | Virtual | [Register](https://talent.booking.com/bookingcomgrad) | 14 October | ✅ |
-| Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) | | ✅ |
+| AMD | Multiple Events | Online & Offline | [Register](https://amd.recsolu.com/external/events_central) | | ✅ |
 | Jane Street | Multiple Events & Programs | Multiple Locations | [Register](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) | | ✅ |
+| Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) | | ✅ |
 | Engineerex Youth | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | ✅ |
+| Google | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
+| Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | 🔒 |
+| Amazon | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
 | Coursera | Generative AI | Virtual | [Register](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Register](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Register](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Register](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
 | Nokia | Cyber Threats | Dubai | [Register](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
-| Google | Data Cloud Live | Bucharest | [Register](https://inthecloud.withgoogle.com/google-cloud-data-live-bucharest/register.html#form) | 18 April | 🔒 |
-| ↳ | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
-| Meta | Open House Enterprise Engineering | Warsaw, Poland | [Register](https://warsawopen.splashthat.com/) | 1 April | 🔒 |
-| Amazon | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
 | Manara | Tech Talks | Virtual | [Register](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Register](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Register](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
