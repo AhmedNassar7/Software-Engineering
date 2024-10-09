@@ -65,6 +65,7 @@
 | Jane Street | Multiple Internships | Multiple Locations | [Apply](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=all-locations&department=technology) | ✅ |
 | Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
+| Figma | Early Careers | Multiple Locations | [Apply](https://www.figma.com/careers/) | ✅ |
 | AMD | Multiple Internships & New Grads | Multiple Locations | [Apply](https://careers.amd.com/careers-home/jobs?page=2&categories=Student%20%2F%20Intern%20%2F%20Temp) | ✅ |
 | Atlassian | Multiple Internships | Multiple Locations | [Apply](https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=) | ✅ |
 | Uber | Multiple Internships | Multiple Locations | [Apply](https://www.uber.com/us/en/careers/teams/university/?uclick_id=7226d1af-317b-43b3-9e5c-079d797ca674) | ✅ |
