@@ -232,13 +232,14 @@
 ## Events
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
-
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
 | LinkedIn | Talent Connect Show | Virtual | [Register](https://www.linkedintalentconnect.com/show) | 4 November | ✅ |
 | Booking | Amsterdam Graduate Experience | Virtual | [Register](https://talent.booking.com/bookingcomgrad) | 14 October | ✅ |
-| AMD | Multiple Events | Online & Offline | [Register](https://amd.recsolu.com/external/events_central) | | ✅ |
-| Jane Street | Multiple Events & Programs | Multiple Locations | [Register](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) | | ✅ |
-| Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) | | ✅ |
+| Manara | Manara Tech Salon with Microsoft | Smart Village, Egypt | [Register](https://pages.manara.tech/manara-tech-salon-5-microsoft?utm_medium=email&_hsenc=p2ANqtz-8Ih5HnKy02lRI-Kn1zL8dCI4mDwMX3wu1P4_7PIWt9gYtqskrG-TwDozoXhFzvT6I5GfUoFQjqXJt3LRC9KyXp0kdROg&_hsmi=328518179&utm_content=328518179&utm_source=hs_email) | 26 October | ✅ |
+| Uber | Student Talent Empowerment Program - STEP | Online | [Register](https://pages.beamery.com/uber/page/stepdk) |  | ✅ |
+| AMD | Multiple Events | Online & Offline | [Register](https://amd.recsolu.com/external/events_central) |  | ✅ |
+| Jane Street | Multiple Events & Programs | Multiple Locations | [Register](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) |  | ✅ |
+| Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) |  | ✅ |
 | Engineerex Youth | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | ✅ |
 | Google | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
 | Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | 🔒 |
