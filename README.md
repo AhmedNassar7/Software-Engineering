@@ -70,6 +70,7 @@
 | Atlassian | Multiple Internships | Multiple Locations | [Apply](https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=) | ✅ |
 | Uber | Multiple Internships | Multiple Locations | [Apply](https://www.uber.com/us/en/careers/teams/university/?uclick_id=7226d1af-317b-43b3-9e5c-079d797ca674) | ✅ |
 | Sripe | Multiple Internships & New Grads | Multiple Locations | [Apply](https://stripe.com/jobs/search?teams=Tech+Programs&teams=University) | ✅ |
+| Citadel | Multiple Internships | Multiple Locations | [Apply](https://www.citadel.com/careers/open-opportunities/students/internships/) | ✅ |
 | Bending Spoons | Multiple Internships | Multiple Locations | [Apply](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=hero_CTA&utm_content=careers_page&contractType=internship&student=true&jobCategory=All+departments) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
 | Tancent | Multiple Internships | Multiple Locations | [Apply](https://www.brightnetwork.co.uk/search/?content_types=jobs&career_path_sectors=Technology+%26+IT+Infrastructure&job_types=Internship&employers=Tencent) | ✅ |
@@ -80,6 +81,8 @@
 | Visa | Multiple Internships | Multiple Locations | [Apply](https://corporate.visa.com/en/jobs/?q=intern&categories=Intern&categories=Software%20Development%2FEngineering&categories=Information%20Technology&categories=Data%20Architect%2FEngineering%2FScience&categories=Data%20Science%2FData%20Engineering&categories=Technology%20and%20Operations&categories=Cyber%20Security#) | ✅ |
 | Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
 | Warner Bros. Discovery | Multiple Internships | Multiple Locations | [Apply](https://careers.wbd.com/global/en/internship-opportunities) | ✅ |
+| Duolingo | Multiple Internships | Multiple Locations | [Apply](https://careers.duolingo.com/?type=Intern#careers) | ✅ |
+| Maven Securities | Multiple Internships | Multiple Locations | [Apply](https://www.mavensecurities.com/emerging-talent/) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
 
 
