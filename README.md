@@ -70,7 +70,7 @@
 | AMD | Multiple Internships & New Grads | Multiple Locations | [Apply](https://careers.amd.com/careers-home/jobs?page=2&categories=Student%20%2F%20Intern%20%2F%20Temp) | ✅ |
 | Atlassian | Multiple Internships | Multiple Locations | [Apply](https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=) | ✅ |
 | Uber | Multiple Internships | Multiple Locations | [Apply](https://www.uber.com/us/en/careers/teams/university/?uclick_id=7226d1af-317b-43b3-9e5c-079d797ca674) | ✅ |
-| Sripe | Multiple Internships & New Grads | Multiple Locations | [Apply](https://stripe.com/jobs/search?teams=Tech+Programs&teams=University) | ✅ |
+| Stripe | Multiple Internships & New Grads | Multiple Locations | [Apply](https://stripe.com/jobs/search?teams=Tech+Programs&teams=University) | ✅ |
 | Citadel | Multiple Internships | Multiple Locations | [Apply](https://www.citadel.com/careers/open-opportunities/students/internships/) | ✅ |
 | Bending Spoons | Multiple Internships | Multiple Locations | [Apply](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=hero_CTA&utm_content=careers_page&contractType=internship&student=true&jobCategory=All+departments) | ✅ |
 | Roblox | Multiple Internships | Multiple Locations | [Apply](https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9) | ✅ |
