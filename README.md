@@ -65,6 +65,8 @@
 | Jane Street | Multiple Internships | Multiple Locations | [Apply](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=all-locations&department=technology) | ✅ |
 | Datadog | Multiple Internships | Multiple Locations | [Apply](https://careers.datadoghq.com/early-careers/?parent_department_Engineering%5B0%5D=Engineering) | ✅ |
 | Pinterest | Multiple Internships | Multiple Locations | [Apply](https://www.pinterestcareers.com/jobs/?search=Intern&pagesize=20#results) | ✅ |
+| PayPal | Software Engineering Internships | Multiple Locations | [Apply](https://paypal.eightfold.ai/careers?query=globaluniversityinternsoftwareengineering&domain=paypal.com) | ✅ |
+| ↳ | Machine Learning Internships | Multiple Locations | [Apply](https://paypal.eightfold.ai/careers?query=globaluniversityinternmachinelearning&domain=paypal.com) | ✅ |
 | Palantir | Multiple Internships & New Grads | Multiple Locations | [Apply](https://www.palantir.com/careers/) | ✅ |
 | Figma | Early Careers | Multiple Locations | [Apply](https://www.figma.com/careers/) | ✅ |
 | AMD | Multiple Internships & New Grads | Multiple Locations | [Apply](https://careers.amd.com/careers-home/jobs?page=2&categories=Student%20%2F%20Intern%20%2F%20Temp) | ✅ |
