@@ -93,6 +93,8 @@
 ## Egypt Internships
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
+| Siemens | Graduate Program MEA | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156121451466?microsite=siemens.com) | ✅ |
+| Unifonic | DevOps Intern | Cairo, Egypt | [Apply](https://jobs.unifonic.com/o/devops-intern-2) | ✅ |
 | Huawei | Huawei ICT Competition | Cairo, Egypt | [Apply](https://huaweifuture.wixsite.com/i-c-the-future) | ✅ |
 | Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
 | NTI & ITIDA | Summer Training | Cairo, Egypt | [Apply](https://www.nti.sci.eg/summertraining/) | ✅ |
