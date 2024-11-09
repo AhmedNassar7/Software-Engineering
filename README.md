@@ -243,23 +243,23 @@
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
-| LinkedIn | Talent Connect Show | Virtual | [Register](https://www.linkedintalentconnect.com/show) | 4 November | ✅ |
-| Booking | Amsterdam Graduate Experience | Virtual | [Register](https://talent.booking.com/bookingcomgrad) | 14 October | ✅ |
-| Manara | Manara Tech Salon with Microsoft | Smart Village, Egypt | [Register](https://pages.manara.tech/manara-tech-salon-5-microsoft?utm_medium=email&_hsenc=p2ANqtz-8Ih5HnKy02lRI-Kn1zL8dCI4mDwMX3wu1P4_7PIWt9gYtqskrG-TwDozoXhFzvT6I5GfUoFQjqXJt3LRC9KyXp0kdROg&_hsmi=328518179&utm_content=328518179&utm_source=hs_email) | 26 October | ✅ |
-| Uber | Student Talent Empowerment Program - STEP | Online | [Register](https://pages.beamery.com/uber/page/stepdk) |  | ✅ |
 | AMD | Multiple Events | Online & Offline | [Register](https://amd.recsolu.com/external/events_central) |  | ✅ |
 | Jane Street | Multiple Events & Programs | Multiple Locations | [Register](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) |  | ✅ |
 | Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) |  | ✅ |
-| Engineerex Youth | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | ✅ |
+| Engineerex Youth | Engineerex Summit | Cairo, Egypt | [Register](https://pro.engineerex.com/) | 29 Novemeber | ✅ |
+| ↳ | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | 🔒 |
 | Google | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
 | Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | 🔒 |
 | Amazon | AWS for Data | Virtual | [Register](https://aws.amazon.com/events/webinars/online-tech-days-aws-for-data-202406/?trk=a1ae962c-cbe3-467a-87b0-ba02bbb94932&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGToGmkjC1R8-SS-xrp6ZZ7baAc5jM3mIJohu3ReTwoOj2lU6zYgc_FKbaKCX8BcJ7ATRYrklnlTCQdTNDCKRKEL68aBGyixdv7GDFQUrvC_ss2bMCzA4Xd6A) | 18 June | 🔒 |
+| LinkedIn | Talent Connect Show | Virtual | [Register](https://www.linkedintalentconnect.com/show) | 4 November | 🔒 |
+| Booking | Amsterdam Graduate Experience | Virtual | [Register](https://talent.booking.com/bookingcomgrad) | 14 October | 🔒 |
 | Coursera | Generative AI | Virtual | [Register](https://www.coursera.org/campus/resources/webinar/campus-talks-vanderbilt) | 11 June | 🔒 |
 | Techne | Techne Summit Cairo | Cairo, Egypt | [Register](https://facebook.com/events/s/techne-summit-cairo-2024/3725686811049073/) | 25 May | 🔒 |
 | RiseUp | RiseUp Summit | Cairo, Egypt | [Register](https://facebook.com/events/s/riseup-summit-egypt-2024/355914956937389/) | 16 May | 🔒 |
 | Startups Without Borders | SWB Summit | Cairo, Egypt | [Register](https://summit.startupswb.com/?fbclid=PAAabhm1TnU0zJHHLpToADp62GrO3QxnsBAWsqwOObb8F2XNYN9C8jdwPeTvg_aem_AUTWy3IcUF51hdWs_F5t5GXWau1P12D0N8QfjI8N_t9nwOuh_9OPIiU2ps_Qy0A8XH3cy2LffevR4wEKXiNdC4US#buy-tickets) | 10 May | 🔒 |
 | Nokia | Cyber Threats | Dubai | [Register](https://www.nokia.com/about-us/newsroom/events-calendar/gisec-2024/?utm_medium=DSMN8&utm_source=LinkedIn) | 23 April | 🔒 |
 | Manara | Tech Talks | Virtual | [Register](https://pages.manara.tech/manara-tech-talks-rabbit?utm_medium=email&_hsenc=p2ANqtz--iDZVNZoO6DV3SxHTKjBSQVA_KmE4nV1BdQZw3o9Xj-GGo7zMd9qfn-ei9wLG70KydTUxeF9z53X6vX2RqUjYIT0rK9A&_hsmi=307048208&utm_content=307048208&utm_source=hs_email) | 15 May | 🔒 |
+| ↳ | Manara Tech Salon with Microsoft | Smart Village, Egypt | [Register](https://pages.manara.tech/manara-tech-salon-5-microsoft?utm_medium=email&_hsenc=p2ANqtz-8Ih5HnKy02lRI-Kn1zL8dCI4mDwMX3wu1P4_7PIWt9gYtqskrG-TwDozoXhFzvT6I5GfUoFQjqXJt3LRC9KyXp0kdROg&_hsmi=328518179&utm_content=328518179&utm_source=hs_email) | 26 October | 🔒 |
 | Ahmed Elemam | FAANG Internship | Virtual | [Register](https://www.youtube.com/watch?v=vXukSWdjad4) | 23 March | 🔒 |
 | HackerRank | AI Day | Virtual | [Register](https://ai-day.hackerrank.com/) | 14 March | 🔒 |
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
@@ -271,6 +271,7 @@
 ## Volunteering
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
+| Engineerex | Engineerex Summit | [Apply](https://form.typeform.com/to/tylxAKaf) | ✅ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
 | Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | 🔒 |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
