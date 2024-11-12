@@ -1,24 +1,36 @@
 # Software Engineering Community
 
 <div align="center">
-  <img alt="stars" src="https://img.shields.io/github/stars/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717" height="22px">
-  <img alt="size" src="https://img.shields.io/github/repo-size/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717" height="22px">
-  <img alt="forks" src="https://img.shields.io/github/forks/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717" height="22px">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/ahmednassar7/software-engineering?color=F05032&logo=git&logoColor&style=flat" height="22px">
+  <img alt="stars"
+       src="https://img.shields.io/github/stars/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717"
+       height="22px">
+  <img alt="size"
+       src="https://img.shields.io/github/repo-size/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717"
+       height="22px">
+  <img alt="forks"
+       src="https://img.shields.io/github/forks/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717"
+       height="22px">
+  <img alt="last commit"
+       src="https://img.shields.io/github/last-commit/ahmednassar7/software-engineering?color=F05032&logo=git&logoColor&style=flat"
+       height="22px">
 </div>
 
-🚀 This repository is a central hub for **Software Engineering Opportunities**, including **Internships**, **Hackathons**, **Events**, **Open-Source Contributions**, **FAANG & CS Discord Servers**, and more. 
+🚀 This repository is a central hub for **Software Engineering Opportunities**,
+including **Internships**, **Hackathons**, **Events**, **Open-Source Contributions**,
+**FAANG & CS Discord Servers**, and more.
 
-⭐ Don't forget to **give this repo a star** and **share it with your friends** to help them and reach out to others.
+⭐ Don't forget to **give this repo a star** and **share it with your friends**
+to help them and reach out to others.
 
-✅ Keep track of new opportunities in **MAANG** in our [Discord](https://discord.com/invite/H4zZPMvT3P) server.
+✅ Keep track of new opportunities in **MAANG** in our
+[Discord](https://discord.com/invite/H4zZPMvT3P) server.
 
 🎉 Enjoy your time and best of luck :)
 
-
-
 ---
+
 ## Contents
+
 - [Internships](#internships)
   
 - [Open-Source Contributions](#open-source-contributions)
@@ -35,16 +47,16 @@
 
 - [Contribution](#contribution)
 
-
-
 ---
+
 ## Internships
+
 - [Worldwide Internships](#worldwide-internships)
 
 - [Egypt Internships](#egypt-internships)
 
-
 ## Worldwide Internships
+
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Google | Multiple Internships | Multiple Locations | [Apply](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF%20SWE%20intern&distance=50&jex=ENTRY_LEVEL&q=Software%20Engineer&target_level=EARLY&target_level=INTERN_AND_APPRENTICE&degree=MASTERS&degree=DOCTORATE&degree=BACHELORS&degree=ASSOCIATE&employment_type=INTERN&company=YouTube&company=Wing&company=Verily%20Life%20Sciences&company=GFiber&company=Google&company=Waymo&company=X&company=Fitbit) | ✅ |
@@ -89,8 +101,8 @@
 | Maven Securities | Multiple Internships | Multiple Locations | [Apply](https://www.mavensecurities.com/emerging-talent/) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
 
-
 ## Egypt Internships
+
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Jumia | Java Developer Intern | Cairo, Egypt | [Apply](https://grnh.se/c1e507c2teu) | ✅ |
@@ -166,15 +178,16 @@
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | 🔒 |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | 🔒 |
 
-
-
 ---
+
 ## Discord Servers
+
 - [FAANG Discord Servers](#faang-discord-servers)
 
 - [CS Discord Servers](#cs-discord-servers)
 
 ## FAANG Discord Servers
+
 | Company | Name | Link | Members |
 | ------- | ---- | ---- | ------- |
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 17k |
@@ -209,6 +222,7 @@
 | Dropbox | Dropbox Interns & New Grads | [Join](https://discord.gg/9wtkJTHCHn) | 100 |
 
 ## CS Discord Servers
+
 | Name | Link | Members |
 | ---- | ---- | ------- |
 | CS Careers | [Join](https://discord.gg/cscareers) | 101k |
@@ -221,10 +235,10 @@
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
 | Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 |
 
-
-
 ---
+
 ## Hackathons
+
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Register](https://mlh.io/seasons/2024/events) |  | ✅ |
@@ -237,10 +251,10 @@
 | Vodafone | AI Assistive Tools | Egypt | [Register](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
 | Dell | CS, Big Data, Security, and ML | Egypt | [Register](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
 
-
-
 ---
+
 ## Events
+
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [Register](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |  | ✅ |
@@ -266,10 +280,10 @@
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
 | _VOIS | Virtual Career Day | Cairo, Egypt | [Register](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
 
-
-
 ---
+
 ## Volunteering
+
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
 | Engineerex | Engineerex Summit | [Apply](https://form.typeform.com/to/tylxAKaf) | ✅ |
@@ -281,51 +295,54 @@
 | Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | 🔒 |
 | YLE | | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
-
-
 ---
+
 ## Open-Source Contributions
+
 - [Google Summer of Code](#google-summer-of-code)
 
-- [GirlScript Summer of Code](#girlscript-summer-of-Code)
+- [GirlScript Summer of Code](#girlscript-summer-of-code)
   
 - [MLH Fellowship](#mlh-fellowship)
   
 - [Summer of Bitcoin](#summer-of-bitcoin)
 
-
 ## Google Summer of Code
+
 - [Apply](https://summerofcode.withgoogle.com/)
 - [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
 
 ## GirlScript Summer of Code
+
 - [Apply](https://gssoc.girlscript.tech/#)
 
 ## MLH Fellowship
+
 - [Apply](https://fellowship.mlh.io/)
 - [MLH Discord Server](https://discord.gg/mlh)
 
 ## Summer of Bitcoin
+
 - [Apply](https://www.summerofbitcoin.org/)
 
-
-
 ---
+
 ## Resume
+
 - [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
 - [Resume.lol](https://www.resume.lol/)
 - [FlowCV](https://flowcv.com/)
 
-
-
 ---
+
 ## Contribution
- If you have new or additional information related to Software Engineering opportunities (Choose One):
+
+ If you have new or additional information related to Software Engineering
+ opportunities (Choose One):
+
 - Make a Pull Request.
 - Fill out this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
 - Reach Out Me.
-
-
 
 ---
 🙏 I hope you find this repo helpful and useful.
