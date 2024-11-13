@@ -106,6 +106,7 @@ to help them and reach out to others.
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
 | Jumia | Java Developer Intern | Cairo, Egypt | [Apply](https://grnh.se/c1e507c2teu) | ✅ |
+| Blink22 | Software Engineer Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/4069861583) | ✅ |
 | Siemens | Graduate Program MEA | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156121451466?microsite=siemens.com) | ✅ |
 | Unifonic | DevOps Intern | Cairo, Egypt | [Apply](https://jobs.unifonic.com/o/devops-intern-2) | ✅ |
 | Elsewedy Electric | Graduate Development Program | Cairo, Egypt | [Apply](https://elsewedyelectric.taleo.net/careersection/swd_gdp/jobdetail.ftl?job=2400007L&tz=GMT%2B03%3A00&tzname=Africa%2FCairo) | ✅ |
