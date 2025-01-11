@@ -265,6 +265,7 @@ to help them and reach out to others.
 | Uber | Uber Interns | [Join](https://discord.gg/9dp47gcm3j) | 700 |
 | Atlassian | Atlassian Interns & New Grads | [Join](https://discord.gg/4rngvrFysd) | 500 |
 | Jane Street | Jane Street Interns & New Grads | [Join](https://discord.gg/uM6SV5M5Sc) | 300 |
+| Palantir | Palantir Interns & New Grads | [Join](https://discord.gg/tB4jDEZXMk) | 300 |
 | Coinbase | Coinbase Interns & New Grads | [Join](https://discord.gg/2BptrqxBFS) | 500 |
 | Walmart | Walmart Interns & New Grads | [Join](https://discord.gg/afkTsmYW59) | 1k |
 | Roblox | Roblox Interns & New Grads | [Join](https://discord.gg/gRkEjZ6jV2) | 700 |
