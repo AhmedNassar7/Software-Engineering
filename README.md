@@ -35,13 +35,17 @@ to help them and reach out to others.
   
 - [Open-Source Contributions](#open-source-contributions)
   
+- [Coding Practice Platforms](#coding-practice-platforms)
+  
+- [Mock Interview Platforms](#mock-interview-platforms)
+  
 - [FAANG & CS Discord Servers](#discord-servers)
+  
+- [CV/Resume](#cvresume)
   
 - [Hackathons](#hackathons)
   
 - [Events](#events)
-
-- [Resume](#resume)
 
 - [Volunteering](#volunteering)
 
@@ -179,6 +183,58 @@ to help them and reach out to others.
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | 🔒 |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | 🔒 |
 
+
+---
+
+## Open-Source Contributions
+
+| Program | Description | Application Link | Discord Server |
+| ------- | ----------- | ---------------- | -------------- |
+| Google Summer of Code | A global program where students contribute to open-source projects and get paid. | [Apply](https://summerofcode.withgoogle.com/) | [Google Developer Community](http://discord.gg/google-dev-community) |
+| GirlScript Summer of Code | A 3-month open-source program for beginners to contribute to projects. | [Apply](https://gssoc.girlscript.tech/#) | - |
+| MLH Fellowship | A remote internship program for open-source contributions. | [Apply](https://fellowship.mlh.io/) | [MLH Community](https://discord.gg/mlh) |
+| Hacktoberfest | An annual event encouraging open-source contributions. | [Apply](https://hacktoberfest.com/) | [Hacktoberfest](https://discord.com/invite/hacktoberfest) |
+| Summer of Bitcoin | A program to contribute to Bitcoin and blockchain-related open-source projects. | [Apply](https://www.summerofbitcoin.org/) | - |
+| Outreachy | An internship program for underrepresented groups in tech to work on open-source projects. | [Apply](https://www.outreachy.org/) | - |
+
+
+---
+
+## Coding Practice Platforms
+
+| Platform | Description | Focus Area | Link |
+| -------- | ----------- | ---------- | ---- |
+| LeetCode | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [LeetCode](https://leetcode.com/) |
+| HackerRank | Solve coding challenges and participate in contests. | Coding Challenges, Competitions | [HackerRank](https://www.hackerrank.com/) |
+| Codeforces | Competitive programming platform with regular contests. | Competitive Programming, Algorithms | [Codeforces](https://codeforces.com/) |
+| AlgoExpert | Curated list of coding interview questions and solutions. | Coding Interviews, Algorithms | [AlgoExpert](https://www.algoexpert.io/) |
+| InterviewBit | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [InterviewBit](https://www.interviewbit.com/) |
+| Codewars | Solve coding challenges and improve problem-solving skills. | Coding Challenges, Problem-Solving | [Codewars](https://www.codewars.com/) |
+| CodeChef | Practice coding problems and participate in coding contests. | Competitive Programming, Algorithms | [CodeChef](https://www.codechef.com/) |
+| TopCoder | Participate in coding challenges and competitions. | Competitive Programming, Algorithms | [TopCoder](https://www.topcoder.com/) |
+| CodinGame | Learn to code by solving fun and interactive challenges. | Game-Based Learning, Problem-Solving | [CodinGame](https://www.codingame.com/) |
+| AtCoder | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms | [AtCoder](https://atcoder.jp/) |
+| SPOJ | Solve coding problems and participate in contests. | Competitive Programming, Algorithms | [SPOJ](https://www.spoj.com/) |
+
+
+---
+
+## Mock Interview Platforms
+
+| Platform | Description | Link |
+| -------- | ----------- | ---- |
+| Pramp | Practice mock interviews with peers or experts for free. | [Pramp](https://www.pramp.com/) |
+| Exponent | Mock interviews for product management, software engineering, and more. | [Exponent](https://www.tryexponent.com/) |
+| Interviewing.io | Anonymous mock interviews with engineers from top companies like FAANG. | [Interviewing.io](https://interviewing.io/) |
+| LeetCode Mock Interviews | Simulate real coding interviews with timed sessions and feedback. | [LeetCode Mock](https://leetcode.com/interview/) |
+| CodeSignal | Practice coding interviews with real-world questions and automated scoring. | [CodeSignal](https://codesignal.com/) |
+| InterviewBit Mock Interviews | Practice mock interviews with real-time coding environments. | [InterviewBit Mock](https://www.interviewbit.com/mock-interview/) |
+| AlgoExpert Mock Interviews | Simulate coding interviews with curated questions and solutions. | [AlgoExpert Mock](https://www.algoexpert.io/mock-interviews) |
+| Gainlo | Mock interviews with experienced professionals and detailed feedback. | [Gainlo](http://www.gainlo.co/) |
+| Meetapro | Mock interviews with engineers from FAANG and other top companies. | [Meetapro](https://www.meetapro.com/) |
+| Refdash | Free mock interviews with engineers and detailed feedback. | [Refdash](https://refdash.com/) |
+
+
 ---
 
 ## Discord Servers
@@ -236,6 +292,27 @@ to help them and reach out to others.
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
 | Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 |
 
+
+---
+
+## CV/Resume
+
+| Tool | Description | Type | Link |
+| ---- | ----------- | ---- | ---- |
+| Resumake | Create and format your resume with customizable templates. | Builder | [Resumake](https://resumake.io/) |
+| Zety | Build professional resumes with expert tips and templates. | Builder | [Zety](https://zety.com/) |
+| Resume Worded | Analyze and optimize your resume for ATS and recruiters. | Analyzer | [Resume Worded](https://resumeworded.com/) |
+| Grammarly | Check grammar, spelling, and tone in your resume. | Checker | [Grammarly](https://www.grammarly.com/) |
+| Canva | Design creative and professional resumes with easy-to-use templates. | Builder | [Canva](https://www.canva.com/resumes/templates/) |
+| Novoresume | Build ATS-friendly resumes with modern templates. | Builder | [Novoresume](https://novoresume.com/) |
+| Jobscan | Optimize your resume for Applicant Tracking Systems (ATS). | Analyzer | [Jobscan](https://www.jobscan.co/) |
+| FlowCV | Build modern resumes with a focus on design and readability. | Builder | [FlowCV](https://flowcv.com/) |
+| Overleaf | Create polished resumes using LaTeX templates. | Builder | [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv) |
+| Kickresume | Create resumes with AI-powered suggestions and templates. | Builder | [Kickresume](https://www.kickresume.com/) |
+| VMock | Get instant feedback on your resume's content, formatting, and impact. | Analyzer | [VMock](https://www.vmock.com/) |
+| CakeResume | Build interactive and visually appealing resumes. | Builder | [CakeResume](https://www.cakeresume.com/) |
+
+
 ---
 
 ## Hackathons
@@ -281,6 +358,7 @@ to help them and reach out to others.
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
 | _VOIS | Virtual Career Day | Cairo, Egypt | [Register](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
 
+
 ---
 
 ## Volunteering
@@ -296,43 +374,6 @@ to help them and reach out to others.
 | Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | 🔒 |
 | YLE | | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
----
-
-## Open-Source Contributions
-
-- [Google Summer of Code](#google-summer-of-code)
-
-- [GirlScript Summer of Code](#girlscript-summer-of-code)
-  
-- [MLH Fellowship](#mlh-fellowship)
-  
-- [Summer of Bitcoin](#summer-of-bitcoin)
-
-## Google Summer of Code
-
-- [Apply](https://summerofcode.withgoogle.com/)
-- [Google Developer Club Discord Server](http://discord.gg/google-dev-community)
-
-## GirlScript Summer of Code
-
-- [Apply](https://gssoc.girlscript.tech/#)
-
-## MLH Fellowship
-
-- [Apply](https://fellowship.mlh.io/)
-- [MLH Discord Server](https://discord.gg/mlh)
-
-## Summer of Bitcoin
-
-- [Apply](https://www.summerofbitcoin.org/)
-
----
-
-## Resume
-
-- [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv)
-- [Resume.lol](https://www.resume.lol/)
-- [FlowCV](https://flowcv.com/)
 
 ---
 
