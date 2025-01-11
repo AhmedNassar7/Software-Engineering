@@ -290,15 +290,15 @@ to help them and reach out to others.
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
 | Python | [Join](https://discord.gg/python) | 396.6k |
 | Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
-| Frontend Mentors | [Join](https://discord.gg/CYn98rep9r) | 20k |
+| Frontend Mentors | [Join](https://discord.gg/CYn98rep9r) | 34k |
 | Django | [Join](https://discord.gg/uQVfNJCPVc) | 26.5k |
 | The Programmer’s Hangout | [Join](https://discord.gg/programming) | 179.5k |
 | The Coding Den | [Join](https://discord.gg/code) | 157k |
-| Reactiflux | [Join](https://discord.gg/GhM9ddxSd9) | 200k |
-| TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 70k |
-| Devcord | [Join](https://discord.gg/devcord) | 30k |
-| SpeakJS | [Join](https://discord.gg/Pbpdz5PjGq) | 30k |
-| CodeSupport | [Join](https://discord.gg/W8xaae6spw) | 33k |
+| Reactiflux | [Join](https://discord.gg/GhM9ddxSd9) | 225.5k |
+| TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 50k |
+| Devcord | [Join](https://discord.gg/devcord) | 36k |
+| SpeakJS | [Join](https://discord.gg/Pbpdz5PjGq) | 34k |
+| CodeSupport | [Join](https://discord.gg/W8xaae6spw) | 33.8k |
 | FreeCodeCamp | [Join](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) | 32k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k |
 | Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.5k |
