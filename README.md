@@ -39,7 +39,7 @@ to help them and reach out to others.
   
 - [Mock Interview Platforms](#mock-interview-platforms)
   
-- [FAANG & CS Discord Servers](#discord-servers)
+- [Discord Servers](#discord-servers)
   
 - [CV/Resume](#cvresume)
   
@@ -241,9 +241,9 @@ to help them and reach out to others.
 
 - [FAANG Discord Servers](#faang-discord-servers)
 
-- [CS Discord Servers](#cs-discord-servers)
+- [CS/SWE Discord Servers](#csswe-discord-servers)
 
-## FAANG Discord Servers
+### FAANG Discord Servers
 
 | Company | Name | Link | Members |
 | ------- | ---- | ---- | ------- |
@@ -278,17 +278,29 @@ to help them and reach out to others.
 | Visa | Visa Interns & New Grads | [Join](https://discord.gg/Ja9u4JDU3w) | 200 |
 | Dropbox | Dropbox Interns & New Grads | [Join](https://discord.gg/9wtkJTHCHn) | 100 |
 
-## CS Discord Servers
+### CS/SWE Discord Servers
 
 | Name | Link | Members |
 | ---- | ---- | ------- |
 | CS Careers | [Join](https://discord.gg/cscareers) | 101k |
+| CS Careers Hub | [Join](https://discord.gg/cscareerhub) | 35.5k |
 | CS Majors | [Join](https://discord.gg/csmajors) | 23k |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k |
 | NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
+| Python | [Join](https://discord.gg/python) | 396.6k |
 | Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
-| Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.2k |
+| Frontend Mentors | [Join](https://discord.gg/CYn98rep9r) | 20k |
+| Django | [Join](https://discord.gg/uQVfNJCPVc) | 26.5k |
+| The Programmer’s Hangout | [Join](https://discord.gg/programming) | 179.5k |
+| The Coding Den | [Join](https://discord.gg/code) | 157k |
+| Reactiflux | [Join](https://discord.gg/GhM9ddxSd9) | 200k |
+| TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 70k |
+| Devcord | [Join](https://discord.gg/devcord) | 30k |
+| SpeakJS | [Join](https://discord.gg/Pbpdz5PjGq) | 30k |
+| CodeSupport | [Join](https://discord.gg/W8xaae6spw) | 33k |
+| FreeCodeCamp | [Join](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) | 32k |
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k |
+| Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.5k |
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
 | Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 |
 
@@ -301,16 +313,16 @@ to help them and reach out to others.
 | ---- | ----------- | ---- | ---- |
 | Resumake | Create and format your resume with customizable templates. | Builder | [Resumake](https://resumake.io/) |
 | Zety | Build professional resumes with expert tips and templates. | Builder | [Zety](https://zety.com/) |
-| Resume Worded | Analyze and optimize your resume for ATS and recruiters. | Analyzer | [Resume Worded](https://resumeworded.com/) |
-| Grammarly | Check grammar, spelling, and tone in your resume. | Checker | [Grammarly](https://www.grammarly.com/) |
 | Canva | Design creative and professional resumes with easy-to-use templates. | Builder | [Canva](https://www.canva.com/resumes/templates/) |
 | Novoresume | Build ATS-friendly resumes with modern templates. | Builder | [Novoresume](https://novoresume.com/) |
-| Jobscan | Optimize your resume for Applicant Tracking Systems (ATS). | Analyzer | [Jobscan](https://www.jobscan.co/) |
 | FlowCV | Build modern resumes with a focus on design and readability. | Builder | [FlowCV](https://flowcv.com/) |
-| Overleaf | Create polished resumes using LaTeX templates. | Builder | [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv) |
 | Kickresume | Create resumes with AI-powered suggestions and templates. | Builder | [Kickresume](https://www.kickresume.com/) |
-| VMock | Get instant feedback on your resume's content, formatting, and impact. | Analyzer | [VMock](https://www.vmock.com/) |
 | CakeResume | Build interactive and visually appealing resumes. | Builder | [CakeResume](https://www.cakeresume.com/) |
+| Resume Worded | Analyze and optimize your resume for ATS and recruiters. | Analyzer | [Resume Worded](https://resumeworded.com/) |
+| Jobscan | Optimize your resume for Applicant Tracking Systems (ATS). | Analyzer | [Jobscan](https://www.jobscan.co/) |
+| Overleaf | Create polished resumes using LaTeX templates. | Builder | [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv) |
+| VMock | Get instant feedback on your resume's content, formatting, and impact. | Analyzer | [VMock](https://www.vmock.com/) |
+| Grammarly | Check grammar, spelling, and tone in your resume. | Checker | [Grammarly](https://www.grammarly.com/) |
 
 
 ---
