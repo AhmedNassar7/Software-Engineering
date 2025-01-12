@@ -312,43 +312,72 @@ to help them and reach out to others.
 
 ### 🛠 Builders
 Easily design and create professional resumes with the following tools:
-- **[Resumake](https://resumake.io/):** Customizable templates for quick resume creation.
-- **[Zety](https://zety.com/):** Expert tips and modern templates to craft standout resumes.
-- **[Overleaf](https://www.overleaf.com/latex/templates/tagged/cv):** Polished resumes using LaTeX templates.
-- **[Canva](https://www.canva.com/resumes/templates/):** Creative and professional templates for eye-catching resumes.
-- **[FlowCV](https://flowcv.com/):** Modern, design-focused resume builder.
-- **[Novoresume](https://novoresume.com/):** ATS-friendly resumes with sleek layouts.
-- **[Kickresume](https://www.kickresume.com/):** AI-powered suggestions to create the perfect resume.
-- **[CakeResume](https://www.cakeresume.com/):** Interactive, visually appealing resume designs.
-- **[Resume.io](https://resume.io/):** Simple, professional, and customizable designs.
-- **[Resume.lol](https://www.resume.lol/):** Straightforward, clean, and intuitive resume builder.
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Resumake** | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
+| **Zety** | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
+| **Overleaf** | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
+| **Canva** | Creative and professional templates for eye-catching resumes. | [Canva Resume Templates](https://www.canva.com/resumes/templates/) |
+| **FlowCV** | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
+| **Novoresume** | ATS-friendly resumes with sleek layouts. | [novoresume.com](https://novoresume.com/) |
+| **Kickresume** | AI-powered suggestions to create the perfect resume. | [kickresume.com](https://www.kickresume.com/) |
+| **CakeResume** | Interactive, visually appealing resume designs. | [cakeresume.com](https://www.cakeresume.com/) |
+| **Resume.io** | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
+| **Resume.lol** | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
+
+---
 
 ### 🔍 Analyzers
-Optimize your resume for ATS and recruiter feedback:
-- **[Resume Worded](https://resumeworded.com/):** Analyze and improve your resume for better impact.
-- **[Jobscan](https://www.jobscan.co/):** Tailor your resume for ATS compatibility.
-- **[VMock](https://www.vmock.com/):** Real-time feedback on content, formatting, and overall impact.
+Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback:
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Resume Worded** | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
+| **Jobscan** | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
+| **VMock** | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
+
+---
 
 ### ✅ Checkers
 Polish your resume with these essential tools:
-- **[Grammarly](https://www.grammarly.com/):** Fix grammar, spelling, and tone for a flawless resume.
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Grammarly** | Fix grammar, spelling, and tone for a flawless resume. | [grammarly.com](https://www.grammarly.com/) |
 
 
 ---
 
 ## Hackathons
 
-| Company | Role | Location | Application | Deadline | Status |
-| ------- | ---- | -------- | ------------| -------- | ------ |
-| MLH Fellowship | Multiple Events - Season 2024 | Worldwide | [Register](https://mlh.io/seasons/2024/events) |  | ✅ |
-| Orange Digital Center | UI/UX SAAS | Egypt | [Register](https://www.linkedin.com/posts/orange-digital-center-egypt_%D8%A7%D9%86%D8%B6%D9%85%D9%88%D8%A7-%D8%A7%D9%84%D9%8A%D9%86%D8%A7-%D9%81%D9%89-%D8%A3%D9%88%D9%84-uiux-saas-hackathon-activity-7168333692531007489-iMiH?utm_source=share&utm_medium=member_android) | Mar 7 | 🔒 |
-| Google | Cloud Vertex AI Agent Builder | Virtual | [Register](https://googlevertexai.devpost.com/) | 4 June | 🔒 |
-| ↳ | Girl Hackathon | Virtual | [Register](https://rsvp.withgoogle.com/events/girl-hackathon-2024/forms/registration?utm_source=social&utm_medium=googler-share&utm_campaign=india-campus-girlhackathon-swe-silicon-Q2-2024&src=Online/TOPs/campus-girlhackathon) | 5 April | 🔒 |
-| ↳ | BreakBeatCode | Virtual | [Register](https://eventsonair.withgoogle.com/events/breakbeat-atlanta-2024) | 12 April | 🔒 |
-| ↳ | AI Hackathon | Virtual | [Register](https://googleai.devpost.com/) | 3 May | 🔒 |
-| _VOIS | AI in Business | Virtual | [Register](https://hackathon.tvois.vodafone.com/) | Mar 7 | 🔒 |
-| Vodafone | AI Assistive Tools | Egypt | [Register](https://aihackathon.vodafone.com.eg/) | 4 June | 🔒 |
-| Dell | CS, Big Data, Security, and ML | Egypt | [Register](https://www.dell.com/en-eg/dt/microsites/hacktrick.htm?fbclid=IwAR3EMf_NzUWjTB7UYsSltR-c81TPztrGb8BNQKyv2lwLVcStc4ISI2xUH0s#collapse&tab0=1&#last) | Jan 29 | 🔒 |
+### Global Hackathons
+These hackathons attract participants from all over the world and are highly competitive.
+
+| Name | Description | Website |
+|------|-------------|---------|
+| **Hack the North** | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
+| **MLH Hackathons** | Major League Hacking (MLH) organizes hackathons worldwide for students. | [mlh.io](https://mlh.io) |
+| **HackMIT** | One of the most prestigious hackathons hosted by MIT. | [hackmit.org](https://hackmit.org) |
+| **Google Hash Code** | A team-based programming competition by Google. | [hashcode](https://codingcompetitions.withgoogle.com/hashcode) |
+
+### Regional Hackathons
+These hackathons are region-specific and often focus on local communities.
+
+| Name | Description | Website |
+|------|-------------|---------|
+| **Hack the Valley (Canada)** | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
+| **HackCU (USA)** | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
+| **Hack the Midlands (UK)** | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
+
+### Themed Hackathons
+These hackathons focus on specific technologies, industries, or causes.
+
+| Name | Description | Website |
+|------|-------------|---------|
+| **NASA Space Apps Challenge** | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
+| **ETHGlobal** | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
+| **Hack for Good** | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://hackforgood.io) |
 
 ---
 
@@ -360,7 +389,7 @@ Polish your resume with these essential tools:
 | AMD | Multiple Events | Online & Offline | [Register](https://amd.recsolu.com/external/events_central) |  | ✅ |
 | Jane Street | Multiple Events & Programs | Multiple Locations | [Register](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) |  | ✅ |
 | Incorta | Multiple Events | Virtual | [Register](https://www.incorta.com/events) |  | ✅ |
-| Engineerex Youth | Engineerex Summit | Cairo, Egypt | [Register](https://pro.engineerex.com/) | 29 Novemeber | ✅ |
+| Engineerex Youth | Engineerex Summit | Cairo, Egypt | [Register](https://pro.engineerex.com/) | 29 Novemeber | 🔒 |
 | ↳ | TechUp Women Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/892986518921692/?_rdc=1&_rdr) | 12 October | 🔒 |
 | Google | Google I/O | Virtual | [Register](https://io.google/2024/) | 14 May | 🔒 |
 | Meta | Connect 2024 | Virtual | [Register](https://www.meta.com/connect/?sf273424789=1) | 25 September | 🔒 |
@@ -386,8 +415,8 @@ Polish your resume with these essential tools:
 
 | Company | Role | Link | Status |
 | ------- | ---- | ---- | ------ |
-| Engineerex | Engineerex Summit | [Apply](https://form.typeform.com/to/tylxAKaf) | ✅ |
 | Techne | Techne Summit Cairo | [Apply](https://cairo.technesummit.com/2024/apply-now/volunteer?fbclid=IwAR1VYqxajTaYS1evv4x_YyiPHPp-11gM6k7kZ0G5JTH6i1W05hfa4xxZnis) | ✅ |
+| Engineerex | Engineerex Summit | [Apply](https://form.typeform.com/to/tylxAKaf) | 🔒 |
 | Egyptian Collegiate Programming Contest | ECPC | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdGPWsOlB3dM395VdeUM4i-MZbB1RwPhr9wkAP-tiBoBokw0g/viewform?fbclid=IwZXh0bgNhZW0CMTEAAR1Z0xudSJYfn1feSxNLpWJv08qVKjHVn9xU6vPbZy-dpmYUzBnSbhdYXxE_aem_t9bSIDD5G-nHGP2LJ3k62w) | 🔒 |
 | International Olympiad in Informatics | IOI | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSdAz_7L7g47as2OQUBJP6IdC_n93-hAdgVKhYhv7jPN0yCLog/viewform) | 🔒 |
 | NASA Space Apps | NASA Space Apps Cairo | [Apply](https://bit.ly/NSAC2024CallForVolunteers) | 🔒 |
