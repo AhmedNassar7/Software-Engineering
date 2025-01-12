@@ -315,16 +315,16 @@ Easily design and create professional resumes with the following tools:
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Resumake** | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
-| **Zety** | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
-| **Overleaf** | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
-| **Canva** | Creative and professional templates for eye-catching resumes. | [Canva Resume Templates](https://www.canva.com/resumes/templates/) |
-| **FlowCV** | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
-| **Novoresume** | ATS-friendly resumes with sleek layouts. | [novoresume.com](https://novoresume.com/) |
-| **Kickresume** | AI-powered suggestions to create the perfect resume. | [kickresume.com](https://www.kickresume.com/) |
-| **CakeResume** | Interactive, visually appealing resume designs. | [cakeresume.com](https://www.cakeresume.com/) |
-| **Resume.io** | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
-| **Resume.lol** | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
+| Resumake | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
+| Zety | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
+| Overleaf | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
+| Canva | Creative and professional templates for eye-catching resumes. | [Canva Resume Templates](https://www.canva.com/resumes/templates/) |
+| FlowCV | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
+| Novoresume | ATS-friendly resumes with sleek layouts. | [novoresume.com](https://novoresume.com/) |
+| Kickresume | AI-powered suggestions to create the perfect resume. | [kickresume.com](https://www.kickresume.com/) |
+| CakeResume | Interactive, visually appealing resume designs. | [cakeresume.com](https://www.cakeresume.com/) |
+| Resume.io | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
+| Resume.lol | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
 
 ---
 
@@ -333,9 +333,9 @@ Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Resume Worded** | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
-| **Jobscan** | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
-| **VMock** | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
+| Resume Worded | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
+| Jobscan | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
+| VMock | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
 
 ---
 
@@ -344,7 +344,7 @@ Polish your resume with these essential tools:
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **Grammarly** | Fix grammar, spelling, and tone for a flawless resume. | [grammarly.com](https://www.grammarly.com/) |
+| Grammarly | Fix grammar, spelling, and tone for a flawless resume. | [grammarly.com](https://www.grammarly.com/) |
 
 
 ---
@@ -356,32 +356,67 @@ These hackathons attract participants from all over the world and are highly com
 
 | Name | Description | Website |
 |------|-------------|---------|
-| **Hack the North** | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
-| **MLH Hackathons** | Major League Hacking (MLH) organizes hackathons worldwide for students. | [mlh.io](https://mlh.io) |
-| **HackMIT** | One of the most prestigious hackathons hosted by MIT. | [hackmit.org](https://hackmit.org) |
-| **Google Hash Code** | A team-based programming competition by Google. | [hashcode](https://codingcompetitions.withgoogle.com/hashcode) |
+| Hack the North | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
+| MLH Hackathons | Major League Hacking (MLH) organizes hackathons worldwide for students. | [mlh.io](https://mlh.io) |
+| HackMIT | One of the most prestigious hackathons hosted by MIT. | [hackmit.org](https://hackmit.org) |
+| Google Hash Code | A team-based programming competition by Google. | [hashcode](https://codingcompetitions.withgoogle.com/hashcode) |
 
 ### Regional Hackathons
 These hackathons are region-specific and often focus on local communities.
 
 | Name | Description | Website |
 |------|-------------|---------|
-| **Hack the Valley (Canada)** | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
-| **HackCU (USA)** | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
-| **Hack the Midlands (UK)** | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
+| Hack the Valley (Canada) | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
+| HackCU (USA) | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
+| Hack the Midlands (UK) | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
 
 ### Themed Hackathons
 These hackathons focus on specific technologies, industries, or causes.
 
 | Name | Description | Website |
 |------|-------------|---------|
-| **NASA Space Apps Challenge** | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
-| **ETHGlobal** | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
-| **Hack for Good** | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://hackforgood.io) |
+| NASA Space Apps Challenge | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
+| ETHGlobal | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
+| Hack for Good | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://hackforgood.io) |
 
 ---
 
 ## Events
+
+### Conferences
+| Name | Description | Website |
+|------|-------------|---------|
+| Google I/O | Google's annual developer conference showcasing new technologies and updates. | [events.google.com/io](https://events.google.com/io/) |
+| Apple WWDC | Apple's Worldwide Developers Conference for iOS, macOS, and more. | [developer.apple.com/wwdc](https://developer.apple.com/wwdc/) |
+| Microsoft Build | Microsoft's annual conference for developers and engineers. | [microsoft.com/build](https://www.microsoft.com/build) |
+| PyCon | The largest annual conference for the Python programming language. | [pycon.org](https://pycon.org/) |
+| AWS re:Invent | Amazon Web Services' global cloud computing conference. | [reinvent.awsevents.com](https://reinvent.awsevents.com/) |
+
+### Summits
+| Name | Description | Website |
+|------|-------------|---------|
+| TechCrunch Disrupt | A startup and tech innovation summit featuring hackathons and pitch competitions. | [techcrunch.com/events](https://techcrunch.com/events/) |
+| CES (Consumer Electronics Show) | The world's largest tech event showcasing innovations in consumer electronics. | [ces.tech](https://www.ces.tech/) |
+| AI Summit | A global event focused on artificial intelligence and machine learning. | [aisummit.com](https://aisummit.com/) |
+| DevOps World | A conference dedicated to DevOps, cloud, and agile practices. | [devopsworld.com](https://devopsworld.com/) |
+
+### Workshops
+| Name | Description | Website |
+|------|-------------|---------|
+| Google Developer Days (GDD) | Hands-on workshops and sessions by Google experts. | [developers.google.com/events](https://developers.google.com/events) |
+| Facebook Developer Circles | Community-led workshops and events for developers. | [developers.facebook.com/developercircles](https://developers.facebook.com/developercircles/) |
+| Hacktoberfest | A month-long celebration of open-source software with workshops and coding challenges. | [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/) |
+
+### Company-Hosted Events
+| Company | Event | Location | Registration |
+| ------- | ----- | -------- | ------------ |
+| Amazon | EMEA Partner Enablement Calendar | Virtual | [calendar.smartsheet.com](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |
+| AMD | Multiple Events | Online & Offline | [amd.recsolu.com](https://amd.recsolu.com/external/events_central) | 
+| Jane Street | Multiple Events & Programs | Multiple Locations | [janestreet.com](https://www.janestreet.com/join-jane-street/programs-and-events/?location=all-locations&program-type=all-programs&event-type=all-events&show-programs=true&show-events=true) | 
+| Incorta | Multiple Events | Virtual | [incorta.com/events](https://www.incorta.com/events) 
+
+
+<!--
 
 | Company | Role | Location | Application | Deadline | Status |
 | ------- | ---- | -------- | ------------| -------- | ------ |
@@ -408,6 +443,7 @@ These hackathons focus on specific technologies, industries, or causes.
 | Career180 | Egypt Career Summit | Cairo, Egypt | [Register](https://web.facebook.com/events/358783140062435/?acontext=%7B"event_action_history"%3A[]%7D) | 1 March | 🔒 |
 | _VOIS | Virtual Career Day | Cairo, Egypt | [Register](https://www.linkedin.com/posts/sandra-william-8b147a68_fill-vois-customer-care-virtual-career-activity-7165624285430988801-oBTk?utm_source=share&utm_medium=member_desktop) | 1 March | 🔒 |
 
+-->
 
 ---
 
@@ -429,16 +465,16 @@ These hackathons focus on specific technologies, industries, or causes.
 
 ## Contribution
 
- If you have new or additional information related to Software Engineering
- opportunities (Choose One):
+ If you have new or additional information related to Software Engineering opportunities (choose one):
 
-- Make a Pull Request.
-- Fill out this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8).
-- Reach Out Me.
+- **Make a Pull Request**.
+- **Fill out this [Form](https://forms.gle/n5LJFWaJtKpeHQFD8)**.
+- **Reach Out Me**.
 
 ---
+
 🙏 I hope you find this repo helpful and useful.
 
 📄 Your feedback is appreciated, You can do that in this [Form](https://forms.gle/BpCSdEoUTnncZjZUA).  
 
-🤍 Thank you for your interest and support and Good Luck!
+🤍 Thank you for your interest and support, and Good Luck!
