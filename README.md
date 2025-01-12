@@ -310,20 +310,28 @@ to help them and reach out to others.
 
 ## CV/Resume
 
-| Tool | Description | Type | Link |
-| ---- | ----------- | ---- | ---- |
-| Resumake | Create and format your resume with customizable templates. | Builder | [Resumake](https://resumake.io/) |
-| Zety | Build professional resumes with expert tips and templates. | Builder | [Zety](https://zety.com/) |
-| Canva | Design creative and professional resumes with easy-to-use templates. | Builder | [Canva](https://www.canva.com/resumes/templates/) |
-| Novoresume | Build ATS-friendly resumes with modern templates. | Builder | [Novoresume](https://novoresume.com/) |
-| FlowCV | Build modern resumes with a focus on design and readability. | Builder | [FlowCV](https://flowcv.com/) |
-| Kickresume | Create resumes with AI-powered suggestions and templates. | Builder | [Kickresume](https://www.kickresume.com/) |
-| CakeResume | Build interactive and visually appealing resumes. | Builder | [CakeResume](https://www.cakeresume.com/) |
-| Resume Worded | Analyze and optimize your resume for ATS and recruiters. | Analyzer | [Resume Worded](https://resumeworded.com/) |
-| Jobscan | Optimize your resume for Applicant Tracking Systems (ATS). | Analyzer | [Jobscan](https://www.jobscan.co/) |
-| Overleaf | Create polished resumes using LaTeX templates. | Builder | [Overleaf](https://www.overleaf.com/latex/templates/tagged/cv) |
-| VMock | Get instant feedback on your resume's content, formatting, and impact. | Analyzer | [VMock](https://www.vmock.com/) |
-| Grammarly | Check grammar, spelling, and tone in your resume. | Checker | [Grammarly](https://www.grammarly.com/) |
+### 🛠 Builders
+Easily design and create professional resumes with the following tools:
+- **[Resumake](https://resumake.io/):** Customizable templates for quick resume creation.
+- **[Zety](https://zety.com/):** Expert tips and modern templates to craft standout resumes.
+- **[Overleaf](https://www.overleaf.com/latex/templates/tagged/cv):** Polished resumes using LaTeX templates.
+- **[Canva](https://www.canva.com/resumes/templates/):** Creative and professional templates for eye-catching resumes.
+- **[FlowCV](https://flowcv.com/):** Modern, design-focused resume builder.
+- **[Novoresume](https://novoresume.com/):** ATS-friendly resumes with sleek layouts.
+- **[Kickresume](https://www.kickresume.com/):** AI-powered suggestions to create the perfect resume.
+- **[CakeResume](https://www.cakeresume.com/):** Interactive, visually appealing resume designs.
+- **[Resume.io](https://resume.io/):** Simple, professional, and customizable designs.
+- **[Resume.lol](https://www.resume.lol/):** Straightforward, clean, and intuitive resume builder.
+
+### 🔍 Analyzers
+Optimize your resume for ATS and recruiter feedback:
+- **[Resume Worded](https://resumeworded.com/):** Analyze and improve your resume for better impact.
+- **[Jobscan](https://www.jobscan.co/):** Tailor your resume for ATS compatibility.
+- **[VMock](https://www.vmock.com/):** Real-time feedback on content, formatting, and overall impact.
+
+### ✅ Checkers
+Polish your resume with these essential tools:
+- **[Grammarly](https://www.grammarly.com/):** Fix grammar, spelling, and tone for a flawless resume.
 
 
 ---
