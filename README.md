@@ -408,7 +408,7 @@ These hackathons focus on specific technologies, industries, or causes.
 | Company | Event | Location | Registration |
 | ------- | ----- | -------- | ------------ |
 | Amazon | EMEA Partner Enablement Calendar | Virtual | [calendar.smartsheet.com](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |
-| Google | Google Cloud | Multiple Locations | [cloud.google.com/onboard](https://cloud.google.com/events) |
+| Google | Google Cloud | Multiple Locations | [cloud.google.com/events](https://cloud.google.com/events) |
 | Meta | Meta AI Events | Virtual | [ai.meta.com/events](https://ai.meta.com/events/) |
 | AWS | AWS Events | Online & Offline | [aws.amazon.com/events](https://aws.amazon.com/events/) |
 
@@ -428,15 +428,13 @@ These hackathons focus on specific technologies, industries, or causes.
 |------|-------------|---------|
 | TechCrunch Disrupt | A startup and tech innovation summit featuring hackathons and pitch competitions. | [techcrunch.com/events](https://techcrunch.com/events/) |
 | AWS Summit | A global series of events by Amazon Web Services for cloud computing and innovation. | [aws.amazon.com/summits](https://aws.amazon.com/summits/) |
-| CES (Consumer Electronics Show) | The world's largest tech event showcasing innovations in consumer electronics. | [ces.tech](https://www.ces.tech/) |
-| AI Summit | A global event focused on artificial intelligence and machine learning. | [aisummit.com](https://aisummit.com/) |
 | DevOps World | A conference dedicated to DevOps, cloud, and agile practices. | [devopsworld.com](https://devopsworld.com/) |
 
 ### Workshops
 | Name | Description | Website |
 |------|-------------|---------|
 | Google Developer Days (GDD) | Hands-on workshops and sessions by Google experts and event series for developers to learn about Google's latest tools and technologies. | [developers.google.com/events](https://developers.google.com/events) |
-| AWS Workshops | Hands-on workshops for learning and building with AWS services. | [aws.amazon.com/workshops](https://workshops.aws/) |
+| AWS Workshops | Hands-on workshops for learning and building with AWS services. | [workshops.aws](https://workshops.aws/) |
 
 
 <!--
