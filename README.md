@@ -47,6 +47,8 @@ to help them and reach out to others.
   
 - [Events](#events)
 
+- [Coding Competitions](#coding-competitions)
+
 - [Volunteering](#volunteering)
 
 - [Contribution](#contribution)
@@ -326,7 +328,6 @@ Easily design and create professional resumes with the following tools:
 | Resume.io | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
 | Resume.lol | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
 
----
 
 ### 🔍 Analyzers
 Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback:
@@ -337,7 +338,6 @@ Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback
 | Jobscan | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
 | VMock | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
 
----
 
 ### ✅ Checkers
 Polish your resume with these essential tools:
@@ -351,35 +351,56 @@ Polish your resume with these essential tools:
 
 ## Hackathons
 
-### Global Hackathons
+### **Global Hackathons**  
 These hackathons attract participants from all over the world and are highly competitive.
 
 | Name | Description | Website |
 |------|-------------|---------|
-| Hack the North | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
-| MLH Hackathons | Major League Hacking (MLH) organizes hackathons worldwide for students. | [mlh.io](https://mlh.io) |
-| HackMIT | One of the most prestigious hackathons hosted by MIT. | [hackmit.org](https://hackmit.org) |
-| Google Hash Code | A team-based programming competition by Google. | [hashcode](https://codingcompetitions.withgoogle.com/hashcode) |
+| **Devpost** | Devpost hosts and lists hundreds of global hackathons across various themes and industries. | [devpost.com](https://devpost.com) |
+| **Hack the North** | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
+| **Major League Hacking (MLH) Hackathons** | MLH organizes hundreds of hackathons worldwide for students, including flagship events like Hackcon. | [mlh.io](https://mlh.io) |
+| **HackMIT** | One of the most prestigious hackathons hosted by MIT, attracting global talent. | [hackmit.org](https://hackmit.org) |
+| **Hack the Planet** | A global virtual hackathon focused on solving environmental and sustainability challenges. | [hacktheplanet.io](https://hacktheplanet.io) |
+| **AngelHack Global Hackathon Series** | A worldwide series of hackathons focused on innovation and entrepreneurship. | [angelhack.com](https://angelhack.com) |
+| **Hack the World** | A global virtual hackathon encouraging participants to solve global challenges using technology. | [hacktheworld.org](https://hacktheworld.org) |
+| **Hack for Earth** | A global hackathon focused on solving environmental challenges using technology. | [hackforearth.com](https://hackforearth.com) |
+| **Microsoft Imagine Cup** | A global competition for students to build innovative software solutions. | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
+| **TechCrunch Disrupt Hackathon** | A prestigious hackathon held during TechCrunch Disrupt, attracting top talent worldwide. | [techcrunch.com](https://techcrunch.com/disrupt) |
 
-### Regional Hackathons
+
+### **Regional Hackathons**  
 These hackathons are region-specific and often focus on local communities.
 
 | Name | Description | Website |
 |------|-------------|---------|
-| Hack the Valley (Canada) | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
-| HackCU (USA) | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
-| Hack the Midlands (UK) | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
+| **Hack the Valley (Canada)** | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
+| **HackCU (USA)** | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
+| **Hack the Midlands (UK)** | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
+| **HackZurich (Switzerland)** | Europe's biggest hackathon, attracting participants from across the continent. | [hackzurich.com](https://hackzurich.com) |
+| **HackAsia (Asia-Pacific)** | A hackathon series focused on innovation in the Asia-Pacific region. | [hackasia.org](https://hackasia.org/) |
+| **Hack the South (Africa)** | A hackathon aimed at solving challenges specific to the African continent. | [hacksouth.africa](https://hacksouth.africa/) |
 
-### Themed Hackathons
+
+### **Themed Hackathons**  
 These hackathons focus on specific technologies, industries, or causes.
 
 | Name | Description | Website |
 |------|-------------|---------|
-| NASA Space Apps Challenge | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
-| ETHGlobal | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
-| Hack for Good | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://hackforgood.io) |
+| **NASA Space Apps Challenge** | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
+| **ETHGlobal** | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
+| **Hack for Good** | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://www.hackathonforgood.org/) |
+| **AI Hackathon by TensorFlow** | A global hackathon focused on building AI/ML solutions using TensorFlow. | [tensorflow.org/community/ai-hackathon](https://www.tensorflow.org/community/ai-hackathon) |
+| **Kaggle Competitions** | Data science and machine learning hackathons hosted by Kaggle. | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
+| **Climate Hackathon** | A global hackathon focused on climate change and sustainability solutions. | [climatehackathon.org](https://climatehackathon.org) |
+| **Fintech Hackathon** | A hackathon series focused on innovation in financial technology. | [fintechhackathon.com](https://fintechhackathon.com) |
+| **HealthTech Hackathon** | A global hackathon focused on healthcare innovation and technology. | [healthtechhackathon.com](https://healthtechhackathon.com) |
+| **Game Jam** | A global hackathon series focused on game development, hosted by various organizations. | [globalgamejam.org](https://globalgamejam.org) |
+
+
 
 ---
+
+
 
 ## Events
 
@@ -445,7 +466,29 @@ These hackathons focus on specific technologies, industries, or causes.
 
 -->
 
+
 ---
+
+## Coding Competitions
+
+These competitions improve your **algorithmic problem-solving skills** and compete with programmers worldwide in global contests.
+
+| Name | Description | Website |
+|------|-------------|---------|
+| **Codeforces Rounds** | Regular competitive programming contests with a global ranking system. | [codeforces.com](https://codeforces.com) |
+| **LeetCode Contests** | Competitive programming contests hosted by LeetCode, popular among software engineers. | [leetcode.com/contest](https://leetcode.com/contest) |
+| **Meta Hacker Cup** | A global hackathon hosted by Meta (formerly Facebook) to foster innovation in social media and technology. | [web.facebook.com/codingcompetitions/hacker-cup](https://web.facebook.com/codingcompetitions/hacker-cup) |
+| **ACM ICPC** | The most prestigious programming competition for university students worldwide. | [icpc.global](https://icpc.global) |
+| **AtCoder Contests** | Japanese competitive programming platform hosting regular contests. | [atcoder.jp](https://atcoder.jp) |
+| **CodeChef Contests** | Monthly coding competitions hosted by CodeChef. | [codechef.com/contests](https://www.codechef.com/contests) |
+| **HackerRank** | Hackathons and coding challenges hosted by HackerRank. | [hackerrank.com/contests](https://www.hackerrank.com/contests) |
+| **HackerEarth** | Competitive programming and hiring challenges hosted by HackerEarth. | [hackerearth.com](https://www.hackerearth.com) |
+
+
+
+---
+
+
 
 ## Volunteering
 
