@@ -358,10 +358,9 @@ These hackathons attract participants from all over the world and are highly com
 | Hack the North | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
 | Major League Hacking (MLH) Hackathons | MLH organizes hundreds of hackathons worldwide for students, including flagship events like Hackcon. | [mlh.io](https://mlh.io) |
 | HackMIT | One of the most prestigious hackathons hosted by MIT, attracting global talent. | [hackmit.org](https://hackmit.org) |
-| Hack the Planet | A global virtual hackathon focused on solving environmental and sustainability challenges. | [hacktheplanet.io](https://hacktheplanet.io) |
+| Hack for Earth | A global hackathon focused on solving environmental challenges using technology. | [hackforearth.com](https://hackforearth.com) |
 | AngelHack Global Hackathon Series | A worldwide series of hackathons focused on innovation and entrepreneurship. | [angelhack.com](https://angelhack.com) |
 | Hack the World | A global virtual hackathon encouraging participants to solve global challenges using technology. | [hacktheworld.org](https://hacktheworld.org) |
-| Hack for Earth | A global hackathon focused on solving environmental challenges using technology. | [hackforearth.com](https://hackforearth.com) |
 | Microsoft Imagine Cup | A global competition for students to build innovative software solutions. | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
 | TechCrunch Disrupt Hackathon | A prestigious hackathon held during TechCrunch Disrupt, attracting top talent worldwide. | [techcrunch.com](https://techcrunch.com/disrupt) |
 
