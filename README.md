@@ -247,7 +247,7 @@ to help them and reach out to others.
 
 ### FAANG Discord Servers
 
-| Company | Name | Link | Members |
+| Company | Name | Invite | Members |
 | ------- | ---- | ---- | ------- |
 | Google | Googlers | [Join](https://discord.gg/qY5qH45pqX) | 17k |
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 500 |
@@ -283,29 +283,31 @@ to help them and reach out to others.
 
 ### CS/SWE Discord Servers
 
-| Name | Link | Members |
-| ---- | ---- | ------- |
-| CS Careers | [Join](https://discord.gg/cscareers) | 101k |
-| CS Careers Hub | [Join](https://discord.gg/cscareerhub) | 35.5k |
-| CS Majors | [Join](https://discord.gg/csmajors) | 23k |
-| CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k |
-| NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k |
-| Python | [Join](https://discord.gg/python) | 396.6k |
-| Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k |
-| Frontend Mentors | [Join](https://discord.gg/CYn98rep9r) | 34k |
-| Django | [Join](https://discord.gg/uQVfNJCPVc) | 26.5k |
-| The Programmer’s Hangout | [Join](https://discord.gg/programming) | 179.5k |
-| The Coding Den | [Join](https://discord.gg/code) | 157k |
-| Reactiflux | [Join](https://discord.gg/GhM9ddxSd9) | 225.5k |
-| TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 50k |
-| Devcord | [Join](https://discord.gg/devcord) | 36k |
-| SpeakJS | [Join](https://discord.gg/Pbpdz5PjGq) | 34k |
-| CodeSupport | [Join](https://discord.gg/W8xaae6spw) | 33.8k |
-| FreeCodeCamp | [Join](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) | 32k |
-| OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k |
-| Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.5k |
-| Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k |
-| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 |
+| Name | Invite | Members | Tags |
+| ---- | ---- | ------- | ---- |
+| CS Careers | [Join](https://discord.gg/cscareers) | 101k | #career #interview |
+| CS Careers Hub | [Join](https://discord.gg/cscareerhub) | 35.5k | #career #resources |
+| CS Majors | [Join](https://discord.gg/csmajors) | 23k | #students #career |
+| CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k | #career #uk |
+| NeetCode | [Join](https://discord.gg/KK4FF3s5Wq) | 37k | #coding #interview |
+| Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k | #google #devtools |
+| Frontend Mentors | [Join](https://discord.gg/CYn98rep9r) | 34k | #frontend #design |
+| Reactiflux | [Join](https://discord.gg/GhM9ddxSd9) | 225.5k | #react #frontend |
+| Python | [Join](https://discord.gg/python) | 396.6k | #python #coding |
+| Django | [Join](https://discord.gg/uQVfNJCPVc) | 26.5k | #python #django |
+| Devpost | [Join](https://discord.com/invite/HP4BhW3hnp) | 20k | #hackathon #collab |
+| The Programmer’s Hangout | [Join](https://discord.gg/programming) | 179.5k | #coding #general |
+| The Coding Den | [Join](https://discord.gg/code) | 157k | #coding #community |
+| TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 50k | #typescript #coding |
+| Devcord | [Join](https://discord.gg/devcord) | 36k | #devtools #networking |
+| SpeakJS | [Join](https://discord.gg/Pbpdz5PjGq) | 34k | #javascript #coding |
+| CodeSupport | [Join](https://discord.gg/W8xaae6spw) | 33.8k | #coding #support |
+| FreeCodeCamp | [Join](https://discord.gg/freecodecamp-org-official-fi-fo-692816967895220344) | 32k | #coding #learning |
+| OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k | #learning #opensource |
+| Active Courses | [Join](https://discord.gg/p97Zc7rFR4) | 4.5k | #learning #courses |
+| Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k | #cybersecurity #career |
+| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 | #engineering #career |
+
 
 
 ---
@@ -387,8 +389,6 @@ These hackathons focus on specific technologies, industries, or causes.
 | Hack for Good | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://www.hackathonforgood.org/) |
 | AI Hackathon by TensorFlow | A global hackathon focused on building AI/ML solutions using TensorFlow. | [tensorflow.org/community/ai-hackathon](https://www.tensorflow.org/community/ai-hackathon) |
 | Kaggle Competitions | Data science and machine learning hackathons hosted by Kaggle. | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
-| Climate Hackathon | A global hackathon focused on climate change and sustainability solutions. | [climatehackathon.org](https://climatehackathon.org) |
-| Fintech Hackathon | A hackathon series focused on innovation in financial technology. | [fintechhackathon.com](https://fintechhackathon.com) |
 | HealthTech Hackathon | A global hackathon focused on healthcare innovation and technology. | [healthtechhackathon.com](https://healthtechhackathon.com) |
 | Game Jam | A global hackathon series focused on game development, hosted by various organizations. | [globalgamejam.org](https://globalgamejam.org) |
 
