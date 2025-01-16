@@ -33,11 +33,11 @@ to help them and reach out to others.
 
 - [Internships](#internships)
   
-- [Open-Source Contributions](#open-source-contributions)
+- [Open-Source](#open-source)
   
-- [Coding Practice Platforms](#coding-practice-platforms)
+- [Coding Practice](#coding-practice)
   
-- [Mock Interview Platforms](#mock-interview-platforms)
+- [Mock Interviews](#mock-interviews)
   
 - [Discord Servers](#discord-servers)
   
@@ -188,7 +188,7 @@ to help them and reach out to others.
 
 ---
 
-## Open-Source Contributions
+## Open-Source
 
 | Program | Description | Application Link | Discord Server |
 | ------- | ----------- | ---------------- | -------------- |
@@ -202,7 +202,7 @@ to help them and reach out to others.
 
 ---
 
-## Coding Practice Platforms
+## Coding Practice
 
 | Platform | Description | Focus Area | Link |
 | -------- | ----------- | ---------- | ---- |
@@ -221,7 +221,7 @@ to help them and reach out to others.
 
 ---
 
-## Mock Interview Platforms
+## Mock Interviews
 
 | Platform | Description | Link |
 | -------- | ----------- | ---- |
