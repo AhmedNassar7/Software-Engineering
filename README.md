@@ -317,16 +317,12 @@ Easily design and create professional resumes with the following tools:
 
 | Tool | Description | Link |
 |------|-------------|------|
+| Overleaf | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
+| Resume.lol | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
+| FlowCV | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
 | Resumake | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
 | Zety | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
-| Overleaf | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
-| Canva | Creative and professional templates for eye-catching resumes. | [Canva Resume Templates](https://www.canva.com/resumes/templates/) |
-| FlowCV | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
-| Novoresume | ATS-friendly resumes with sleek layouts. | [novoresume.com](https://novoresume.com/) |
-| Kickresume | AI-powered suggestions to create the perfect resume. | [kickresume.com](https://www.kickresume.com/) |
-| CakeResume | Interactive, visually appealing resume designs. | [cakeresume.com](https://www.cakeresume.com/) |
 | Resume.io | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
-| Resume.lol | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
 
 
 ### 🔍 Analyzers
