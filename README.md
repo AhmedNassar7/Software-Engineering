@@ -20,7 +20,7 @@
   </a>
 </div>
 
-🚀 This repository is a central hub for **Software Engineering Opportunities**,
+🚀 This repository is a central hub for **Software Engineering Opportunities and resources**,
 including **Internships**, **Hackathons**, **Events**, **Open Source**,
 **FAANG & CS Discord Servers**, and more.
 
