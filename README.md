@@ -212,6 +212,7 @@ to help them and reach out to others.
 | Platform | Description | Focus Area | Link |
 | -------- | ----------- | ---------- | ---- |
 | LeetCode | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [LeetCode](https://leetcode.com/) |
+| NeetCode | Structured roadmap and curated problems for coding interview preparation. | Coding Interviews, Algorithms, Data Structures | [NeetCode](https://neetcode.io/) |
 | HackerRank | Solve coding challenges and participate in contests. | Coding Challenges, Competitions | [HackerRank](https://www.hackerrank.com/) |
 | Codeforces | Competitive programming platform with regular contests. | Competitive Programming, Algorithms | [Codeforces](https://codeforces.com/) |
 | AlgoExpert | Curated list of coding interview questions and solutions. | Coding Interviews, Algorithms | [AlgoExpert](https://www.algoexpert.io/) |
@@ -222,7 +223,6 @@ to help them and reach out to others.
 | CodinGame | Learn to code by solving fun and interactive challenges. | Game-Based Learning, Problem-Solving | [CodinGame](https://www.codingame.com/) |
 | AtCoder | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms | [AtCoder](https://atcoder.jp/) |
 | SPOJ | Solve coding problems and participate in contests. | Competitive Programming, Algorithms | [SPOJ](https://www.spoj.com/) |
-
 
 ---
 
@@ -239,7 +239,6 @@ to help them and reach out to others.
 | AlgoExpert Mock Interviews | Simulate coding interviews with curated questions and solutions. | [AlgoExpert Mock](https://www.algoexpert.io/mock-interviews) |
 | Gainlo | Mock interviews with experienced professionals and detailed feedback. | [Gainlo](http://www.gainlo.co/) |
 | Meetapro | Mock interviews with engineers from FAANG and other top companies. | [Meetapro](https://www.meetapro.com/) |
-| Refdash | Free mock interviews with engineers and detailed feedback. | [Refdash](https://refdash.com/) |
 
 
 ---
