@@ -258,7 +258,8 @@ to help them and reach out to others.
 | ↳ | Google Interns (EMEA) | [Join](https://discord.gg/A8Mra5yRQ9) | 500 |
 | Meta | Meta Interns, New Grads, & FTEs (Unofficial) | [Join](https://discord.gg/PA6J89YpKh) | 900 |
 | ↳ | Meta New Grads | [Join](https://discord.gg/fSrnvHSy3Y) | 900 |
-| Amazon | Amazon Europe Interns & Grads | [Join](https://discord.gg/KuCJAzuBZs) | 200 |
+| Amazon | Amazon New Grads/Interns | [Join](https://discord.gg/XqPqVVYb) | 1.5k |
+| ↳ | Amazon Europe Interns & Grads | [Join](https://discord.gg/KuCJAzuBZs) | 400 |
 | ↳ | Amazon EU Interns | [Join](https://discord.gg/7aacQt9vD2) | 200 |
 | Microsoft | Microsoft Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/Yjn4pAMctX) | 14k |
 | Apple | Apple Interns | [Join](https://discord.gg/EhZJ3nAVSz) | 1.8k |
@@ -298,6 +299,7 @@ to help them and reach out to others.
 | Devpost | [Join](https://discord.com/invite/HP4BhW3hnp) | 20k | #hackathon #collab |
 | Google Developer Community | [Join](http://discord.gg/google-dev-community) | 39k | #google #devtools |
 | Microsoft Student Developer Community | [Join](https://discord.com/invite/microsoft-student-developer-community-1151306789405589615) | 37k | #microsoft #devtools |
+| Microsoft Community | [Join](https://discord.com/invite/microsoft) | 90k | #microsoft #devtools |
 | CS Careers Hub | [Join](https://discord.gg/cscareerhub) | 35.5k | #career #resources |
 | CS Majors | [Join](https://discord.gg/csmajors) | 23k | #students #career |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k | #career #uk |
