@@ -21,7 +21,7 @@
 </div>
 
 🚀 This repository is a central hub for **Software Engineering Opportunities and resources**,
-including **Internships**, **Hackathons**, **Events**, **Open Source**, **Mock Interviews**, **Coding Practice**
+including **Internships**, **Hackathons**, **Events**, **Open Source**, **Mock Interviews**, **Coding Practice**,
 **FAANG & CS Discord Servers**, and more.
 
 ⭐ Don't forget to **give this repo a star** and **share it with your friends**
