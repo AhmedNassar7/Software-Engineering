@@ -201,6 +201,7 @@ to help them and reach out to others.
 | GirlScript Summer of Code | A 3-month open-source program for beginners to contribute to projects. | [Apply](https://gssoc.girlscript.tech/#) | - |
 | MLH Fellowship | A remote internship program for open-source contributions. | [Apply](https://fellowship.mlh.io/) | [MLH Community](https://discord.gg/mlh) |
 | Hacktoberfest | An annual event encouraging open-source contributions. | [Apply](https://hacktoberfest.com/) | [Hacktoberfest](https://discord.com/invite/hacktoberfest) |
+| Girls Who Code | A program designed to inspire and educate girls to pursue careers in technology through coding projects. | [Apply](https://girlswhocode.com/) | - |
 | Summer of Bitcoin | A program to contribute to Bitcoin and blockchain-related open-source projects. | [Apply](https://www.summerofbitcoin.org/) | - |
 | Outreachy | An internship program for underrepresented groups in tech to work on open-source projects. | [Apply](https://www.outreachy.org/) | - |
 
