@@ -234,6 +234,7 @@ to help them and reach out to others.
 | Pramp | Practice mock interviews with peers or experts for free. | [Pramp](https://www.pramp.com/) |
 | Exponent | Mock interviews for product management, software engineering, and more. | [Exponent](https://www.tryexponent.com/) |
 | Interviewing.io | Anonymous mock interviews with engineers from top companies like FAANG. | [Interviewing.io](https://interviewing.io/) |
+| Manara | platform connecting tech talent in MENA with global opportunities, including mock interviews. | [Manara](https://manara.tech/) |
 | LeetCode Mock Interviews | Simulate real coding interviews with timed sessions and feedback. | [LeetCode Mock](https://leetcode.com/interview/) |
 | CodeSignal | Practice coding interviews with real-world questions and automated scoring. | [CodeSignal](https://codesignal.com/) |
 | InterviewBit Mock Interviews | Practice mock interviews with real-time coding environments. | [InterviewBit Mock](https://www.interviewbit.com/mock-interview/) |
@@ -384,6 +385,7 @@ These hackathons are region-specific and often focus on local communities.
 | HackZurich (Switzerland) | Europe's biggest hackathon, attracting participants from across the continent. | [hackzurich.com](https://hackzurich.com) |
 | HackAsia (Asia-Pacific) | A hackathon series focused on innovation in the Asia-Pacific region. | [hackasia.org](https://hackasia.org/) |
 | Hack the South (Africa) | A hackathon aimed at solving challenges specific to the African continent. | [hacksouth.africa](https://hacksouth.africa/) |
+| SheHacks (Canada) | A hackathon empowering women and non-binary individuals in tech, hosted in Canada. | [shehacks.ca](https://shehacks.ca/) |
 
 
 ### **Themed Hackathons**  
@@ -414,6 +416,7 @@ These hackathons focus on specific technologies, industries, or causes.
 | Google | Google Cloud | Multiple Locations | [cloud.google.com/events](https://cloud.google.com/events) |
 | Meta | Meta AI Events | Virtual | [ai.meta.com/events](https://ai.meta.com/events/) |
 | AWS | AWS Events | Online & Offline | [aws.amazon.com/events](https://aws.amazon.com/events/) |
+| Manara | Manara Events | Virtual & MENA Region | [manara.tech](https://manara.tech/) |
 
 ### Conferences
 | Name | Description | Website |
