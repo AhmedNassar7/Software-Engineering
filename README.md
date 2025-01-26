@@ -52,6 +52,8 @@ to help them and reach out to others.
   
 - [Events](#events)
 
+- [Learning Platforms](#learning-platforms)
+
 - [Coding Competitions](#coding-competitions)
 
 - [Volunteering](#volunteering)
@@ -411,16 +413,16 @@ These hackathons focus on specific technologies, industries, or causes.
 
 ## Events
 
-### Company-Hosted Events
+### 🏢 Company-Hosted Events
 | Company | Event | Location | Registration |
 | ------- | ----- | -------- | ------------ |
-| Amazon | EMEA Partner Enablement Calendar | Virtual | [calendar.smartsheet.com](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |
 | Google | Google Cloud | Multiple Locations | [cloud.google.com/events](https://cloud.google.com/events) |
 | Meta | Meta AI Events | Virtual | [ai.meta.com/events](https://ai.meta.com/events/) |
+| Amazon | EMEA Partner Enablement Calendar | Virtual | [calendar.smartsheet.com](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |
 | AWS | AWS Events | Online & Offline | [aws.amazon.com/events](https://aws.amazon.com/events/) |
 | Manara | Manara Events | Virtual & MENA Region | [manara.tech](https://manara.tech/) |
 
-### Conferences
+### 🌐 Conferences
 | Name | Description | Website |
 |------|-------------|---------|
 | Google Cloud Next | A global conference for cloud computing and Google Cloud innovations. | [cloud.withgoogle.com/next](https://cloud.withgoogle.com/next) |
@@ -431,18 +433,37 @@ These hackathons focus on specific technologies, industries, or causes.
 | DockerCon | A conference focused on containerization and Docker technologies. | [docker.com/dockercon](https://www.docker.com/dockercon/) |
 | GitHub Universe | GitHub's annual event for developers and open-source enthusiasts. | [githubuniverse.com](https://githubuniverse.com/) |
 
-### Summits
+### 🚀 Summits
 | Name | Description | Website |
 |------|-------------|---------|
 | TechCrunch Disrupt | A startup and tech innovation summit featuring hackathons and pitch competitions. | [techcrunch.com/events](https://techcrunch.com/events/) |
 | AWS Summit | A global series of events by Amazon Web Services for cloud computing and innovation. | [aws.amazon.com/summits](https://aws.amazon.com/summits/) |
 | DevOps World | A conference dedicated to DevOps, cloud, and agile practices. | [devopsworld.com](https://devopsworld.com/) |
 
-### Workshops
+### 🛠️ Workshops
 | Name | Description | Website |
 |------|-------------|---------|
 | Google Developer Days (GDD) | Hands-on workshops and sessions by Google experts and event series for developers to learn about Google's latest tools and technologies. | [developers.google.com/events](https://developers.google.com/events) |
 | AWS Workshops | Hands-on workshops for learning and building with AWS services. | [workshops.aws](https://workshops.aws/) |
+
+
+---
+
+
+## Learning Platforms
+
+### 🚀 Career-Focused Platforms  
+- **[Udacity](https://www.udacity.com/):** Nanodegree programs with hands-on projects and career support.  
+- **[Udemy](https://www.udemy.com/):** Affordable courses for beginners and experts alike.  
+
+### 🎓 University-Level Courses  
+- **[Coursera](https://www.coursera.org/):** Courses from top universities, including CS and SWE.  
+- **[edX](https://www.edx.org/):** Free and paid courses from institutions like MIT and Harvard.  
+
+### 🌟 Free and Open Platforms  
+- **[FreeCodeCamp](https://www.freecodecamp.org/):** Free coding lessons and open-source projects.  
+- **[Codecademy](https://www.codecademy.com/):** Interactive coding lessons and guided projects.  
+
 
 
 <!--
@@ -481,16 +502,16 @@ These hackathons focus on specific technologies, industries, or causes.
 
 These competitions improve your **algorithmic problem-solving skills** and compete with programmers worldwide in global contests.
 
-| Name | Description | Website |
+| 🏁 Name | 📝 Description | 🌐 Website |
 |------|-------------|---------|
 | Codeforces Rounds | Regular competitive programming contests with a global ranking system. | [codeforces.com](https://codeforces.com) |
 | LeetCode Contests | Competitive programming contests hosted by LeetCode, popular among software engineers. | [leetcode.com/contest](https://leetcode.com/contest) |
-| Meta Hacker Cup | A global hackathon hosted by Meta (formerly Facebook) to foster innovation in social media and technology. | [web.facebook.com/codingcompetitions/hacker-cup](https://web.facebook.com/codingcompetitions/hacker-cup) |
+| Meta Hacker Cup | A global hackathon hosted by Meta (formerly Facebook) to foster innovation in social media and technology. | [codingcompetitions/hacker-cup](https://web.facebook.com/codingcompetitions/hacker-cup) |
 | ACM ICPC | The most prestigious programming competition for university students worldwide. | [icpc.global](https://icpc.global) |
 | AtCoder Contests | Japanese competitive programming platform hosting regular contests. | [atcoder.jp](https://atcoder.jp) |
 | CodeChef Contests | Monthly coding competitions hosted by CodeChef. | [codechef.com/contests](https://www.codechef.com/contests) |
-| HackerRank | Hackathons and coding challenges hosted by HackerRank. | [hackerrank.com/contests](https://www.hackerrank.com/contests) |
-| HackerEarth | Competitive programming and hiring challenges hosted by HackerEarth. | [hackerearth.com](https://www.hackerearth.com) |
+| HackerRank Contests | Hackathons and coding challenges hosted by HackerRank. | [hackerrank.com/contests](https://www.hackerrank.com/contests) |
+| HackerEarth | Competitive programming and hiring challenges for tech enthusiasts worldwide. | [hackerearth.com](https://www.hackerearth.com) |
 
 
 
