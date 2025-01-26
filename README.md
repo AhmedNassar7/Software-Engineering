@@ -218,10 +218,11 @@ to help them and reach out to others.
 | Codeforces | Competitive programming platform with regular contests. | Competitive Programming, Algorithms | [Codeforces](https://codeforces.com/) |
 | AlgoExpert | Curated list of coding interview questions and solutions. | Coding Interviews, Algorithms | [AlgoExpert](https://www.algoexpert.io/) |
 | InterviewBit | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [InterviewBit](https://www.interviewbit.com/) |
+| HackerEarth | A platform for hackathons, coding challenges, and hiring events. | [HackerEarth](https://www.hackerearth.com/) |
 | Codewars | Solve coding challenges and improve problem-solving skills. | Coding Challenges, Problem-Solving | [Codewars](https://www.codewars.com/) |
 | CodeChef | Practice coding problems and participate in coding contests. | Competitive Programming, Algorithms | [CodeChef](https://www.codechef.com/) |
-| TopCoder | Participate in coding challenges and competitions. | Competitive Programming, Algorithms | [TopCoder](https://www.topcoder.com/) |
 | CodinGame | Learn to code by solving fun and interactive challenges. | Game-Based Learning, Problem-Solving | [CodinGame](https://www.codingame.com/) |
+| TopCoder | Participate in coding challenges and competitions. | Competitive Programming, Algorithms | [TopCoder](https://www.topcoder.com/) |
 | AtCoder | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms | [AtCoder](https://atcoder.jp/) |
 | SPOJ | Solve coding problems and participate in contests. | Competitive Programming, Algorithms | [SPOJ](https://www.spoj.com/) |
 
@@ -369,6 +370,7 @@ These hackathons attract participants from all over the world and are highly com
 | HackMIT | One of the most prestigious hackathons hosted by MIT, attracting global talent. | [hackmit.org](https://hackmit.org) |
 | Hack for Earth | A global hackathon focused on solving environmental challenges using technology. | [hackforearth.com](https://hackforearth.com) |
 | AngelHack Global Hackathon Series | A worldwide series of hackathons focused on innovation and entrepreneurship. | [angelhack.com](https://angelhack.com) |
+| HackerEarth | A platform for hackathons, coding challenges, and hiring events. | [hackerearth.com](https://www.hackerearth.com/) |
 | Hack the World | A global virtual hackathon encouraging participants to solve global challenges using technology. | [hacktheworld.org](https://hacktheworld.org) |
 | Microsoft Imagine Cup | A global competition for students to build innovative software solutions. | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
 | TechCrunch Disrupt Hackathon | A prestigious hackathon held during TechCrunch Disrupt, attracting top talent worldwide. | [techcrunch.com](https://techcrunch.com/disrupt) |
