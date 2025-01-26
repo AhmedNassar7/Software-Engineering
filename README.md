@@ -361,49 +361,47 @@ Polish your resume with these essential tools:
 
 ## Hackathons
 
-### **Global Hackathons**  
+### Global Hackathons  
 These hackathons attract participants from all over the world and are highly competitive.
 
-| Name | Description | Website |
-|------|-------------|---------|
-| Devpost | Devpost hosts and lists hundreds of global hackathons across various themes and industries. | [devpost.com](https://devpost.com) |
-| Hack the North | Canada's biggest hackathon, hosted by the University of Waterloo. | [hackthenorth.com](https://hackthenorth.com) |
-| Major League Hacking (MLH) Hackathons | MLH organizes hundreds of hackathons worldwide for students, including flagship events like Hackcon. | [mlh.io](https://mlh.io) |
-| HackMIT | One of the most prestigious hackathons hosted by MIT, attracting global talent. | [hackmit.org](https://hackmit.org) |
-| Hack for Earth | A global hackathon focused on solving environmental challenges using technology. | [hackforearth.com](https://hackforearth.com) |
-| AngelHack Global Hackathon Series | A worldwide series of hackathons focused on innovation and entrepreneurship. | [angelhack.com](https://angelhack.com) |
-| HackerEarth | A platform for hackathons, coding challenges, and hiring events. | [hackerearth.com](https://www.hackerearth.com/) |
-| Hack the World | A global virtual hackathon encouraging participants to solve global challenges using technology. | [hacktheworld.org](https://hacktheworld.org) |
-| Microsoft Imagine Cup | A global competition for students to build innovative software solutions. | [imaginecup.microsoft.com](https://imaginecup.microsoft.com) |
-| TechCrunch Disrupt Hackathon | A prestigious hackathon held during TechCrunch Disrupt, attracting top talent worldwide. | [techcrunch.com](https://techcrunch.com/disrupt) |
+| Name | Description |
+|------|-------------|
+| **[Devpost](https://devpost.com)** | Devpost hosts and lists hundreds of global hackathons across various themes and industries. |
+| **[Hack the North](https://hackthenorth.com)** | Canada's biggest hackathon, hosted by the University of Waterloo. |
+| **[Major League Hacking (MLH)](https://mlh.io)** | MLH organizes hundreds of hackathons worldwide for students, including flagship events like Hackcon. |
+| **[HackMIT](https://hackmit.org)** | One of the most prestigious hackathons hosted by MIT, attracting global talent. |
+| **[Hack for Earth](https://hackforearth.com)** | A global hackathon focused on solving environmental challenges using technology. |
+| **[AngelHack Global](https://angelhack.com)** | A worldwide series of hackathons focused on innovation and entrepreneurship. |
+| **[HackerEarth](https://www.hackerearth.com/)** | A platform for hackathons, coding challenges, and hiring events. |
+| **[Hack the World](https://hacktheworld.org)** | A global virtual hackathon encouraging participants to solve global challenges using technology. |
+| **[Microsoft Imagine Cup](https://imaginecup.microsoft.com)** | A global competition for students to build innovative software solutions. |
+| **[TechCrunch Disrupt Hackathon](https://techcrunch.com/disrupt)** | A prestigious hackathon held during TechCrunch Disrupt, attracting top talent worldwide. |
 
-
-### **Regional Hackathons**  
+### Regional Hackathons  
 These hackathons are region-specific and often focus on local communities.
 
-| Name | Description | Website |
-|------|-------------|---------|
-| Hack the Valley (Canada) | A hackathon for students in the Greater Toronto Area. | [hackthevalley.io](https://hackthevalley.io) |
-| HackCU (USA) | A hackathon hosted by the University of Colorado Boulder. | [hackcu.org](https://hackcu.org) |
-| Hack the Midlands (UK) | A hackathon for developers in the UK. | [hackthemidlands.com](https://hackthemidlands.com) |
-| HackZurich (Switzerland) | Europe's biggest hackathon, attracting participants from across the continent. | [hackzurich.com](https://hackzurich.com) |
-| HackAsia (Asia-Pacific) | A hackathon series focused on innovation in the Asia-Pacific region. | [hackasia.org](https://hackasia.org/) |
-| Hack the South (Africa) | A hackathon aimed at solving challenges specific to the African continent. | [hacksouth.africa](https://hacksouth.africa/) |
-| SheHacks (Canada) | A hackathon empowering women and non-binary individuals in tech, hosted in Canada. | [shehacks.ca](https://shehacks.ca/) |
+| Name | Description |
+|------|-------------|
+| **[Hack the Valley (Canada)](https://hackthevalley.io)** | A hackathon for students in the Greater Toronto Area. |
+| **[HackCU (USA)](https://hackcu.org)** | A hackathon hosted by the University of Colorado Boulder. |
+| **[Hack the Midlands (UK)](https://hackthemidlands.com)** | A hackathon for developers in the UK. |
+| **[HackZurich (Switzerland)](https://hackzurich.com)** | Europe's biggest hackathon, attracting participants from across the continent. |
+| **[HackAsia (Asia-Pacific)](https://hackasia.org/)** | A hackathon series focused on innovation in the Asia-Pacific region. |
+| **[Hack the South (Africa)](https://hacksouth.africa/)** | A hackathon aimed at solving challenges specific to the African continent. |
+| **[SheHacks (Canada)](https://shehacks.ca/)** | A hackathon empowering women and non-binary individuals in tech, hosted in Canada. |
 
-
-### **Themed Hackathons**  
+### Themed Hackathons  
 These hackathons focus on specific technologies, industries, or causes.
 
-| Name | Description | Website |
-|------|-------------|---------|
-| NASA Space Apps Challenge | A global hackathon focused on space exploration and Earth science. | [spaceappschallenge.org](https://www.spaceappschallenge.org) |
-| ETHGlobal | Hackathons focused on Ethereum and blockchain technology. | [ethglobal.com](https://ethglobal.com) |
-| Hack for Good | Hackathons focused on social impact and solving global challenges. | [hackforgood.io](https://www.hackathonforgood.org/) |
-| AI Hackathon by TensorFlow | A global hackathon focused on building AI/ML solutions using TensorFlow. | [tensorflow.org/community/ai-hackathon](https://www.tensorflow.org/community/ai-hackathon) |
-| Kaggle Competitions | Data science and machine learning hackathons hosted by Kaggle. | [kaggle.com/competitions](https://www.kaggle.com/competitions) |
-| HealthTech Hackathon | A global hackathon focused on healthcare innovation and technology. | [healthtechhackathon.com](https://healthtechhackathon.com) |
-| Game Jam | A global hackathon series focused on game development, hosted by various organizations. | [globalgamejam.org](https://globalgamejam.org) |
+| Name | Description |
+|------|-------------|
+| **[NASA Space Apps Challenge](https://www.spaceappschallenge.org)** | A global hackathon focused on space exploration and Earth science. |
+| **[ETHGlobal](https://ethglobal.com)** | Hackathons focused on Ethereum and blockchain technology. |
+| **[Hack for Good](https://www.hackathonforgood.org/)** | Hackathons focused on social impact and solving global challenges. |
+| **[AI Hackathon by TensorFlow](https://www.tensorflow.org/community/ai-hackathon)** | A global hackathon focused on building AI/ML solutions using TensorFlow. |
+| **[Kaggle Competitions](https://www.kaggle.com/competitions)** | Data science and machine learning hackathons hosted by Kaggle. |
+| **[HealthTech Hackathon](https://healthtechhackathon.com)** | A global hackathon focused on healthcare innovation and technology. |
+| **[Game Jam](https://globalgamejam.org)** | A global hackathon series focused on game development, hosted by various organizations. |
 
 
 
@@ -413,38 +411,38 @@ These hackathons focus on specific technologies, industries, or causes.
 
 ## Events
 
-### 🏢 Company-Hosted Events
-| Company | Event | Location | Registration |
-| ------- | ----- | -------- | ------------ |
-| Google | Google Cloud | Multiple Locations | [cloud.google.com/events](https://cloud.google.com/events) |
-| Meta | Meta AI Events | Virtual | [ai.meta.com/events](https://ai.meta.com/events/) |
-| Amazon | EMEA Partner Enablement Calendar | Virtual | [calendar.smartsheet.com](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6) |
-| AWS | AWS Events | Online & Offline | [aws.amazon.com/events](https://aws.amazon.com/events/) |
-| Manara | Manara Events | Virtual & MENA Region | [manara.tech](https://manara.tech/) |
+### 🏢 Company-Hosted Events  
+| Company | Event | Location |
+| ------- | ----- | -------- |
+| **[Google](https://cloud.google.com/events)** | Google Cloud | Multiple Locations |
+| **[Meta](https://ai.meta.com/events/)** | Meta AI Events | Virtual |
+| **[Amazon](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6)** | EMEA Partner Enablement Calendar | Virtual |
+| **[AWS](https://aws.amazon.com/events/)** | AWS Events | Online & Offline |
+| **[Manara](https://manara.tech/)** | Manara Events | Virtual & MENA Region |
 
-### 🌐 Conferences
-| Name | Description | Website |
-|------|-------------|---------|
-| Google Cloud Next | A global conference for cloud computing and Google Cloud innovations. | [cloud.withgoogle.com/next](https://cloud.withgoogle.com/next) |
-| Google I/O | Google's annual developer conference showcasing new technologies and updates. | [events.google.com/io](https://events.google.com/io/) |
-| Microsoft Build | Microsoft's annual conference for developers and engineers. | [microsoft.com/build](https://www.microsoft.com/build) |
-| AWS re:Invent | Amazon Web Services' global cloud computing conference. | [reinvent.awsevents.com](https://reinvent.awsevents.com/) |
-| KubeCon + CloudNativeCon | The premier conference for Kubernetes and cloud-native technologies. | [events.linuxfoundation.org](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
-| DockerCon | A conference focused on containerization and Docker technologies. | [docker.com/dockercon](https://www.docker.com/dockercon/) |
-| GitHub Universe | GitHub's annual event for developers and open-source enthusiasts. | [githubuniverse.com](https://githubuniverse.com/) |
+### 🌐 Conferences  
+| Name | Description |  
+|------|-------------|  
+| **[Google Cloud Next](https://cloud.withgoogle.com/next)** | A global conference for cloud computing and Google Cloud innovations. |  
+| **[Google I/O](https://events.google.com/io/)** | Google's annual developer conference showcasing new technologies and updates. |  
+| **[Microsoft Build](https://www.microsoft.com/build)** | Microsoft's annual conference for developers and engineers. |  
+| **[AWS re:Invent](https://reinvent.awsevents.com/)** | Amazon Web Services' global cloud computing conference. |  
+| **[KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)** | The premier conference for Kubernetes and cloud-native technologies. |  
+| **[DockerCon](https://www.docker.com/dockercon/)** | A conference focused on containerization and Docker technologies. |  
+| **[GitHub Universe](https://githubuniverse.com/)** | GitHub's annual event for developers and open-source enthusiasts. |  
 
-### 🚀 Summits
-| Name | Description | Website |
-|------|-------------|---------|
-| TechCrunch Disrupt | A startup and tech innovation summit featuring hackathons and pitch competitions. | [techcrunch.com/events](https://techcrunch.com/events/) |
-| AWS Summit | A global series of events by Amazon Web Services for cloud computing and innovation. | [aws.amazon.com/summits](https://aws.amazon.com/summits/) |
-| DevOps World | A conference dedicated to DevOps, cloud, and agile practices. | [devopsworld.com](https://devopsworld.com/) |
+### 🚀 Summits  
+| Name | Description |  
+|------|-------------|  
+| **[TechCrunch Disrupt](https://techcrunch.com/events/)** | A startup and tech innovation summit featuring hackathons and pitch competitions. |  
+| **[AWS Summit](https://aws.amazon.com/summits/)** | A global series of events by Amazon Web Services for cloud computing and innovation. |  
+| **[DevOps World](https://devopsworld.com/)** | A conference dedicated to DevOps, cloud, and agile practices. |  
 
-### 🛠️ Workshops
-| Name | Description | Website |
-|------|-------------|---------|
-| Google Developer Days (GDD) | Hands-on workshops and sessions by Google experts and event series for developers to learn about Google's latest tools and technologies. | [developers.google.com/events](https://developers.google.com/events) |
-| AWS Workshops | Hands-on workshops for learning and building with AWS services. | [workshops.aws](https://workshops.aws/) |
+### 🛠️ Workshops  
+| Name | Description |  
+|------|-------------|  
+| **[Google Developer Days (GDD)](https://developers.google.com/events)** | Hands-on workshops and sessions by Google experts for developers to learn about Google's latest tools and technologies. |  
+| **[AWS Workshops](https://workshops.aws/)** | Hands-on workshops for learning and building with AWS services. |  
 
 
 ---
@@ -452,17 +450,23 @@ These hackathons focus on specific technologies, industries, or causes.
 
 ## Learning Platforms
 
-### 🚀 Career-Focused Platforms  
-- **[Udacity](https://www.udacity.com/):** Nanodegree programs with hands-on projects and career support.  
-- **[Udemy](https://www.udemy.com/):** Affordable courses for beginners and experts alike.  
+### 🚀 Career-Focused Platforms
+| Platform  | Description | 
+| --------- | ----------- |
+| **[Udacity](https://www.udacity.com/)** | Nanodegree programs with hands-on projects and career support. |
+| **[Udemy](https://www.udemy.com/)** | Affordable courses for beginners and experts alike. |
 
-### 🎓 University-Level Courses  
-- **[Coursera](https://www.coursera.org/):** Courses from top universities, including CS and SWE.  
-- **[edX](https://www.edx.org/):** Free and paid courses from institutions like MIT and Harvard.  
+### 🎓 University-Level Courses
+| Platform  | Description | 
+| --------- | ----------- |
+| **[Coursera](https://www.coursera.org/)** | Courses from top universities, including CS and SWE. |
+| **[edX](https://www.edx.org/)** | Free and paid courses from institutions like MIT and Harvard. |
 
-### 🌟 Free and Open Platforms  
-- **[FreeCodeCamp](https://www.freecodecamp.org/):** Free coding lessons and open-source projects.  
-- **[Codecademy](https://www.codecademy.com/):** Interactive coding lessons and guided projects.  
+### 🌟 Free and Open Platforms
+| Platform  | Description | 
+| --------- | ----------- |
+| **[FreeCodeCamp](https://www.freecodecamp.org/)** | Free coding lessons and open-source projects. |
+| **[Codecademy](https://www.codecademy.com/)** | Interactive coding lessons and guided projects. | 
 
 
 
