@@ -54,6 +54,8 @@ to help them and reach out to others.
 
 - [Learning Platforms](#learning-platforms)
 
+- [Job Boards](#job-boards)
+
 - [Coding Competitions](#coding-competitions)
 
 - [Volunteering](#volunteering)
@@ -469,6 +471,18 @@ These hackathons focus on specific technologies, industries, or causes.
 | **[Codecademy](https://www.codecademy.com/)** | Interactive coding lessons and guided projects. | 
 
 
+---
+
+## Job Boards
+
+| Platform | Description |
+| -------- | ----------- |
+| **[LinkedIn Jobs](https://www.linkedin.com/jobs/)** | A great platform to find internships and jobs at FAANG companies. |
+| **[Glassdoor](https://www.glassdoor.com/)** | Job listings and company reviews, including FAANG. |
+| **[Indeed](https://www.indeed.com/)** | A popular job board for internships and full-time roles. |
+| **[Levels.fyi](https://www.levels.fyi/)** | A platform to compare salaries and levels at FAANG and other tech companies. |
+
+
 
 <!--
 
@@ -506,16 +520,16 @@ These hackathons focus on specific technologies, industries, or causes.
 
 These competitions improve your **algorithmic problem-solving skills** and compete with programmers worldwide in global contests.
 
-| 🏁 Name | 📝 Description | 🌐 Website |
-|------|-------------|---------|
-| Codeforces Rounds | Regular competitive programming contests with a global ranking system. | [codeforces.com](https://codeforces.com) |
-| LeetCode Contests | Competitive programming contests hosted by LeetCode, popular among software engineers. | [leetcode.com/contest](https://leetcode.com/contest) |
-| Meta Hacker Cup | A global hackathon hosted by Meta (formerly Facebook) to foster innovation in social media and technology. | [codingcompetitions/hacker-cup](https://web.facebook.com/codingcompetitions/hacker-cup) |
-| ACM ICPC | The most prestigious programming competition for university students worldwide. | [icpc.global](https://icpc.global) |
-| AtCoder Contests | Japanese competitive programming platform hosting regular contests. | [atcoder.jp](https://atcoder.jp) |
-| CodeChef Contests | Monthly coding competitions hosted by CodeChef. | [codechef.com/contests](https://www.codechef.com/contests) |
-| HackerRank Contests | Hackathons and coding challenges hosted by HackerRank. | [hackerrank.com/contests](https://www.hackerrank.com/contests) |
-| HackerEarth | Competitive programming and hiring challenges for tech enthusiasts worldwide. | [hackerearth.com](https://www.hackerearth.com) |
+| Name | Description |
+| ---- | ----------- |
+| [Codeforces Rounds](https://codeforces.com) | Regular competitive programming contests with a global ranking system. |
+| [LeetCode Contests](https://leetcode.com/contest) | Competitive programming contests hosted by LeetCode, popular among software engineers. |
+| [Meta Hacker Cup](https://web.facebook.com/codingcompetitions/hacker-cup) | A global hackathon hosted by Meta to foster innovation in social media and technology. |
+| [ACM ICPC](https://icpc.global) | The most prestigious programming competition for university students worldwide. |
+| [AtCoder Contests](https://atcoder.jp) | Japanese competitive programming platform hosting regular contests. |
+| [CodeChef Contests](https://www.codechef.com/contests) | Monthly coding competitions hosted by CodeChef. |
+| [HackerRank Contests](https://www.hackerrank.com/contests) | Hackathons and coding challenges hosted by HackerRank. |
+| [HackerEarth](https://www.hackerearth.com) | Competitive programming and hiring challenges for tech enthusiasts worldwide. |
 
 
 
