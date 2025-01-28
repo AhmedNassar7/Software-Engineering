@@ -113,6 +113,7 @@ to help them and reach out to others.
 | Notion | Multiple Internships | Multiple Locations | [Apply](https://app.ripplematch.com/v2/public/company/notion) | ✅ |
 | Warner Bros. Discovery | Multiple Internships | Multiple Locations | [Apply](https://careers.wbd.com/global/en/internship-opportunities) | ✅ |
 | Duolingo | Multiple Internships | Multiple Locations | [Apply](https://careers.duolingo.com/?type=Intern#careers) | ✅ |
+| Gemini | Multiple Internships | Multiple Locations | [Apply](https://www.gemini.com/early-careers) | ✅ |
 | Maven Securities | Multiple Internships | Multiple Locations | [Apply](https://www.mavensecurities.com/emerging-talent/) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
 
