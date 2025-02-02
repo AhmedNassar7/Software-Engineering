@@ -310,6 +310,7 @@ to help them and reach out to others.
 | CS Careers Hub | [Join](https://discord.gg/cscareerhub) | 35.5k | #career #resources |
 | CS Majors | [Join](https://discord.gg/csmajors) | 23k | #students #career |
 | CS Careers UK | [Join](https://discord.gg/cs-careers-uk-1068856619703746600) | 1.7k | #career #uk |
+| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 650 | #internships #career |
 | The Programmer’s Hangout | [Join](https://discord.gg/programming) | 179.5k | #coding #general |
 | The Coding Den | [Join](https://discord.gg/code) | 157k | #coding #community |
 | TypeScript | [Join](https://discord.gg/dVUSufZKq7) | 50k | #typescript #coding |
@@ -321,7 +322,6 @@ to help them and reach out to others.
 | OSSU | [Join](https://discord.gg/AnmZzuFUwh) | 26k | #learning #opensource |
 | Active Courses (Arabic) | [Join](https://discord.gg/p97Zc7rFR4) | 4.5k | #learning #courses |
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k | #cybersecurity #career |
-| Software Engineering | [Join](https://discord.gg/N95QU2Ww3h) | 500 | #engineering #career |
 
 
 
