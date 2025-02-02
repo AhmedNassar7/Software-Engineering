@@ -215,21 +215,21 @@ to help them and reach out to others.
 
 ## Coding Practice
 
-| Platform | Description | Focus Area | Link |
-| -------- | ----------- | ---------- | ---- |
-| LeetCode | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [LeetCode](https://leetcode.com/) |
-| NeetCode | Structured roadmap and curated problems for coding interview preparation. | Coding Interviews, Algorithms, Data Structures | [NeetCode](https://neetcode.io/) |
-| HackerRank | Solve coding challenges and participate in contests. | Coding Challenges, Competitions | [HackerRank](https://www.hackerrank.com/) |
-| Codeforces | Competitive programming platform with regular contests. | Competitive Programming, Algorithms | [Codeforces](https://codeforces.com/) |
-| AlgoExpert | Curated list of coding interview questions and solutions. | Coding Interviews, Algorithms | [AlgoExpert](https://www.algoexpert.io/) |
-| InterviewBit | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures | [InterviewBit](https://www.interviewbit.com/) |
-| HackerEarth | A platform for hackathons, coding challenges, and hiring events. | [HackerEarth](https://www.hackerearth.com/) |
-| Codewars | Solve coding challenges and improve problem-solving skills. | Coding Challenges, Problem-Solving | [Codewars](https://www.codewars.com/) |
-| CodeChef | Practice coding problems and participate in coding contests. | Competitive Programming, Algorithms | [CodeChef](https://www.codechef.com/) |
-| CodinGame | Learn to code by solving fun and interactive challenges. | Game-Based Learning, Problem-Solving | [CodinGame](https://www.codingame.com/) |
-| TopCoder | Participate in coding challenges and competitions. | Competitive Programming, Algorithms | [TopCoder](https://www.topcoder.com/) |
-| AtCoder | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms | [AtCoder](https://atcoder.jp/) |
-| SPOJ | Solve coding problems and participate in contests. | Competitive Programming, Algorithms | [SPOJ](https://www.spoj.com/) |
+| Platform | Description | Focus Area |
+| -------- | ----------- | ---------- |
+| **[LeetCode](https://leetcode.com/)** | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures |
+| **[NeetCode](https://neetcode.io/)** | Structured roadmap and curated problems for coding interview preparation. | Coding Interviews, Algorithms, Data Structures | 
+| **[HackerRank](https://www.hackerrank.com/)** | Solve coding challenges and participate in contests. | Coding Challenges, Competitions | 
+| **[Codeforces](https://codeforces.com/)** | Competitive programming platform with regular contests. | Competitive Programming, Algorithms | 
+| **[AlgoExpert](https://www.algoexpert.io/)** | Curated list of coding interview questions and solutions. | Coding Interviews, Algorithms | 
+| **[InterviewBit](https://www.interviewbit.com/)** | Practice coding problems and prepare for technical interviews. | Coding Interviews, Algorithms, Data Structures |
+| **[HackerEarth](https://www.hackerearth.com/)** | A platform for hackathons, coding challenges, and hiring events. | Coding Challenges, Competitions | 
+| **[Codewars](https://www.codewars.com/)** | Solve coding challenges and improve problem-solving skills. | Coding Challenges, Problem-Solving |
+| **[CodeChef](https://www.codechef.com/)** | Practice coding problems and participate in coding contests. | Competitive Programming, Algorithms | 
+| **[CodinGame](https://www.codingame.com/)** | Learn to code by solving fun and interactive challenges. | Game-Based Learning, Problem-Solving | 
+| **[TopCoder](https://www.topcoder.com/)** | Participate in coding challenges and competitions. | Competitive Programming, Algorithms |
+| **[AtCoder](https://atcoder.jp/)** | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms |
+| **[SPOJ](https://www.spoj.com/)** | Solve coding problems and participate in contests. | Competitive Programming, Algorithms |
 
 ---
 
