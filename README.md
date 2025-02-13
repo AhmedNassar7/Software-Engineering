@@ -46,9 +46,9 @@ to help them and reach out to others.
   
 - [Discord Servers](#discord-servers)
 
-- [Books](books)
+- [Books](#books)
 
-- [YouTube Channels](youtube-channels)
+- [YouTube Channels](#youtube-channels)
   
 - [CV/Resume](#cvresume)
   
@@ -258,7 +258,6 @@ to help them and reach out to others.
 ## Discord Servers
 
 - [FAANG Discord Servers](#faang-discord-servers)
-
 - [CS/SWE Discord Servers](#csswe-discord-servers)
 
 ### FAANG Discord Servers
@@ -331,70 +330,78 @@ to help them and reach out to others.
 ---
 
 
-## Books
+## <a id="books"></a> 📚 Books
 
-### 📖 Algorithm and Data Structure
-- **Grokking Algorithms** – Aditya Bhargava  
+- [Algorithm and Data Structure](#algorithm-and-data-structure)
+- [System Design and Architecture](#system-design-and-architecture)
+- [Problem-Solving & Competitive Programming](#problem-solving--competitive-programming)
+- [Behavioral Interview Preparation](#behavioral-interview-preparation)
+
+### <a id="algorithm-and-data-structure"></a> 📖 Algorithm and Data Structure
+- `Grokking Algorithms` – **Aditya Bhargava**  
   *Beginner-friendly introduction with visual examples.*
-- **Introduction to Algorithms (CLRS)** – Cormen, Leiserson, Rivest, Stein  
+- `Introduction to Algorithms (CLRS)` – **Cormen, Leiserson, Rivest, Stein**  
   *Comprehensive coverage of algorithms and theoretical foundations.*
-- **Algorithms** – Robert Sedgewick, Kevin Wayne  
+- `Algorithms` – **Robert Sedgewick, Kevin Wayne**  
   *Practical guide with real-world examples.*
-- **Cracking the Coding Interview** – Gayle Laakmann McDowell  
+- `Cracking the Coding Interview` – **Gayle Laakmann McDowell**  
   *Covers technical interview questions asked at FAANG companies.*
-- **Elements of Programming Interviews** – Adnan Aziz  
+- `Elements of Programming Interviews` – **Adnan Aziz**  
   *Detailed solutions and problem explanations.*
-- **The Pragmatic Programmer** – Andrew Hunt, David Thomas  
+- `The Pragmatic Programmer` – **Andrew Hunt, David Thomas**  
   *Essential techniques for becoming an effective software engineer.*
-- **Clean Code** – Robert C. Martin  
+- `Clean Code` – **Robert C. Martin**  
   *Best practices for writing maintainable and efficient code.*
 
-### 🏗️ System Design and Architecture
-- **Designing Data-Intensive Applications** – Martin Kleppmann  
+### <a id="system-design-and-architecture"></a> 🏗️ System Design and Architecture
+- `Designing Data-Intensive Applications` – **Martin Kleppmann**  
   *Deep dive into data systems and scalable architectures.*
-- **System Design Interview – An Insider's Guide** – Alex Xu  
+- `System Design Interview` – An Insider's Guide** – Alex Xu  
   *Structured approach for system design interviews.*
-- **Site Reliability Engineering** – Google  
+- `Site Reliability Engineering` – **Google**  
   *Understanding reliability and scalability in distributed systems.*
-- **Software Architecture in Practice** – Len Bass, Paul Clements, Rick Kazman  
+- `Software Architecture in Practice` – **Len Bass, Paul Clements, Rick Kazman** 
   *A guide to designing scalable and robust software architectures.*
-- **Building Microservices** – Sam Newman  
+- `Building Microservices` – **Sam Newman**  
   *Practical insights into designing and implementing microservices.*
+- `Acing the System Design Interview` – **Frank Kane, David Herman**  
+  *Step-by-step system design strategies for interviews.*
 
-### 🧠 Problem-Solving & Competitive Programming
-- **Elements of Programming Interviews** – Adnan Aziz, Tsung-Hsien Lee, Amit Prakash  
-  *Curated problem set with detailed solutions.*
-- **Programming Pearls** – Jon Bentley  
+### <a id="problem-solving--competitive-programming"></a> 🧠 Problem-Solving & Competitive Programming
+- `Programming Pearls` – **Jon Bentley**  
   *Insights and techniques for elegant coding.*
-- **Competitive Programming** – Steven Halim, Felix Halim, Suhendry Effendy  
+- `Competitive Programming` – Steven Halim, Felix Halim, Suhendry Effendy  
   *Advanced algorithms for competitive programming.*
-- **The Algorithm Design Manual** – Steven S. Skiena  
+- `The Algorithm Design Manual` – **Steven S. Skiena**  
   *Theory combined with practical problem-solving strategies.*
-- **Art of Problem Solving** – Richard Rusczyk  
+- `Art of Problem Solving` – **Richard Rusczyk**
   *Advanced problem-solving techniques for competitive programming.*
 
-### 🎭 Behavioral Interview Preparation
-- **Decode and Conquer** – Lewis C. Lin  
+### <a id="behavioral-interview-preparation"></a> 🎭 Behavioral Interview Preparation
+- `Decode and Conquer` – **Lewis C. Lin**  
   *Guidance for behavioral and product management interviews.*
-- **How to Win Friends and Influence People** – Dale Carnegie  
+- `How to Win Friends and Influence People` – Dale Carnegie  
   *Improves communication and interpersonal skills.*
-- **Amazon Leadership Principles**  
+- `Amazon Leadership Principles` – **Amazon**
   *Understanding and demonstrating Amazon’s 16 leadership principles is crucial for behavioral interviews at Amazon.*
-- **The Effective Executive** – Peter Drucker  
+- `The Effective Executive` – **Peter Drucker** 
   *Developing leadership and decision-making skills.*
 
 
 ---
 
 
-## 🎥 YouTube Channels
+## <a id="youtube-channels"></a> 🎥 YouTube Channels
 
-### 📺 Algorithm & Data Structures
+- [Algorithms & Data Structures](#algorithms-and-data-structures)
+- [System Design](#System-Design)
+
+### <a id="algorithms-and-data-structures"></a> 📺 Algorithms & Data Structures
 - **[NeetCode](https://www.youtube.com/c/NeetCode)** – Walkthroughs of LeetCode problems.
 - **[MyCodeSchool](https://www.youtube.com/user/mycodeschool)** – Clear explanations of foundational data structures.
 - **[Tushar Roy](https://www.youtube.com/user/tusharroy2525)** – Algorithm tutorials with visual explanations.
 
-### 🏗️ System Design
+### <a id="System-Design"></a> 🏗️ System Design
 - **[Gaurav Sen](https://www.youtube.com/@gkcs)** – In-depth system design discussions.
 - **[ByteByteGo](https://www.youtube.com/c/ByteByteGo)** – Visualized backend architecture concepts.
 - **[Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL)** – System design breakdowns for platforms like YouTube and Uber.
