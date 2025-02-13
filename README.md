@@ -45,6 +45,10 @@ to help them and reach out to others.
 - [Mock Interviews](#mock-interviews)
   
 - [Discord Servers](#discord-servers)
+
+- [Books](books)
+
+- [YouTube Channels](youtube-channels)
   
 - [CV/Resume](#cvresume)
   
@@ -56,7 +60,7 @@ to help them and reach out to others.
 
 - [Job Boards](#job-boards)
 
-- [Coding Competitions](#coding-competitions)
+- [Competitive Programming](#competitive-programming)
 
 - [Volunteering](#volunteering)
 
@@ -324,6 +328,78 @@ to help them and reach out to others.
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k | #cybersecurity #career |
 
 
+---
+
+
+## Books
+
+### 📖 Algorithm and Data Structure
+- **Grokking Algorithms** – Aditya Bhargava  
+  *Beginner-friendly introduction with visual examples.*
+- **Introduction to Algorithms (CLRS)** – Cormen, Leiserson, Rivest, Stein  
+  *Comprehensive coverage of algorithms and theoretical foundations.*
+- **Algorithms** – Robert Sedgewick, Kevin Wayne  
+  *Practical guide with real-world examples.*
+- **Cracking the Coding Interview** – Gayle Laakmann McDowell  
+  *Covers technical interview questions asked at FAANG companies.*
+- **Elements of Programming Interviews** – Adnan Aziz  
+  *Detailed solutions and problem explanations.*
+- **The Pragmatic Programmer** – Andrew Hunt, David Thomas  
+  *Essential techniques for becoming an effective software engineer.*
+- **Clean Code** – Robert C. Martin  
+  *Best practices for writing maintainable and efficient code.*
+
+### 🏗️ System Design and Architecture
+- **Designing Data-Intensive Applications** – Martin Kleppmann  
+  *Deep dive into data systems and scalable architectures.*
+- **System Design Interview – An Insider's Guide** – Alex Xu  
+  *Structured approach for system design interviews.*
+- **Site Reliability Engineering** – Google  
+  *Understanding reliability and scalability in distributed systems.*
+- **Software Architecture in Practice** – Len Bass, Paul Clements, Rick Kazman  
+  *A guide to designing scalable and robust software architectures.*
+- **Building Microservices** – Sam Newman  
+  *Practical insights into designing and implementing microservices.*
+
+### 🧠 Problem-Solving & Competitive Programming
+- **Elements of Programming Interviews** – Adnan Aziz, Tsung-Hsien Lee, Amit Prakash  
+  *Curated problem set with detailed solutions.*
+- **Programming Pearls** – Jon Bentley  
+  *Insights and techniques for elegant coding.*
+- **Competitive Programming** – Steven Halim, Felix Halim, Suhendry Effendy  
+  *Advanced algorithms for competitive programming.*
+- **The Algorithm Design Manual** – Steven S. Skiena  
+  *Theory combined with practical problem-solving strategies.*
+- **Art of Problem Solving** – Richard Rusczyk  
+  *Advanced problem-solving techniques for competitive programming.*
+
+### 🎭 Behavioral Interview Preparation
+- **Decode and Conquer** – Lewis C. Lin  
+  *Guidance for behavioral and product management interviews.*
+- **How to Win Friends and Influence People** – Dale Carnegie  
+  *Improves communication and interpersonal skills.*
+- **Amazon Leadership Principles**  
+  *Understanding and demonstrating Amazon’s 16 leadership principles is crucial for behavioral interviews at Amazon.*
+- **The Effective Executive** – Peter Drucker  
+  *Developing leadership and decision-making skills.*
+
+
+---
+
+
+## 🎥 YouTube Channels
+
+### 📺 Algorithm & Data Structures
+- **[NeetCode](https://www.youtube.com/c/NeetCode)** – Walkthroughs of LeetCode problems.
+- **[MyCodeSchool](https://www.youtube.com/user/mycodeschool)** – Clear explanations of foundational data structures.
+- **[Tushar Roy](https://www.youtube.com/user/tusharroy2525)** – Algorithm tutorials with visual explanations.
+
+### 🏗️ System Design
+- **[Gaurav Sen](https://www.youtube.com/@gkcs)** – In-depth system design discussions.
+- **[ByteByteGo](https://www.youtube.com/c/ByteByteGo)** – Visualized backend architecture concepts.
+- **[Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL)** – System design breakdowns for platforms like YouTube and Uber.
+- **[System Design Primer](https://github.com/donnemartin/system-design-primer)** – A must-read for mastering system design concepts.
+
 
 ---
 
@@ -517,7 +593,7 @@ These hackathons focus on specific technologies, industries, or causes.
 
 ---
 
-## Coding Competitions
+## Competitive Programming
 
 These competitions improve your **algorithmic problem-solving skills** and compete with programmers worldwide in global contests.
 
