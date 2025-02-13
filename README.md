@@ -358,9 +358,9 @@ to help them and reach out to others.
   *Deep dive into data systems and scalable architectures.*
 - `System Design Interview` – An Insider's Guide** – Alex Xu  
   *Structured approach for system design interviews.*
-- `Site Reliability Engineering` – **Google**  
+- `Site Reliability Engineering` – **Google**   
   *Understanding reliability and scalability in distributed systems.*
-- `Software Architecture in Practice` – **Len Bass, Paul Clements, Rick Kazman** 
+- `Software Architecture in Practice` – **Len Bass, Paul Clements, Rick Kazman**   
   *A guide to designing scalable and robust software architectures.*
 - `Building Microservices` – **Sam Newman**  
   *Practical insights into designing and implementing microservices.*
@@ -374,15 +374,15 @@ to help them and reach out to others.
   *Advanced algorithms for competitive programming.*
 - `The Algorithm Design Manual` – **Steven S. Skiena**  
   *Theory combined with practical problem-solving strategies.*
-- `Art of Problem Solving` – **Richard Rusczyk**
+- `Art of Problem Solving` – **Richard Rusczyk**   
   *Advanced problem-solving techniques for competitive programming.*
 
 ### <a id="behavioral-interview-preparation"></a> 🎭 Behavioral Interview Preparation
 - `Decode and Conquer` – **Lewis C. Lin**  
   *Guidance for behavioral and product management interviews.*
-- `How to Win Friends and Influence People` – Dale Carnegie  
+- `How to Win Friends and Influence People` – **Dale Carnegie**  
   *Improves communication and interpersonal skills.*
-- `Amazon Leadership Principles` – **Amazon**
+- `Amazon Leadership Principles` – **Amazon**   
   *Understanding and demonstrating Amazon’s 16 leadership principles is crucial for behavioral interviews at Amazon.*
 - `The Effective Executive` – **Peter Drucker** 
   *Developing leadership and decision-making skills.*
