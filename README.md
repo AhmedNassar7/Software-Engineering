@@ -10,9 +10,11 @@
   <img alt="forks"
        src="https://img.shields.io/github/forks/ahmednassar7/software-engineering?color=F05032&logo=github&style=flat&logoColor=181717"
        height="22px">
+  <!--
   <img alt="last commit"
        src="https://img.shields.io/github/last-commit/ahmednassar7/software-engineering?color=F05032&logo=git&logoColor&style=flat"
        height="22px">
+  -->
   <a href="https://discord.gg/N95QU2Ww3h">
     <img alt="Discord Online Members"
          src="https://img.shields.io/discord/1209261019038228520?label=Discord&logo=discord&style=flat&logoColor=5865F2&color=5865F2"
@@ -24,11 +26,13 @@
 including **Internships**, **Hackathons**, **Events**, **Open Source**, **Mock Interviews**, **Coding Practice**,
 **FAANG & CS Discord Servers**, and more.
 
-⭐ Don't forget to **give this repo a star** and **share it with your friends**
+⭐ Don't forget to give this repo a **star** and share it with **your friends**
 to help them and reach out to others.
 
+<!--
 ✅ Keep track of new opportunities in **MAANG** in our
 [Discord](https://discord.com/invite/H4zZPMvT3P) server.
+-->
 
 🎉 Enjoy your time and best of luck :)
 
