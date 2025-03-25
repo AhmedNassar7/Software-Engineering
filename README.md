@@ -243,18 +243,18 @@ to help them and reach out to others.
 
 ## Mock Interviews
 
-| Platform | Description | Link |
-| -------- | ----------- | ---- |
-| Pramp | Practice mock interviews with peers or experts for free. | [Pramp](https://www.pramp.com/) |
-| Exponent | Mock interviews for product management, software engineering, and more. | [Exponent](https://www.tryexponent.com/) |
-| Interviewing.io | Anonymous mock interviews with engineers from top companies like FAANG. | [Interviewing.io](https://interviewing.io/) |
-| Manara | platform connecting tech talent in MENA with global opportunities, including mock interviews. | [Manara](https://manara.tech/) |
-| LeetCode Mock Interviews | Simulate real coding interviews with timed sessions and feedback. | [LeetCode Mock](https://leetcode.com/interview/) |
-| CodeSignal | Practice coding interviews with real-world questions and automated scoring. | [CodeSignal](https://codesignal.com/) |
-| InterviewBit Mock Interviews | Practice mock interviews with real-time coding environments. | [InterviewBit Mock](https://www.interviewbit.com/mock-interview/) |
-| AlgoExpert Mock Interviews | Simulate coding interviews with curated questions and solutions. | [AlgoExpert Mock](https://www.algoexpert.io/mock-interviews) |
-| Gainlo | Mock interviews with experienced professionals and detailed feedback. | [Gainlo](http://www.gainlo.co/) |
-| Meetapro | Mock interviews with engineers from FAANG and other top companies. | [Meetapro](https://www.meetapro.com/) |
+| Platform | Description |
+| -------- | ----------- |
+| [Pramp](https://www.pramp.com/) | Practice mock interviews with peers or experts for free. |
+| **[Exponent](https://www.tryexponent.com/)** | Mock interviews for product management, software engineering, and more. |
+| **[Interviewing.io](https://interviewing.io/)** | Anonymous mock interviews with engineers from top companies like FAANG. |
+| [Manara](https://manara.tech/) | platform connecting tech talent in MENA with global opportunities, including mock interviews. |
+| [LeetCode Interview](https://leetcode.com/interview/) | Simulate real coding interviews with timed sessions and feedback. |
+| [CodeSignal](https://codesignal.com/) | Practice coding interviews with real-world questions and automated scoring. |
+| [InterviewBit Mock Interviews](https://www.interviewbit.com/mock-interview/) | Practice mock interviews with real-time coding environments. |
+| [AlgoExpert Mock Interviews](https://www.algoexpert.io/mock-interviews) | Simulate coding interviews with curated questions and solutions. |
+| [Gainlo](http://www.gainlo.co/) | Mock interviews with experienced professionals and detailed feedback. |
+| [Meetapro](https://www.meetapro.com/) | Mock interviews with engineers from FAANG and other top companies. |
 
 
 ---
