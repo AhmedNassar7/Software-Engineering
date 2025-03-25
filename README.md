@@ -360,7 +360,7 @@ to help them and reach out to others.
 ### <a id="system-design-and-architecture"></a> 🏗️ System Design and Architecture
 - `Designing Data-Intensive Applications` – **Martin Kleppmann**  
   *Deep dive into data systems and scalable architectures.*
-- `System Design Interview` – An Insider's Guide** – Alex Xu  
+- `System Design Interview` – **Alex Xu**  
   *Structured approach for system design interviews.*
 - `Site Reliability Engineering` – **Google**   
   *Understanding reliability and scalability in distributed systems.*
@@ -374,7 +374,7 @@ to help them and reach out to others.
 ### <a id="problem-solving--competitive-programming"></a> 🧠 Problem-Solving & Competitive Programming
 - `Programming Pearls` – **Jon Bentley**  
   *Insights and techniques for elegant coding.*
-- `Competitive Programming` – Steven Halim, Felix Halim, Suhendry Effendy  
+- `Competitive Programming` – **Steven Halim**, **Felix Halim**, **Suhendry Effendy**  
   *Advanced algorithms for competitive programming.*
 - `The Algorithm Design Manual` – **Steven S. Skiena**  
   *Theory combined with practical problem-solving strategies.*
