@@ -26,7 +26,7 @@
 including **Internships**, **Hackathons**, **Events**, **Open Source**, **Mock Interviews**, **Coding Practice**,
 **FAANG & CS Discord Servers**, and more.
 
-⭐ Don't forget to give this repo a **star** and share it with **your friends**
+⭐ Don't forget to give the repo a **star** and share it with **your friends**
 to help them and reach out to others.
 
 <!--
@@ -34,7 +34,7 @@ to help them and reach out to others.
 [Discord](https://discord.com/invite/H4zZPMvT3P) server.
 -->
 
-🎉 Enjoy your time and best of luck :)
+🎉 Enjoy your time and best of luck : )
 
 ---
 
@@ -74,11 +74,13 @@ to help them and reach out to others.
 
 ## Internships
 
+<!--
 - [Worldwide Internships](#worldwide-internships)
 
 - [Egypt Internships](#egypt-internships)
 
 ## Worldwide Internships
+-->
 
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
@@ -125,29 +127,11 @@ to help them and reach out to others.
 | Maven Securities | Multiple Internships | Multiple Locations | [Apply](https://www.mavensecurities.com/emerging-talent/) | ✅ |
 | Vodafone | Multiple Internships | Multiple Locations | [Apply](https://opportunities.vodafone.com/search/?createNewAlert=false&q=internship&locationsearch=) | ✅ |
 
+<!--
 ## Egypt Internships
 
 | Company | Role | Location | Application | Status |
 | ------- | ---- | -------- | ------------| ------ |
-| Jumia | Java Developer Intern | Cairo, Egypt | [Apply](https://grnh.se/c1e507c2teu) | ✅ |
-| Blink22 | Software Engineer Intern | Cairo, Egypt | [Apply](https://www.linkedin.com/jobs/view/4069861583) | ✅ |
-| Siemens | Graduate Program MEA | Cairo, Egypt | [Apply](https://jobs.siemens.com/careers/job/563156121451466?microsite=siemens.com) | ✅ |
-| Unifonic | DevOps Intern | Cairo, Egypt | [Apply](https://jobs.unifonic.com/o/devops-intern-2) | ✅ |
-| Elsewedy Electric | Graduate Development Program | Cairo, Egypt | [Apply](https://elsewedyelectric.taleo.net/careersection/swd_gdp/jobdetail.ftl?job=2400007L&tz=GMT%2B03%3A00&tzname=Africa%2FCairo) | ✅ |
-| Huawei | Huawei ICT Competition | Cairo, Egypt | [Apply](https://huaweifuture.wixsite.com/i-c-the-future) | ✅ |
-| Udacity | Frontend Scholarship | Cairo, Egypt | [Apply](http://digital3fs.com/) | ✅ |
-| NTI & ITIDA | Summer Training | Cairo, Egypt | [Apply](https://www.nti.sci.eg/summertraining/) | ✅ |
-| Etisalat | Summer Internship | Cairo, Egypt | [Apply](http://www.etisalat.eg/etisalat/notification/hr-internship/#/form/internship) | ✅ |
-| Arab Bank | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=YnK1yN2xA0eHOWUZsnsKA6cKfBhZ4XlDiVeSH_PZDMdUME9QRjAwSDBYVjFXRUlUOU1KNlBHSlFCQy4u) | ✅ |
-| Attijariwafa Bank | Internship | Cairo, Egypt | [Apply](https://www.attijariwafabank.com.eg/apply-now/?apply=internship) | ✅ |
-| CyberX | Internship Program | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeqGxQNT5NU7PnL6kynuYYNL7I58QrSMVdti3bnvfUUQPqTjw/viewform) | ✅ |
-| Hassan Allam Holding | Summer internship | Cairo, Egypt | [Apply](https://lnkd.in/dW667zeM) | ✅ |
-| ZINAD | Multiple Internship Programs | Cairo, Egypt | [Apply](https://zinad.net/internship-program.html) | ✅ |
-| eSpace | Summer Internships | Cairo, Egypt | [Apply](https://espace.com.eg/blog/announcing-espace-summer-internship-2024/) | ✅ |
-| Baker Hughes | LEAD Field Engineering Internship | Cairo, Egypt | [Apply](https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR115534/University-Internships-LEAD-Field-Engineering-Egypt-2024-Opportunities?utm_source=indeed&utm_medium=phenom-feeds) | ✅ |
-| ElSewedy Engineering Industries | Summer Internship | Cairo, Egypt | [Apply](https://docs.google.com/forms/d/1RcQkhldgwvErqOAiqGSCH7v8alTWcjWM46cC-JnTKi8/viewform?edit_requested=true) | ✅ |
-| Injaz | summer internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=Nj-9Vm1SuUS7oJrOGEdQkyTiBIu6qH5NkbQX0aNbuAlUOVRIQUowQ0EzRE9MNEpPQjkyNU80VjRGUi4u) | ✅ |
-| Kayan Group | Summer Internship | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=8-30eCfRcU2_r1o06ArcWR3snQBw_aFCjaSg02msU8tUNzhFT1NVRVNHOUlTNjFQTE9KN1RRWEZYNS4u) | ✅ |
 | Amazon | Software Development Engineer Intern | Egypt | [Apply](https://www.amazon.jobs/en/jobs/2512608/2024-software-dev-engineer-intern) | 🔒 |
 | Microsoft | Summer Engineering Program | Cairo, Egypt  | [Apply](https://survey.alchemer.com/s3/7158711/Microsoft-Egypt-Development-Center-Summer-Engineering-Program-2023) | 🔒 |
 | Instabug | Backend Intern | Cairo, Egypt | [Apply](https://instabug.bamboohr.com/careers/63) | 🔒 |
@@ -156,7 +140,7 @@ to help them and reach out to others.
 | Nokia | Virtual Summer Internship | Cairo, Egypt | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6991?src=SNS-102&utm_medium=jobshare) | 🔒 |
 | Schneider Electric | NextGen Summer Internship Program | Cairo, Egypt | [Apply](https://www.se.com/ww/en/about-us/careers/job-details/nextgen-summer-internship-program-2024---neal/008WZS/) | 🔒 |
 | ↳ | Global Student Experience | Multiple Locations | [Apply](https://student-se.icims.com/jobs/71041/schneider-global-student-experience-2024/job?utm_source=advocacy&utm_medium=organic_social&utm_campaign=2024_jun_ww_hr_employer_studentexperience&campaign_objective=decision-lead_gen&mcl_name=employer&mobile=false&width=1343&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | 🔒 |
-| Jumia | Internship Global Program - Backend Developer (PHP) | Cairo, Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
+| Jumia | Internship Global Program - Backend Developer | Cairo, Egypt | [Apply](https://boards.eu.greenhouse.io/jumia/jobs/4279968101?gh_src=c2d00582teu) | 🔒 |
 | Valeo | Internship Program | Cairo, Egypt  | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScJOAHFQ0ypcc4B4SpdxIVRGQ2Arg8XPHePQ__-Da8NTp-n-A/viewform?fbclid=IwAR1nMjwGjBBEHZis8D9sFZPpXbQQ6blHuTpGNOLZaVWmMElJOhoad_G7H8Y_aem_AdLj2ie5cPCVPfIdurU4xbH9_ljkPnzN8YMAV3dn8_sMkfBt8a4dl6m81UjwGPnwkQxzgQyJf0xe9PwJyMQUwRat) | 🔒 |
 | Siemens | Software Diploma | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOUVUUUIySUFEN0FOVFA5NkU0V0I4RkVMRS4u&fbclid=IwZXh0bgNhZW0CMTEAAR12Md8tjMhVUxMMNWdg_kWghYGlXU5x1CkiFVnDUT5ryiCFqAxiNUZKV5U_aem_Ac-Qfbw4qF5mhhwnRV_tKevOJw-HPb0wjXnNquRwuxSHcd1XkYxkdRJtXe5S0mJHop1qjkUfvUBx7dVVbP9Id7ZP&linkId=300000011682491) | 🔒 |
 | ↳ | 5G Diploma Summer | Cairo, Egypt | [Apply](https://forms.office.com/pages/responsepage.aspx?id=zTuuOHmV1E-t2rQuFJXVWrnyiiKTlPZKryLP8GV-YThUOTNWWUlPWU9USVNDQkoxUVJPM0dUUTdONS4u&fbclid=IwZXh0bgNhZW0CMTEAAR0vxyVbfnEdposDSgujTeGPmek60KzU_mgWDyqOVsfbkzYioS7K-1gY2gE_aem_Z4lYqVQfKxgUMnq7QFK3Hg&linkId=300000012507521) | 🔒 |
@@ -202,7 +186,7 @@ to help them and reach out to others.
 | ↳ | Summer Internship | Mansoura, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeTAyokLwbM8E4CwPZwb0JTXl8htLR_jK7mph_YGUZhYU1Ybg/viewform) | 🔒 |
 | ↳ | Summer Internship | Menofia, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSeZ1a5QOJX6x0XWEsynsWsFKsyk6wVMJ7NJjC6fsz9WwGAYYg/viewform) | 🔒 |
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | 🔒 |
-
+-->
 
 ---
 
@@ -243,11 +227,12 @@ to help them and reach out to others.
 
 ## Mock Interviews
 
+<!-- 
 | Platform | Description |
 | -------- | ----------- |
 | [Pramp](https://www.pramp.com/) | Practice mock interviews with peers or experts for free. |
-| **[Exponent](https://www.tryexponent.com/)** | Mock interviews for product management, software engineering, and more. |
-| **[Interviewing.io](https://interviewing.io/)** | Anonymous mock interviews with engineers from top companies like FAANG. |
+| [Exponent](https://www.tryexponent.com/) | Mock interviews for product management, software engineering, and more. |
+| [Interviewing.io](https://interviewing.io/) | Anonymous mock interviews with engineers from top companies like FAANG. |
 | [Manara](https://manara.tech/) | platform connecting tech talent in MENA with global opportunities, including mock interviews. |
 | [LeetCode Interview](https://leetcode.com/interview/) | Simulate real coding interviews with timed sessions and feedback. |
 | [CodeSignal](https://codesignal.com/) | Practice coding interviews with real-world questions and automated scoring. |
@@ -255,6 +240,18 @@ to help them and reach out to others.
 | [AlgoExpert Mock Interviews](https://www.algoexpert.io/mock-interviews) | Simulate coding interviews with curated questions and solutions. |
 | [Gainlo](http://www.gainlo.co/) | Mock interviews with experienced professionals and detailed feedback. |
 | [Meetapro](https://www.meetapro.com/) | Mock interviews with engineers from FAANG and other top companies. |
+-->
+
+- [**`Pramp`**](https://www.pramp.com/)  – Practice mock interviews with peers or experts for free.
+- [**`Exponent`**](https://www.tryexponent.com/) – Mock interviews for product management, software engineering, and more.
+- [**`Interviewing.io`**](https://interviewing.io/) – Anonymous mock interviews with engineers from top companies like FAANG.
+- [**`Manara`**](https://manara.tech/) – Platform connecting tech talent in MENA with global opportunities, including mock interviews.
+- [**`LeetCode Interview`**](https://leetcode.com/interview/) – Simulate real coding interviews with timed sessions and feedback.
+- [**`CodeSignal`**](https://codesignal.com/) – Practice coding interviews with real-world questions and automated scoring.
+- [**`InterviewBit Mock Interviews`**](https://www.interviewbit.com/mock-interview/)  – Practice mock interviews with real-time coding environments.
+- [**`AlgoExpert Mock Interviews`**](https://www.algoexpert.io/mock-interviews)  – Simulate coding interviews with curated questions and solutions.
+- [**`Gainlo`**](http://www.gainlo.co/) – Mock interviews with experienced professionals and detailed feedback.
+- [**`Meetapro`**](https://www.meetapro.com/) – Mock interviews with engineers from FAANG and other top companies.
 
 
 ---
