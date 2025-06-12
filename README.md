@@ -195,6 +195,7 @@ to help them and reach out to others.
 | Program | Description | Application Link | Discord Server |
 | ------- | ----------- | ---------------- | -------------- |
 | Google Summer of Code | A global program where students contribute to open-source projects and get paid. | [Apply](https://summerofcode.withgoogle.com/) | [Google Developer Community](http://discord.gg/google-dev-community) |
+| European Summer of Code | A global program where students contribute to open-source projects and get paid. | [Apply](https://www.esoc.dev/) | - |
 | GirlScript Summer of Code | A 3-month open-source program for beginners to contribute to projects. | [Apply](https://gssoc.girlscript.tech/#) | - |
 | MLH Fellowship | A remote internship program for open-source contributions. | [Apply](https://fellowship.mlh.io/) | [MLH Community](https://discord.gg/mlh) |
 | Hacktoberfest | An annual event encouraging open-source contributions. | [Apply](https://hacktoberfest.com/) | [Hacktoberfest](https://discord.com/invite/hacktoberfest) |
