@@ -506,6 +506,7 @@ These hackathons focus on specific technologies, industries, or causes.
 | **[Meta](https://ai.meta.com/events/)** | Meta AI Events | Virtual |
 | **[Amazon](https://calendar.smartsheet.com/calendars/published/434eab0c-eb30-4965-a2bc-9bf6bd0360f6)** | EMEA Partner Enablement Calendar | Virtual |
 | **[AWS](https://aws.amazon.com/events/)** | AWS Events | Online & Offline |
+| **[Bloomberg](https://bloomberg.avature.net/events?_gl=1*4yqoz0*_gcl_au*ODkyNDg3OTA1LjE3NDk3NjUzNjM.*_ga*MzQ2ODAwMDg1LjE3NDk3NjUzNjQ.*_ga_F61D775DS4*czE3NDk4NjM0NjQkbzIkZzAkdDE3NDk4NjM1NjEkajYwJGwwJGgw)** | Bloomberg Events | Online & In-Person |
 | **[Manara](https://manara.tech/)** | Manara Events | Virtual & MENA Region |
 
 ### 🌐 Conferences  
