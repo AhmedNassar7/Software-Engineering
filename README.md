@@ -425,7 +425,7 @@ Easily design and create professional resumes with the following tools:
 | Resumake | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
 | Zety | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
 | Resume.io | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
-
+| Rejectless | Free Jake's Resume builder. No LaTeX required, ATS-safe PDF output. | [rejectless.app](https://www.rejectless.app/jakes-resume-builder) |
 
 ### 🔍 Analyzers
 Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback:
@@ -435,6 +435,7 @@ Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback
 | Resume Worded | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
 | Jobscan | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
 | VMock | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
+| Rejectless | Line-by-line resume linting for software engineers. Flags vague claims and missing metrics. | [rejectless.app](https://www.rejectless.app) |
 
 
 ### ✅ Checkers
