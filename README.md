@@ -292,7 +292,7 @@ to help them and reach out to others.
 | Salesforce | Salesforce Interns & New Grads | [Join](https://discord.gg/PWPYbrcFdY) | 1.1k |
 | Snap | Snap Interns & New Grads | [Join](https://discord.gg/FdUMeS2War) | 500 |
 | Cisco | Cisco Interns, New Grads, and FTEs (Unofficial) | [Join](https://discord.gg/ft4nmHSURq) | 500 |
-| IBM | IBM Interns | [Join](https://discord.gg/FXapAGmUyz) | 100 |
+| IBMers | IBM Interns | [Join](https://discord.gg/v8qjcecWPt) | 1.5k |
 | Citi | Citi Interns & New Grads | [Join](https://discord.gg/zTCRvnY29f) | 100 |
 | Twitter | Twitter Terns & Tweeps | [Join](https://discord.gg/cJ6bHbTWJy) | 200 |
 | TikTok | TikTok Interns & New Grads | [Join](https://discord.gg/Nc5NQGaJKf) | 100 |
