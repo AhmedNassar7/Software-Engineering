@@ -565,6 +565,7 @@ These hackathons focus on specific technologies, industries, or causes.
 | Platform | Description |
 | -------- | ----------- |
 | **[LinkedIn Jobs](https://www.linkedin.com/jobs/)** | A great platform to find internships and jobs at FAANG companies. |
+| **[Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/)** | Daily-updated Canadian student and recent-grad software engineering jobs, including internships, co-ops, new grad, junior, and entry-level roles. |
 | **[Glassdoor](https://www.glassdoor.com/)** | Job listings and company reviews, including FAANG. |
 | **[Indeed](https://www.indeed.com/)** | A popular job board for internships and full-time roles. |
 | **[Levels.fyi](https://www.levels.fyi/)** | A platform to compare salaries and levels at FAANG and other tech companies. |
