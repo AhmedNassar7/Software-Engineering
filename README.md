@@ -432,6 +432,7 @@ Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback
 
 | Tool | Description | Link |
 |------|-------------|------|
+| CVExpert ATS Health Check | Check CV structure, evidence, length, and readable text without signing up. | [cvexpert.com](https://cvexpert.com/tools/ats-health-check) |
 | Resume Worded | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
 | Jobscan | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
 | VMock | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
