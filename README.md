@@ -38,6 +38,20 @@ to help them and reach out to others.
 
 ---
 
+<p align="center">
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-AhmedNassar7">
+    <img src="assets/sponsors/apply-faster-banner.png" alt="Apply Faster with Zapply — apply to jobs in seconds" width="728">
+  </a>
+</p>
+<p align="center">
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-AhmedNassar7">
+    <img src="assets/sponsors/get-started-button.png" alt="Get Started with Zapply" width="400">
+  </a>
+</p>
+<p align="center"><sub>Sponsored by Zapply</sub></p>
+
+---
+
 ## Contents
 
 - [Internships](#internships)
