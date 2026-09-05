@@ -533,6 +533,8 @@ These hackathons focus on specific technologies, industries, or causes.
 | **[KubeCon + CloudNativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)** | The premier conference for Kubernetes and cloud-native technologies. |  
 | **[DockerCon](https://www.docker.com/dockercon/)** | A conference focused on containerization and Docker technologies. |  
 | **[GitHub Universe](https://githubuniverse.com/)** | GitHub's annual event for developers and open-source enthusiasts. |  
+| **[NSW AI Bonanza](https://nswaibonanza.com/)** | Multiday AI event in Sydney, Australia showcasing AI from around the world |  
+
 
 ### 🚀 Summits  
 | Name | Description |  
