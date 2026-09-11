@@ -554,6 +554,8 @@ These hackathons focus on specific technologies, industries, or causes.
 ## Learning Platforms
 
 ### 🚀 Career-Focused Platforms
+
+* [InterviewLegend](https://interviewlegend.com) - company-specific interview prep for software engineers, covering coding, system design, and behavioral rounds
 | Platform  | Description | 
 | --------- | ----------- |
 | **[Udacity](https://www.udacity.com/)** | Nanodegree programs with hands-on projects and career support. |
