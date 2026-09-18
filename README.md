@@ -36,7 +36,7 @@ to help them and reach out to others.
 
 🎉 Enjoy your time and best of luck : )
 
----
+<!-- ---
 
 <p align="center">
   <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-AhmedNassar7">
@@ -50,7 +50,7 @@ to help them and reach out to others.
 </p>
 <p align="center"><sub>Sponsored by Zapply</sub></p>
 
----
+--- -->
 
 ## Contents
 
@@ -83,8 +83,6 @@ to help them and reach out to others.
 - [Volunteering](#volunteering)
 
 - [Contribution](#contribution)
-
----
 
 ## Internships
 
@@ -202,8 +200,6 @@ to help them and reach out to others.
 | ↳ | Summer Internship | Qena, Egypt | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfgBGZAMXr9EjtyNExNHvMMyN_tJyhiMNpSPiG3IXWm4MwCnw/viewform) | 🔒 |
 -->
 
----
-
 ## Open-Source
 
 | Program | Description | Application Link | Discord Server |
@@ -218,7 +214,6 @@ to help them and reach out to others.
 | Outreachy | An internship program for underrepresented groups in tech to work on open-source projects. | [Apply](https://www.outreachy.org/) | - |
 
 
----
 
 ## Coding Practice
 
@@ -238,7 +233,6 @@ to help them and reach out to others.
 | **[AtCoder](https://atcoder.jp/)** | Japanese competitive programming platform with regular contests. | Competitive Programming, Algorithms |
 | **[SPOJ](https://www.spoj.com/)** | Solve coding problems and participate in contests. | Competitive Programming, Algorithms |
 
----
 
 ## Mock Interviews
 
@@ -269,7 +263,6 @@ to help them and reach out to others.
 - [**`Meetapro`**](https://www.meetapro.com/) – Mock interviews with engineers from FAANG and other top companies.
 
 
----
 
 ## Discord Servers
 
@@ -343,8 +336,6 @@ to help them and reach out to others.
 | Cybersecurity Careers | [Join](https://discord.gg/cybersecurity) | 1.5k | #cybersecurity #career |
 
 
----
-
 
 ## <a id="books"></a> 📚 Books
 
@@ -404,8 +395,6 @@ to help them and reach out to others.
   *Developing leadership and decision-making skills.*
 
 
----
-
 
 ## <a id="youtube-channels"></a> 🎥 YouTube Channels
 
@@ -423,8 +412,6 @@ to help them and reach out to others.
 - **[Tech Dummies Narendra L](https://www.youtube.com/c/TechDummiesNarendraL)** – System design breakdowns for platforms like YouTube and Uber.
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)** – A must-read for mastering system design concepts.
 
-
----
 
 ## CV/Resume
 
@@ -459,7 +446,6 @@ Polish your resume with these essential tools:
 | Grammarly | Fix grammar, spelling, and tone for a flawless resume. | [grammarly.com](https://www.grammarly.com/) |
 
 
----
 
 ## Hackathons
 
@@ -507,8 +493,6 @@ These hackathons focus on specific technologies, industries, or causes.
 
 
 
----
-
 
 
 ## Events
@@ -548,8 +532,6 @@ These hackathons focus on specific technologies, industries, or causes.
 | **[AWS Workshops](https://workshops.aws/)** | Hands-on workshops for learning and building with AWS services. |  
 
 
----
-
 
 ## Learning Platforms
 
@@ -571,8 +553,6 @@ These hackathons focus on specific technologies, industries, or causes.
 | **[FreeCodeCamp](https://www.freecodecamp.org/)** | Free coding lessons and open-source projects. |
 | **[Codecademy](https://www.codecademy.com/)** | Interactive coding lessons and guided projects. | 
 
-
----
 
 ## Job Boards
 
@@ -615,8 +595,6 @@ These hackathons focus on specific technologies, industries, or causes.
 -->
 
 
----
-
 ## Competitive Programming
 
 These competitions improve your **algorithmic problem-solving skills** and compete with programmers worldwide in global contests.
@@ -634,9 +612,6 @@ These competitions improve your **algorithmic problem-solving skills** and compe
 
 
 
----
-
-
 
 ## Volunteering
 
@@ -651,8 +626,6 @@ These competitions improve your **algorithmic problem-solving skills** and compe
 | Ministry Of Youth And Sports | YLY | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSd_i_XE90kiUCdwzsYjlN9DYUOlYAhM1_TRmAMMZOb-1_gNmg/viewform) | 🔒 |
 | YLE | | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScX6zCY_I9mQbYMWHnq1h16r4lw2smvqWkS3skgQ-c4A8ntWg/viewform) | 🔒 |
 
-
----
 
 ## Contribution
 
