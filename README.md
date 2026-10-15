@@ -435,6 +435,7 @@ Optimize your resume for ATS (Applicant Tracking Systems) and recruiter feedback
 |------|-------------|------|
 | Resume Worded | Analyze and improve your resume for better impact. | [resumeworded.com](https://resumeworded.com/) |
 | Jobscan | Tailor your resume for ATS compatibility. | [jobscan.co](https://www.jobscan.co/) |
+| ResumeAI | Free ATS checker + open State of ATS 2026 dataset (738 employers, 704 portal-verified). | [withresumeai.com](https://withresumeai.com/) |
 | VMock | Real-time feedback on content, formatting, and overall impact. | [vmock.com](https://www.vmock.com/) |
 
 
