@@ -420,6 +420,7 @@ Easily design and create professional resumes with the following tools:
 
 | Tool | Description | Link |
 |------|-------------|------|
+| JobEmerge | Markdown resume editor with 19-language translation and job-fit analysis. | [jobemerge.work](https://www.jobemerge.work) |
 | Overleaf | Polished resumes using LaTeX templates. | [Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv) |
 | Resume.lol | Straightforward, clean, and intuitive resume builder. | [resume.lol](https://www.resume.lol/) |
 | FlowCV | Modern, design-focused resume builder. | [flowcv.com](https://flowcv.com/) |
