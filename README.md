@@ -426,6 +426,7 @@ Easily design and create professional resumes with the following tools:
 | Resumake | Customizable templates for quick resume creation. | [resumake.io](https://resumake.io/) |
 | Zety | Expert tips and modern templates to craft standout resumes. | [zety.com](https://zety.com/) |
 | Resume.io | Simple, professional, and customizable designs. | [resume.io](https://resume.io/) |
+| ResumeInvited | Browser-based builder with local drafts, live preview, and free PDF or Word exports without sign-up. | [resumeinvited.com](https://resumeinvited.com/) |
 
 
 ### 🔍 Analyzers
